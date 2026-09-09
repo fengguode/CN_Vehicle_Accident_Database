@@ -12,15 +12,6 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Verify updater repository secret is configured
-        env:
-          UPDATER_REPO_TOKEN: ${{ secrets.UPDATER_REPO_TOKEN }}
-        run: |
-          if [ -z "$UPDATER_REPO_TOKEN" ]; then
-            echo "Missing required Actions secret: UPDATER_REPO_TOKEN"
-            echo "Add a fine-grained token with read-only Contents access to fengguode/CN_Vehicle_Accident_Updater."
-            exit 1
-          fi
       - name: Check out public database
         uses: actions/checkout@v4
       - name: Check out updater methods
@@ -28,7 +19,6 @@ jobs:
         with:
           repository: fengguode/CN_Vehicle_Accident_Updater
           path: updater
-          token: ${{ secrets.UPDATER_REPO_TOKEN }}
           persist-credentials: false
       - name: Set up Node.js
         uses: actions/setup-node@v4
