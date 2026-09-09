@@ -8,6 +8,7 @@
     "title": {"type": "string"}, "content": {"type": "string"},
     "source_url": {"type": ["string", "null"], "format": "uri"},
     "discovery_url": {"type": ["string", "null"], "format": "uri"},
+    "publisher_name": {"type": ["string", "null"]},
     "source_name": {"type": "string"}, "platform": {"type": ["string", "null"]},
     "verification_status": {"type": "string", "enum": ["unverified", "human_verified", "disputed"]},
     "relevance_score": {"type": "number", "minimum": 0, "maximum": 1},
