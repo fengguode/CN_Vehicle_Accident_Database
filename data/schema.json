@@ -7,10 +7,13 @@
     "id": {"type": "integer"}, "fingerprint": {"type": "string"},
     "title": {"type": "string"}, "content": {"type": "string"},
     "source_url": {"type": ["string", "null"], "format": "uri"},
+    "discovery_url": {"type": ["string", "null"], "format": "uri"},
     "source_name": {"type": "string"}, "platform": {"type": ["string", "null"]},
     "verification_status": {"type": "string", "enum": ["unverified", "human_verified", "disputed"]},
     "relevance_score": {"type": "number", "minimum": 0, "maximum": 1},
-    "labels": {"type": "object"}
+    "labels": {"type": "object"},
+    "english_description": {"type": ["string", "null"]},
+    "english_description_source": {"type": ["string", "null"]}
   },
   "additionalProperties": true
 }

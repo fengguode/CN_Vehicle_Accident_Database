@@ -28,6 +28,7 @@ jobs:
         working-directory: updater
         run: |
           npm run hydrate -- ../data/reports.json
+          npm run backfill
           npm run collect
           npm run publish -- ..
       - name: Commit and push generated publication
