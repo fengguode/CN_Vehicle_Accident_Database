@@ -1443,9 +1443,9 @@
   {
     "id": 174,
     "fingerprint": "504f8b247cc6162d5d501785e41d72f33b4575fa9769f8d53c55c2e1761786e1",
-    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nS2tzSHFpQmNJS2IwVlNyVVR3R1l0bkF0T2E1NVVVUWJuNGptTFBJR3B3Wk1qOGRjY1RFUVhEQU9TLWF4dUJGZU1vRFljd09RNUJVSThNcGJDLWc?oc=5",
+    "source_url": "https://chejiahao.autohome.com.cn/info/26409722",
     "discovery_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nS2tzSHFpQmNJS2IwVlNyVVR3R1l0bkF0T2E1NVVVUWJuNGptTFBJR3B3Wk1qOGRjY1RFUVhEQU9TLWF4dUJGZU1vRFljd09RNUJVSThNcGJDLWc?oc=5",
-    "publisher_name": null,
+    "publisher_name": "chejiahao.autohome.com.cn",
     "source_name": "Google News: assisted-driving accident discovery",
     "platform": "news_index",
     "title": "智驾“裸奔”时代将结束,最高法再给行业套“紧箍咒” - 汽车之家",
@@ -1475,7 +1475,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-07. Original publisher URL unresolved; discovery reference retained.",
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-07. Source: chejiahao.autohome.com.cn.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1884,6 +1884,49 @@
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-05. Source: finance.sina.com.cn.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 205,
+    "fingerprint": "b7d564d35901f11cfc9b19961f811c2b7d21bfae9aecb8f6bd1ff85c7918906d",
+    "source_url": "http://www.womenofchina.com/wiki/rObd0ZU1.jsp",
+    "discovery_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BTTIzbGQ3RHQ0bi1pclZxYmlnQ2E4ODZPa1JlQjZXUmZwOWNYZUFJUExqQkRQWWRUYlBhTW5aWHNXNjU1MERoZUtnWE0zbDVyNVp5V0k5Nmw?oc=5",
+    "publisher_name": "womenofchina.com",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "智驾高速事故频发,yobo体育app注册入口记录惊险瞬间,现存自动驾驶相关企业超8200家 - womenofchina.com",
+    "content": "智驾高速事故频发,yobo体育app注册入口记录惊险瞬间,现存自动驾驶相关企业超8200家 &nbsp;&nbsp; womenofchina.com",
+    "author": null,
+    "published_at": "2026-09-05T00:55:53.000Z",
+    "collected_at": "2026-09-09T23:53:28.057Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "highway",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [
+        "highway"
+      ],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "高速",
+        "自动驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as an unclassified cause. The driver-assistance state is unknown. Source: womenofchina.com.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2977,9 +3020,9 @@
   {
     "id": 136,
     "fingerprint": "035a8c23365849e0402fc4160ea431e4bdd4f1b3d17042c0c36212164c5fef8d",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1A3SFJmMzNXZzBxbHBWa2JIeHVobzMzcGwwS2xEVDRKbGM1TTlXZUxBQnduVzFhMmhxN2JHQWVTUmRGZVE1c041UG1fSzFZSmdRZlg0eTVOdWpseDdWQnFpSVZjN29Ib04zaDlIYTVCMFFhNzRMQjZNZzV4al93R0RncDM?oc=5",
+    "source_url": "https://cj.sina.cn/articles/view/7880069024/1d5b04fa006803eqgc?froms",
     "discovery_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM1A3SFJmMzNXZzBxbHBWa2JIeHVobzMzcGwwS2xEVDRKbGM1TTlXZUxBQnduVzFhMmhxN2JHQWVTUmRGZVE1c041UG1fSzFZSmdRZlg0eTVOdWpseDdWQnFpSVZjN29Ib04zaDlIYTVCMFFhNzRMQjZNZzV4al93R0RncDM?oc=5",
-    "publisher_name": null,
+    "publisher_name": "cj.sina.cn",
     "source_name": "Google News: smart-driving collision discovery",
     "platform": "news_index",
     "title": "比亚迪元UP 2026款智驾值不值?1.2万选装+事故全赔,3个维度说清+FAQ - 新浪网",
@@ -3013,15 +3056,15 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-24. Original publisher URL unresolved; discovery reference retained.",
+    "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-24. Source: cj.sina.cn.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
     "id": 160,
     "fingerprint": "71e93760a9178c5ae1429a6f555afd9813c39275d216cbb2600c4a69c17edc2e",
-    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMSlVRTi1wX01RSEh1S1BLZHhQbENyM29LSEpPUF9VNkJrTlNkTTdKQmpoM3NYZTZ4N1BaR2lhTzBNMmhvTFJGOWlMWFo5NUVRU2VINGtXSGV4M2NLNkM2Y0N5VEd4anV0aGN1cDFwT2poUGUyNTRDWE1KcFJHUQ?oc=5",
+    "source_url": "https://cj.sina.cn/articles/view/7879923803/1d5ae185b06801jube?froms",
     "discovery_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMSlVRTi1wX01RSEh1S1BLZHhQbENyM29LSEpPUF9VNkJrTlNkTTdKQmpoM3NYZTZ4N1BaR2lhTzBNMmhvTFJGOWlMWFo5NUVRU2VINGtXSGV4M2NLNkM2Y0N5VEd4anV0aGN1cDFwT2poUGUyNTRDWE1KcFJHUQ?oc=5",
-    "publisher_name": null,
+    "publisher_name": "cj.sina.cn",
     "source_name": "Google News: smart-driving collision discovery",
     "platform": "news_index",
     "title": "零跑D19智驾测试:冰雪120km/h双轮爆胎不失控,这车安全到底有多强?+FAQ - 新浪网",
@@ -3055,7 +3098,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible mechanical or tire issue. The driver-assistance state is unknown. Report date: 2026-08-23. Original publisher URL unresolved; discovery reference retained.",
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible mechanical or tire issue. The driver-assistance state is unknown. Report date: 2026-08-23. Source: cj.sina.cn.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3153,9 +3196,9 @@
   {
     "id": 115,
     "fingerprint": "ccead0e2b8f39522d2f4c56e1e96d19d1c9160fc2704f23c59050f15960b259b",
-    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEt2Q3dEN2VTUmlMbjA5amxsaFB5NmJra2ZzZXpSWkxsbXFoYlFKQ1JOSW5NQW44bXp1ZmdTTFRkX1czd01vRmZDUUlQV3ZrbFluZnhFVDdYWGtVRUV3dXNoaVpTR0E0WTVlUDdVS1hMV2NFNklrT1ZnZTNlRzdFVG5TMnM?oc=5",
+    "source_url": "https://cj.sina.cn/articles/view/7879996681/1d5af350906801jfls?froms",
     "discovery_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEt2Q3dEN2VTUmlMbjA5amxsaFB5NmJra2ZzZXpSWkxsbXFoYlFKQ1JOSW5NQW44bXp1ZmdTTFRkX1czd01vRmZDUUlQV3ZrbFluZnhFVDdYWGtVRUV3dXNoaVpTR0E0WTVlUDdVS1hMV2NFNklrT1ZnZTNlRzdFVG5TMnM?oc=5",
-    "publisher_name": null,
+    "publisher_name": "cj.sina.cn",
     "source_name": "Google News: smart-driving collision discovery",
     "platform": "news_index",
     "title": "小米YU7撞人事故深度解析:智驾边界与安全设计谁该背锅?+FAQ - 新浪网",
@@ -3185,7 +3228,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-22. Original publisher URL unresolved; discovery reference retained.",
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-22. Source: cj.sina.cn.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3326,9 +3369,9 @@
   {
     "id": 143,
     "fingerprint": "71e2ab059cd647547f02d86cdb7ec31d5a11991ad94dc57b98448c1f10987a74",
-    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ucnFRMzFvc0ZBVlctZkFMWG5Kc0xoSV91RmcxVGJqUFVPdDF4SGtLN1JZOWhobXR1eUdfSlNNazlJZTBYekUzQ3RNMUF2WFYxVGFQVldB?oc=5",
+    "source_url": "https://news.qq.com/rain/a/20260819V0C2SC00",
     "discovery_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ucnFRMzFvc0ZBVlctZkFMWG5Kc0xoSV91RmcxVGJqUFVPdDF4SGtLN1JZOWhobXR1eUdfSlNNazlJZTBYekUzQ3RNMUF2WFYxVGFQVldB?oc=5",
-    "publisher_name": null,
+    "publisher_name": "news.qq.com",
     "source_name": "Google News: smart-driving collision discovery",
     "platform": "news_index",
     "title": "智驾不等于自动驾驶!杭瑞高速事故再敲警钟 - qq.com",
@@ -3363,7 +3406,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-19. Original publisher URL unresolved; discovery reference retained.",
+    "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-19. Source: news.qq.com.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
