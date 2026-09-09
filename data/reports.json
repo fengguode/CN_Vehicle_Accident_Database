@@ -1,5 +1,730 @@
 [
   {
+    "id": 184,
+    "fingerprint": "ebfe45b8537e480bb0a06c0a3418b90e1c77cc69f512b0e751f668697afaa294",
+    "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85OUNZUUtkV2c4MjF0U2c2V1hPWW5HQXJrQXFzbk5UODE3Z29XMHN2Wi03Y25UU2FVeUZLRURZX0k1OXVIVEJFa29R?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "忆往昔经典:辉煌开户首页如何启示华为乾崑智驾安全新纪元 - 体坛加",
+    "content": "忆往昔经典:辉煌开户首页如何启示华为乾崑智驾安全新纪元 &nbsp;&nbsp; 体坛加",
+    "author": null,
+    "published_at": "2026-09-09T19:14:11.000Z",
+    "collected_at": "2026-09-09T23:16:31.909Z",
+    "event_date": null,
+    "brand": "Huawei ecosystem",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.65,
+    "labels": {
+      "brandMatches": [
+        "Huawei ecosystem"
+      ],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "乾崑"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 186,
+    "fingerprint": "165b9c6965ce6c0762d0c974669b3165cafff92e77bfb2ece5f5461518b0daa1",
+    "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83b1N1QkcyV3AtcGdnbVgwSXQ0ajAwMW1XUF9jMkFqejU3UHZ4UjRLempGOUZzY05QZzBmV2d6bW5FR3Q3NjNJNzNUd1MxWTNjZkZxTTJ1cw?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "突破想象:W体育在线网址助力华为乾崑智驾CAS 4.0全球首发 - 体坛加",
+    "content": "突破想象:W体育在线网址助力华为乾崑智驾CAS 4.0全球首发 &nbsp;&nbsp; 体坛加",
+    "author": null,
+    "published_at": "2026-09-09T15:00:46.000Z",
+    "collected_at": "2026-09-09T23:16:31.913Z",
+    "event_date": null,
+    "brand": "Huawei ecosystem",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.65,
+    "labels": {
+      "brandMatches": [
+        "Huawei ecosystem"
+      ],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "乾崑"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 163,
+    "fingerprint": "a84680d710edadbdc96052a0b6ff344364b385ec707797156b36f8459e7c1978",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KVE9Da2RZTnBEQVk0VmQ0aWYzM19CSGprYTJtV1E4Z0ZUMzJ3cWh3Ym02VW0xQ3g5dXRUa0ZKUC1oaktSeV94ejVBTHlMd0xwTEN3RG9kRzBlbHQ4Z1hJdWJ6bDhabU1FVE5KZlJR?oc=5",
+    "source_name": "Google News: assisted-driving accident discovery",
+    "platform": "news_index",
+    "title": "为改进辅助驾驶,宝马收集车主真实道路事故影像 - 新浪汽车",
+    "content": "为改进辅助驾驶,宝马收集车主真实道路事故影像 &nbsp;&nbsp; 新浪汽车",
+    "author": null,
+    "published_at": "2026-09-09T09:44:22.000Z",
+    "collected_at": "2026-09-09T23:16:31.141Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "other_or_unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [
+        "other_or_unknown"
+      ],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "道路",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 165,
+    "fingerprint": "76099b6f61fad58bc4947482a56cb334cf47abdfafff85c39e2cbcf5122df36a",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGSDB5a3F1Z3kwUkZnQjhPTnFiQ0NqREVfOWxZYjFnZmZ1cjZYZEFxNUd2NW91RFI0SmFDTkNISFo2ZE91dUxpWmNXWlVkV19OQmpLWmRpUUx0TFVJVTZHX0VyTVdUZlY2YWhJTHU5QmF0eFNmZFRkWg?oc=5",
+    "source_name": "Google News: assisted-driving accident discovery",
+    "platform": "news_index",
+    "title": "为改进辅助驾驶,宝马收集车主真实道路事故影像 - finance.sina.com.cn",
+    "content": "为改进辅助驾驶,宝马收集车主真实道路事故影像 &nbsp;&nbsp; finance.sina.com.cn",
+    "author": null,
+    "published_at": "2026-09-09T08:50:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.148Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "other_or_unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [
+        "other_or_unknown"
+      ],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "道路",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 170,
+    "fingerprint": "343e0c4b899ae557b92988d44fd4ee5bff3b0451a9d07bc743a1ffb84a0d478b",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45OWk4aXZfVjFlNUJYbVM2VnFNTFpYTkI3eEFPY1JsUm1CaXg2dENuSmZNcjRqSEh0X0JENWpobGhlaTVaaTBQeFVzWUsyTUVFWkNrcWFCQlJ3QjUyaExaM0lvcTdjcV8wRE1LOHdSSEgybDdveUNJUFpxcnR1Rms?oc=5",
+    "source_name": "Google News: assisted-driving accident discovery",
+    "platform": "news_index",
+    "title": "女子轻信辅助驾驶放任不管 高速上直接追尾变道大巴车 - finance.sina.com.cn",
+    "content": "女子轻信辅助驾驶放任不管 高速上直接追尾变道大巴车 &nbsp;&nbsp; finance.sina.com.cn",
+    "author": null,
+    "published_at": "2026-09-09T07:10:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.165Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "highway",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [
+        "highway"
+      ],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "追尾",
+        "高速",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 167,
+    "fingerprint": "f4db6b9be3d441a252fb63352283c760f9bb27d41e573a0ebfabade8394d12e3",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YbWw4SUI0UkFRNkJKQ2tyQ013WXpnSWlZbE5JbVRqbHlKTEtpYWZWMUR4UnFFc1FjS2NiRXl4SXFEX2ZhNEYzQ1pvc2NNNzdhMUVVLVdEdFg?oc=5",
+    "source_name": "Google News: assisted-driving accident discovery",
+    "platform": "news_index",
+    "title": "女子轻信辅助驾驶放任不管 高速上直接追尾变道大巴车 - 驱动之家",
+    "content": "女子轻信辅助驾驶放任不管 高速上直接追尾变道大巴车 &nbsp;&nbsp; 驱动之家",
+    "author": null,
+    "published_at": "2026-09-09T07:10:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.153Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "highway",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [
+        "highway"
+      ],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "追尾",
+        "高速",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 192,
+    "fingerprint": "7edf8b792ad67c7fa1842e87d85fc7f558d9071ecca48e1a26997b7267baae46",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BU3M1a0k4LWF6ZEdyelktSEZHaFByNFBXLWVyeXZab2k5cXpqenVPdjJBclAzcUtJRDUxUjcwOERqTGRZZjBqVWN1RVlhbUNHaEx5aGM0c1dqR1E?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "【视频】最高法发布人工智能纠纷审理意见明确智驾事故责任裁判标准 - 汽车之家",
+    "content": "【视频】最高法发布人工智能纠纷审理意见明确智驾事故责任裁判标准 &nbsp;&nbsp; 汽车之家",
+    "author": null,
+    "published_at": "2026-09-09T05:45:39.000Z",
+    "collected_at": "2026-09-09T23:16:31.926Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": []
+    },
+    "review_notes": null
+  },
+  {
+    "id": 197,
+    "fingerprint": "89184f2ac3d5fa80b42c153761509bd2d56fe4f11071e567bd52119293535be1",
+    "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yZXpyNmp3bGdKemh2ejN2ZnB4dFRTbmpzbEVLbVdxUlRRS1FaOXB2UDk2WG5NdHdONFBnYzFrRXhIQjVYQS1sbjg3V3NmZlZDSTRXYW9aSThDc2F2ZVRFNg?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "sdy苹果版更新数据显示:智驾高速“睡驾”事态频发,现存自动驾驶相关企业超8200家 - 体坛加",
+    "content": "sdy苹果版更新数据显示:智驾高速“睡驾”事态频发,现存自动驾驶相关企业超8200家 &nbsp;&nbsp; 体坛加",
+    "author": null,
+    "published_at": "2026-09-09T04:37:37.000Z",
+    "collected_at": "2026-09-09T23:16:31.953Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "highway",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.55,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [
+        "highway"
+      ],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "高速",
+        "自动驾驶"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 187,
+    "fingerprint": "29f196987a7017c1f8231700b9fcbae496e2cd917a02a800b90d328c793b7d08",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PYlo3VjhCaXFwZzI5a0k2eE5sblNhMVNrRVhIYXd2ekNhUzU1elZiT29JcGU3dzFuZ2JiQS02Z2tCcTVZcjZwVGh3Z0E4QXgxZUc4cExIcmdJMXlHUVV6ZmJ2Q3VnbU9wVHV4QjBxREQ0YmJ6OUlVX2RvWFVUYnc?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "智驾“裸奔”时代将结束,最高法再给行业套“紧箍咒” - 新浪网",
+    "content": "智驾“裸奔”时代将结束,最高法再给行业套“紧箍咒” &nbsp;&nbsp; 新浪网",
+    "author": null,
+    "published_at": "2026-09-09T04:11:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.918Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.55,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": []
+    },
+    "review_notes": null
+  },
+  {
+    "id": 185,
+    "fingerprint": "c7aa3f6e20ccadde1e46907919020fc4ea841bf09b4ef0fa761aa3d277638b84",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcHotNmNtVTl4YmpkRFliZ3pDd04tRkFYLU9Wc3o0V1JRVGtMaklpUmw2VnpiNHhaOXFqUTB1SDg5SDdibVRLZHBobGdRUjlubHN4RExmdGlBSFpFeDNkMHJuTGkzb09OREZ4ZTE3WkJSLXpFd1BvRXJqWWNrOU9ybDlqanpMLVB2?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "智驾普及率70%,但大多只是装饰品,将车主逼成专家让人怕 - Sohu",
+    "content": "智驾普及率70%,但大多只是装饰品,将车主逼成专家让人怕 &nbsp;&nbsp; Sohu",
+    "author": null,
+    "published_at": "2026-09-09T01:14:41.000Z",
+    "collected_at": "2026-09-09T23:16:31.912Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.55,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": []
+    },
+    "review_notes": null
+  },
+  {
+    "id": 166,
+    "fingerprint": "744ba492f1375df0cd951c9846bee88d83d91c95e1667a161d1bf8fd452c7380",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Jb3BPQWd5ZmlTWkpSLTFjNjF1dThmTndla2x5ZmRUTXZCZU5FNFJjYVNoOElIY2NSYkhhMF83bDhyVS1ORXBGLThIQlNvUER2SUh3QUhDZVU5elE?oc=5",
+    "source_name": "Google News: assisted-driving accident discovery",
+    "platform": "news_index",
+    "title": "开着辅助驾驶出了事故,怎么证明是车的问题?最高法刚明确了 - 汽车之家",
+    "content": "开着辅助驾驶出了事故,怎么证明是车的问题?最高法刚明确了 &nbsp;&nbsp; 汽车之家",
+    "author": null,
+    "published_at": "2026-09-09T00:03:42.000Z",
+    "collected_at": "2026-09-09T23:16:31.150Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 189,
+    "fingerprint": "dfa4153b78d18e0a20b87f67cd5cfc854f37a8830cc7cbde3638c2473b5e120c",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Xdy1fQy1rSTJ1SHE3TFM3N0JzVGFJUmdDTmgyT1gyRUFvSnJhZXk2T2EtdDJScFo1VVNWWVFDZ092SFlYMzZyelBuM2pvekFJeF9MNk05ZFpKX1VhY2c?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "安全暖心:华为乾崑智驾ADS 4升级CAS 4.0,信立国际登录播出特别专题 - 体坛加",
+    "content": "安全暖心:华为乾崑智驾ADS 4升级CAS 4.0,信立国际登录播出特别专题 &nbsp;&nbsp; 体坛加",
+    "author": null,
+    "published_at": "2026-09-08T19:49:54.000Z",
+    "collected_at": "2026-09-09T23:16:31.921Z",
+    "event_date": null,
+    "brand": "Huawei ecosystem",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.65,
+    "labels": {
+      "brandMatches": [
+        "Huawei ecosystem"
+      ],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "乾崑"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 188,
+    "fingerprint": "5cefe8461edf336c0c576d95522f68933b3d7bfa62648b738f8b48e7dabedc93",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aTUpieTlOY0RfQ0Rzbl9wSmJHZzhkdllRVmhZRTNkMzZyTlNXcnpoSTJyTkFUOFdhMFBHZVFlN05RRzVIdUhIUHFpdXZMUQ?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "288880登陆手机版数据显示:智驾高速“睡驾”事态频发,现存自动驾驶相关企业超8200家-体坛网_体坛+ - 体坛加",
+    "content": "288880登陆手机版数据显示:智驾高速“睡驾”事态频发,现存自动驾驶相关企业超8200家-体坛网_体坛+ &nbsp;&nbsp; 体坛加",
+    "author": null,
+    "published_at": "2026-09-08T19:09:33.000Z",
+    "collected_at": "2026-09-09T23:16:31.920Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "highway",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.55,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [
+        "highway"
+      ],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "高速",
+        "自动驾驶"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 194,
+    "fingerprint": "00fb6adccca34cc8466b6d92e2dcd5e984eaecc9bc803b574003a2fad34dd0e4",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FaGVLLVBMRzlLUm84UTVDNzFIZi1RNUJUYnFpTktsTGo0ejkzb1plRlpMVE5yTDB6LWJnSmtBMHRneHZLY1NwMjdqaHkxZUNOVzFNRWdKYUZCbWRMVHc?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "轿车追尾致3死:事发前司机激活智驾,并双手脱离方向盘 - 汽车之家",
+    "content": "轿车追尾致3死:事发前司机激活智驾,并双手脱离方向盘 &nbsp;&nbsp; 汽车之家",
+    "author": null,
+    "published_at": "2026-09-08T14:42:52.000Z",
+    "collected_at": "2026-09-09T23:16:31.934Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "lane_or_steering",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "lane_or_steering",
+        "speed_or_distance"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "方向盘"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 173,
+    "fingerprint": "e37ab6c13649214c1b7bc788c45ac8c90878091ef5103d5b9cb6a4a7488003ca",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYTJNSWFhRFo2QzhlSDlTWGhfRDJvZFJyYTlEN0NBbEotd2stUTFZYThMWG83THVtdnZCRXRTSzJxa2JEVENZV2phYm40Q1VLTUFNeEh0bmx5WHJTM3lOdEQ4eFBWRzl6ZlQzRmNVWjZrOGtNaVcwMXBMcjEwWnFqZTlJVWo?oc=5",
+    "source_name": "Google News: assisted-driving accident discovery",
+    "platform": "news_index",
+    "title": "读懂最高法辅助驾驶新规 :这些情况下,辅助驾驶出事或要担刑责 - finance.sina.com.cn",
+    "content": "读懂最高法辅助驾驶新规 :这些情况下,辅助驾驶出事或要担刑责 &nbsp;&nbsp; finance.sina.com.cn",
+    "author": null,
+    "published_at": "2026-09-08T14:11:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.174Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.55,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 193,
+    "fingerprint": "246052ec4c4448a2c46d26af4a6f277b58da716c31a5a79ef1aed12dabcc9df9",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnSzRLelQzUVVmZkViOEFXZkFOSDluZWV4UUQwQXlIMmtPRjVub21pektqM0Q0Q2pEbDAyR2NEVXgzTDlPeE9tVWhlY054NmRvVmQ3QjZSTElZYlU?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "L2、L3智驾出事谁担责?别再被“零接管”宣传误导 - 汽车之家",
+    "content": "L2、L3智驾出事谁担责?别再被“零接管”宣传误导 &nbsp;&nbsp; 汽车之家",
+    "author": null,
+    "published_at": "2026-09-08T13:39:30.000Z",
+    "collected_at": "2026-09-09T23:16:31.932Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "handover_failure",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.55,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "handover_failure"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "接管"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 176,
+    "fingerprint": "423836caf54a36bfb5153fc43b070303a262386e36ddc61471f02319c1c48d2a",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb1JXRUNBMUhMNDF4ejM5T2JNR2k0VVYwMEs5UFhmWmR2eVJNSnFTNWFxa280NmhycjdfaERKZkdvVE9MS2NaZF84b1MxNGJrT0NIV2ZTU3BrYlhRVUlwRHhxbDkwTGtRREs5b2ZPOURyWUZLeVZ5Z2lTR2hjdWNyTU9sUnlqLWN0?oc=5",
+    "source_name": "Google News: assisted-driving accident discovery",
+    "platform": "news_index",
+    "title": "特斯拉在事故中辗过停车标志致人死亡,记录确认自动驾驶已开启 - Sohu",
+    "content": "特斯拉在事故中辗过停车标志致人死亡,记录确认自动驾驶已开启 &nbsp;&nbsp; Sohu",
+    "author": null,
+    "published_at": "2026-09-08T12:11:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.181Z",
+    "event_date": null,
+    "brand": "Tesla",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "fatal",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "Tesla"
+      ],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [
+        "fatal"
+      ],
+      "matchedKeywords": [
+        "特斯拉",
+        "死亡",
+        "自动驾驶"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 195,
+    "fingerprint": "e3da481225abf1d4dfbf0d3c1f51a0edb44260a686b6316692bbedd6f696028a",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4Q2NBV2s5RWFpVXd1UFBocmxSV0NmR3Zmcnd5UUEteVhEMmE1S3V3NUJndS1LeG56SXlESUhJS3BxdGRjRUIySzRZbzRObllBQXBqMw?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "B站智驾榜缺小米事故视频 - 中关村在线",
+    "content": "B站智驾榜缺小米事故视频 &nbsp;&nbsp; 中关村在线",
+    "author": null,
+    "published_at": "2026-09-08T11:56:13.000Z",
+    "collected_at": "2026-09-09T23:16:31.937Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": []
+    },
+    "review_notes": null
+  },
+  {
+    "id": 183,
+    "fingerprint": "0dd787617b319ec1f50904bf8244ca2e83b3017a9951f38d87abc82e039e3166",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IUXdlMVpkbUhRUFJDdzY2aTlWOUxJbmN4SVJ3MXpsZ2RXQkxLZmpqYTN1eVBVMV9XVUU0V1U3LV9vYUZQeFdzd202NkpwVjVuTzNHTmx6cTdwbjZSTHFHR0RUc2g4YmVXQmhYWWdBY0ZRN1NPeURWOXRR?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "修车超10万元!小鹏X9“智驾系统”自主变道,高速上遭追尾!谁之过 - 新浪新闻_手机新浪网",
+    "content": "修车超10万元!小鹏X9“智驾系统”自主变道,高速上遭追尾!谁之过 &nbsp;&nbsp; 新浪新闻_手机新浪网",
+    "author": null,
+    "published_at": "2026-09-08T11:48:37.000Z",
+    "collected_at": "2026-09-09T23:16:31.710Z",
+    "event_date": null,
+    "brand": "XPeng",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "highway",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "XPeng"
+      ],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [
+        "highway"
+      ],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "小鹏",
+        "追尾",
+        "高速"
+      ]
+    },
+    "review_notes": null
+  },
+  {
     "id": 87,
     "fingerprint": "785ffaa992cda3828c673e86a92575e036569b79d73a0b13596fe6097362ebfd",
     "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LekhiR2tBLUpGYXBzRVQ3anhuTjVCUmJxUDVQQVF1MUU4Z3B5bTJaM3dQQTZhUVBiUmF4VlhKNEpzdzV4T0FxZ001eUQ0cHl2YUdUQy1LdUQwT3JYcVE?oc=5",
@@ -80,6 +805,81 @@
     "review_notes": null
   },
   {
+    "id": 175,
+    "fingerprint": "ef2da7edfd5b47fe4a855ac8f23dc458265ffc4d5b2a53264c9ec9ba9ac16fc5",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ybjNYMmxLdDN6ZFhJTE9seVRqMG1uYjNzNGNCQkpZVzZYR3dfMEtCVHRsQzM4NjhLRUZhcEhvVU16UzQ5cGE5NkYxSUZKWlplblk2ME5VOWNSQVVmZF85T3dEVlVaUXpVcGt1QVVPdVFmU1FQak9ScEhGcmJqTTA?oc=5",
+    "source_name": "Google News: assisted-driving accident discovery",
+    "platform": "news_index",
+    "title": "不再只依赖实验室数据,宝马拟收集车主真实道路事故影像改进辅助驾驶 - finance.sina.com.cn",
+    "content": "不再只依赖实验室数据,宝马拟收集车主真实道路事故影像改进辅助驾驶 &nbsp;&nbsp; finance.sina.com.cn",
+    "author": null,
+    "published_at": "2026-09-08T09:33:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.180Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "other_or_unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [
+        "other_or_unknown"
+      ],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "道路",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 164,
+    "fingerprint": "445ba642fea6cf5a0c27d9de90cda0727d559120e80aaf826fab6fdc4a55d5af",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VYjZMcW5tbmtaelZ4OHdhalN4MS1lQ1EwYWlqZGd3QWNFNlptcE9lRkZERWN6aUZtS1FzTC1MQ1FKQnhIcUppa05YM0FDZ3dEZ0U4?oc=5",
+    "source_name": "Google News: assisted-driving accident discovery",
+    "platform": "news_index",
+    "title": "读懂最高法新规:这些情况下,辅助驾驶出事要担刑责 - 第一财经",
+    "content": "读懂最高法新规:这些情况下,辅助驾驶出事要担刑责 &nbsp;&nbsp; 第一财经",
+    "author": null,
+    "published_at": "2026-09-08T09:29:18.000Z",
+    "collected_at": "2026-09-09T23:16:31.146Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.55,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null
+  },
+  {
     "id": 1,
     "fingerprint": "cd98068537e5a87549d08dc43aeea8cfe6f858a42bd61f047b4fa070ef5b0e91",
     "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xRHN6M29uc2JMdW00Q0pPQXZ3SEhhb3J4a0dCaVN4ZUdTOWVDdlNUcm1JczJDZ2xvQ2tsd0hyb3pCWjVXNXlTdVRSTjIwT3lkV3c?oc=5",
@@ -117,6 +917,84 @@
         "特斯拉",
         "死亡",
         "自动驾驶"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 169,
+    "fingerprint": "412f14cac3af6d2b52aa04cd95d5e1cc09144a5e5cc76ffcc1e08c82bcea9211",
+    "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYLTNLQnB4X2l2MTRjQVZ5VWxfa3BoVTgwcGl0bUdfZkFYV3Ffd2JVdm82bFg2RXl1NEhIaVNOZEtoWDhQc1R5X1NLX05xLW9XSUstTkNTRE1EZ3A1NjFsSXZ2Ui0?oc=5",
+    "source_name": "Google News: assisted-driving accident discovery",
+    "platform": "news_index",
+    "title": "特斯拉在事故中辗过停车标志致人死亡,记录确认自动驾驶已开启 - 至顶网",
+    "content": "特斯拉在事故中辗过停车标志致人死亡,记录确认自动驾驶已开启 &nbsp;&nbsp; 至顶网",
+    "author": null,
+    "published_at": "2026-09-08T08:42:35.000Z",
+    "collected_at": "2026-09-09T23:16:31.161Z",
+    "event_date": null,
+    "brand": "Tesla",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "fatal",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "Tesla"
+      ],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [
+        "fatal"
+      ],
+      "matchedKeywords": [
+        "特斯拉",
+        "死亡",
+        "自动驾驶"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 171,
+    "fingerprint": "b0b49036155bba924b2510ec266e010fafe90297904014dd95c11eb7ee115ae2",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORExxMXk1VVcySXV3WnR6QS1kT0JfVDhoNzl3aTBsZjZibjR3N2J3M29RczZPNUhqRC1wNWN5U21USEhSTGVDaC14RE4yNHliczA5cW5ZaGJuT0UwLXBUUEJOQnBWZzRUWElrNTJaLTZzMUVRNE84Z1RZOTNSdHB4Tk1mS20yc0p4?oc=5",
+    "source_name": "Google News: assisted-driving accident discovery",
+    "platform": "news_index",
+    "title": "从\"灰色认定\"到\"规则之治\":最高法首份AI司法裁判规则如何重塑智能驾驶责任版图 - Sohu",
+    "content": "从\"灰色认定\"到\"规则之治\":最高法首份AI司法裁判规则如何重塑智能驾驶责任版图 &nbsp;&nbsp; Sohu",
+    "author": null,
+    "published_at": "2026-09-08T06:17:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.167Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.55,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "智能驾驶"
       ]
     },
     "review_notes": null
@@ -160,6 +1038,46 @@
         "model 3",
         "fsd",
         "身亡"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 172,
+    "fingerprint": "5812eacfc4b16b7722a8f51d41c2c3a901581780d024cf664e5f6587fe767e96",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0tMUkdFeEQ0MGhWMU56UTktb3B0VWdxN0RYb0lXYmRzQnpBQm82YVFFTEtXSkttSlR6c1c4Y3d5MEt4NTlmMnhmbnpOQXU0cmcyQzg3YTFVeDI2VTcxU3NmVGRSb1RWVnpWOGM3WjlOZ3FFRzBJUE1kZ21VNk1lM3NfQUJWSTZi?oc=5",
+    "source_name": "Google News: assisted-driving accident discovery",
+    "platform": "news_index",
+    "title": "理想NOA辅助驾驶实线突然变道致车辆被公交车追尾 车主:之前智驾时也曾压实线 - Sohu",
+    "content": "理想NOA辅助驾驶实线突然变道致车辆被公交车追尾 车主:之前智驾时也曾压实线 &nbsp;&nbsp; Sohu",
+    "author": null,
+    "published_at": "2026-09-08T04:12:39.000Z",
+    "collected_at": "2026-09-09T23:16:31.172Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "追尾",
+        "辅助驾驶",
+        "noa"
       ]
     },
     "review_notes": null
@@ -239,6 +1157,46 @@
     "review_notes": null
   },
   {
+    "id": 191,
+    "fingerprint": "b9e6090addc5039fe66023422a303dc98529daf4b23f60a4faf72c6b9420b1ac",
+    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZejhDcmNGU1A3bmk5T3pqVmptWXpReEZJNFVqUmtfdHJEYjdwSmJnN1VkOGUyZXVxSmVEREpZdE45VC10VkQxUEUwVHJoVHF4eUow?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "理想NOA辅助驾驶实线突然变道致车辆被公交车追尾 车主:之前智驾时也曾压实线 - 信网",
+    "content": "理想NOA辅助驾驶实线突然变道致车辆被公交车追尾 车主:之前智驾时也曾压实线 &nbsp;&nbsp; 信网",
+    "author": null,
+    "published_at": "2026-09-08T00:42:59.000Z",
+    "collected_at": "2026-09-09T23:16:31.924Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "追尾",
+        "辅助驾驶",
+        "noa"
+      ]
+    },
+    "review_notes": null
+  },
+  {
     "id": 3,
     "fingerprint": "3a3106e93d5deba8cb6d9792d45236801cf4a8417387949222472304aad130ad",
     "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oWndtVC1mTjNMZEdTSEhjdXVxNmxYRS16aWRmakRXVjJocllRdFkwcU9PRUtLZkVMb3FXTzQzOFV6aWU0c1BFNjNiaWM?oc=5",
@@ -279,6 +1237,40 @@
     "review_notes": null
   },
   {
+    "id": 190,
+    "fingerprint": "fb901e06d899f6de4878a087763b36014825be8d5233a3ca286039043dfd8c96",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HSTdva3RIeUtiVmhNdVJvMlJRcTM4akQ4ejdFaE5SNXBqWjU5bS1UYmZIczdIU3MxeGVJUVhlWTdEUmRvb0ZIQ1pjNksyYUMzWHdTTTVKMVdyMzQ0WjhJNFN6OUMwN0VidFlSVERHTnJ3TUJZUGMxeQ?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "最高法:依法认定涉智驾交通事故赔偿责任 - finance.sina.com.cn",
+    "content": "最高法:依法认定涉智驾交通事故赔偿责任 &nbsp;&nbsp; finance.sina.com.cn",
+    "author": null,
+    "published_at": "2026-09-07T07:52:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.923Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": []
+    },
+    "review_notes": null
+  },
+  {
     "id": 88,
     "fingerprint": "3b1bcfab0a39f6797fb025d7a1b71552d8bc2fadbb51d32072afe922d1d7e035",
     "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04S3lXOVh1eU9ha3ZnMjhIY2Y2UTlIQUptVXRqek41NzVqdEVYbzRDSlJSMDNBLWNnZEhhbzJRb0JJRS1WRXJBOTRjVnFtVklTcE53U3JkdG5fb3hqcVpscGdLTERkMG03?oc=5",
@@ -309,6 +1301,76 @@
       "roadMatches": [],
       "severityMatches": [],
       "matchedKeywords": []
+    },
+    "review_notes": null
+  },
+  {
+    "id": 174,
+    "fingerprint": "504f8b247cc6162d5d501785e41d72f33b4575fa9769f8d53c55c2e1761786e1",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nS2tzSHFpQmNJS2IwVlNyVVR3R1l0bkF0T2E1NVVVUWJuNGptTFBJR3B3Wk1qOGRjY1RFUVhEQU9TLWF4dUJGZU1vRFljd09RNUJVSThNcGJDLWc?oc=5",
+    "source_name": "Google News: assisted-driving accident discovery",
+    "platform": "news_index",
+    "title": "智驾“裸奔”时代将结束,最高法再给行业套“紧箍咒” - 汽车之家",
+    "content": "智驾“裸奔”时代将结束,最高法再给行业套“紧箍咒” &nbsp;&nbsp; 汽车之家",
+    "author": null,
+    "published_at": "2026-09-07T07:00:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.178Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.55,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": []
+    },
+    "review_notes": null
+  },
+  {
+    "id": 168,
+    "fingerprint": "bd2ca3557c7dcf637e4779999d86a1d3340518469ae59789ed34fd5c0050d95e",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xZGxWbVgzdDlhTDVvQlBvYy1JTm8xTjFTSnVvT2ZVWGxIYjhjMG54dXJwLTIwcHFqLU55QmkwdFVwMlBOWFZwT3R6VHh2MDVXeHpiY2FkRVh4RTA?oc=5",
+    "source_name": "Google News: assisted-driving accident discovery",
+    "platform": "news_index",
+    "title": "理想车主开启辅助驾驶撞车被判全责 索赔5万遭拒引争议 - 风闻",
+    "content": "理想车主开启辅助驾驶撞车被判全责 索赔5万遭拒引争议 &nbsp;&nbsp; 风闻",
+    "author": null,
+    "published_at": "2026-09-07T03:32:31.000Z",
+    "collected_at": "2026-09-09T23:16:31.156Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "active",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "开启辅助驾驶"
+      ]
     },
     "review_notes": null
   },
@@ -792,6 +1854,83 @@
     "review_notes": null
   },
   {
+    "id": 203,
+    "fingerprint": "6f8c1436f52ece8a94c16c3605fc742b2261a53c698ac69d92e656bf76a36f61",
+    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TS1l1THBvVWxfN1d1SFdnUjVFNk9QcnhEbjhKQl9PVWVsXzFVcWJDdjdsTi1wZVZqcHdvMndIazM5Rl8xbXJ3VUMxVHpidTZCaE50MENYaHZLbG9fOElQeUtQOA?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "车企回应智驾追尾事故:驾驶员误踩加速踏板_新浪新闻 - 新浪网",
+    "content": "车企回应智驾追尾事故:驾驶员误踩加速踏板_新浪新闻 &nbsp;&nbsp; 新浪网",
+    "author": null,
+    "published_at": "2026-09-03T12:00:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.993Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "追尾"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 200,
+    "fingerprint": "19a698bc0ad819434d3add9f30765c6ec69bda0ee588c40df2b3c835b1091a1a",
+    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LcVpoTjJyc3JNaGhXeUpWUUFHVDBwWGpGY3ptQTJGbThpQXAyOGNxT1lPa21IY2Z6azZyUklUQm1XX0lPTFV1NnhvWjhlMHd0YktkTkF1akYzeWFoX0NBWDBfaw?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "车企回应智驾追尾事故|都市快报|橙柿互动|智能辅助驾驶|挡风玻璃_新浪新闻 - 新浪网",
+    "content": "车企回应智驾追尾事故|都市快报|橙柿互动|智能辅助驾驶|挡风玻璃_新浪新闻 &nbsp;&nbsp; 新浪网",
+    "author": null,
+    "published_at": "2026-09-03T11:47:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.971Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "追尾",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null
+  },
+  {
     "id": 13,
     "fingerprint": "1663066d5ca1a20725aa7fe1841fd6b9e203a046ecb7f8deb89ebf2cc58c02fe",
     "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41UzFodWlMMU1IZWh3Q2NlSFRHLW5jNEI5eTB0cl9kaGw3T0ozRWpkNVpaT2VuODcwOWo0bzZyLWx0bFBhcFNwUzY5NkRDaEtUcEhrR3JmN1cxN1E?oc=5",
@@ -1011,6 +2150,44 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 198,
+    "fingerprint": "628b5919e2f48625652031e987f1d665c9b4ad97ebe321d4057263f5fa0be24d",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDUlZrNG52Yno4NkZsWUFteUU4TDQxM0VXY21TZ0NyR2hXWHBra1ZLUmNFc1R5cXVlRnMwQ0R0dG5ZdE5OMTlDZ21iRjZPQUJROGZyak80M1ZQQ2s5Unc?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "双兜底承诺+璇玑A3:详解比亚迪智驾安全防护 - 中华网",
+    "content": "双兜底承诺+璇玑A3:详解比亚迪智驾安全防护 &nbsp;&nbsp; 中华网",
+    "author": null,
+    "published_at": "2026-08-31T07:00:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.959Z",
+    "event_date": null,
+    "brand": "BYD",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.65,
+    "labels": {
+      "brandMatches": [
+        "BYD"
+      ],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "比亚迪"
       ]
     },
     "review_notes": null
@@ -1372,6 +2549,40 @@
     "review_notes": null
   },
   {
+    "id": 199,
+    "fingerprint": "ede50507b476e1663eec5ef5c7b8b50f2b1db27522be3407739e4de7d0a6bb45",
+    "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDWVZEUVM5c3pkU0NVY21hYlBIay1KZnM4czhfS0V4MnYzMk5fTVNCam1FSEZMY0FKRmFaN0hnXzRmMUNjOEhpQ0lUYWRxOVIwZGxCNA?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "道交法修法之后,智驾退出,责任就能退出吗? - car.tom.com",
+    "content": "道交法修法之后,智驾退出,责任就能退出吗? &nbsp;&nbsp; car.tom.com",
+    "author": null,
+    "published_at": "2026-08-26T07:00:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.963Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.55,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": []
+    },
+    "review_notes": null
+  },
+  {
     "id": 12,
     "fingerprint": "7e2471cdf69c134d34fc6ed800a227b80c7fbd999808cca5a0d9399ca99969ad",
     "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WUDgzM3hVckFHeXNKSE8zazFCMGZLWnR6U3lrWm9DWG8wdldVTFd6Q3RYWXZudnhUZ2Y5NmVCZEc0cGNQNE1abWhKU2NZZGU3Tmg1c2l2aUdNaFlZOHBjTFVMYXdHZXQ3eGRQOFln?oc=5",
@@ -1586,6 +2797,51 @@
       "matchedKeywords": [
         "小米su7",
         "辅助驾驶"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 202,
+    "fingerprint": "f78b9525ce13c7675ff14b46c247d1ba010b387bcfb3227ec871e0a2393087fa",
+    "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YT29KRW1fNWkxdEJlQjJ1amc0amFPU29lcDRXM3RveHR0LVhhdjBHYnFRWDliYlg1MGhlcVhfYTd2UHpoTjlMWVBXNkFuajVid2Zwc3dR?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "阿维塔12开启华为乾崑智驾后雨天冲至125公里/时 高速上追尾大货车 售后称智驾没问题 - QQ News",
+    "content": "阿维塔12开启华为乾崑智驾后雨天冲至125公里/时 高速上追尾大货车 售后称智驾没问题 &nbsp;&nbsp; QQ News",
+    "author": null,
+    "published_at": "2026-08-22T07:00:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.989Z",
+    "event_date": null,
+    "brand": "Huawei ecosystem",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "highway",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "Huawei ecosystem",
+        "Changan"
+      ],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [
+        "highway"
+      ],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "乾崑",
+        "追尾",
+        "高速"
       ]
     },
     "review_notes": null
@@ -1825,6 +3081,40 @@
     "review_notes": null
   },
   {
+    "id": 196,
+    "fingerprint": "0b624b6f3e72e8e91049655e91d3c93fadb8f1b4113a38b52b1bb0316d829fb8",
+    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pZmFFQUpuOGxLbHh2RGJxTjQzNTktMzJfa0V3U3dXWUZrSEpZR05KWmxRTlIyR0RWa091WDV1SzhyUlFYMUdOUkNzZ1pWQQ?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "公安部网安局:编造智驾事故、AI生成假车祸视频,多人因编造涉企谣言被罚 - 川观新闻",
+    "content": "公安部网安局:编造智驾事故、AI生成假车祸视频,多人因编造涉企谣言被罚 &nbsp;&nbsp; 川观新闻",
+    "author": null,
+    "published_at": "2026-08-18T07:00:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.949Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": []
+    },
+    "review_notes": null
+  },
+  {
     "id": 126,
     "fingerprint": "3d33b821c20c373d892f4d89073e83b6af3fa82f97efdf57f8267dedfac2f13b",
     "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtSWc0Qkd0a1RwU3M0dHlIcGc1dEJQaUhPUFNTbThhS1BrNmY0cUNZb0gxRFRKb29kUnl5U3R0MkFITzBNc3Npb3MyUVRFWExDQUJuc2VNRXBmYWc?oc=5",
@@ -1998,6 +3288,45 @@
       "roadMatches": [],
       "severityMatches": [],
       "matchedKeywords": []
+    },
+    "review_notes": null
+  },
+  {
+    "id": 177,
+    "fingerprint": "007dbaaad303689e51f821d5b25033df61816a76c4bae99ca5d7cb8a20025807",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uMlhaT1pnYTk4Z2szNUFtM2JsbGdZcnhZeHBJWmxVQ2tvQkhhcUZHemJoQkJaMk54dHc3cTE5NGxZMmVlZ19ZeEE1Z0dQN1BYTUpWNEg2em96OGZMUXRhZ29BSkxkZ2pmdDhSdWtMTWc0dkFVbVFzNl9najNVQQ?oc=5",
+    "source_name": "Google News: assisted-driving accident discovery",
+    "platform": "news_index",
+    "title": "凌渡智能泊车辅助是L2还是自动驾驶?事故责任谁承担?实测能力全解析+FAQ - 新浪网",
+    "content": "凌渡智能泊车辅助是L2还是自动驾驶?事故责任谁承担?实测能力全解析+FAQ &nbsp;&nbsp; 新浪网",
+    "author": null,
+    "published_at": "2026-08-15T07:00:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.190Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "parking",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [
+        "parking"
+      ],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "泊车",
+        "自动驾驶"
+      ]
     },
     "review_notes": null
   },
@@ -2287,6 +3616,40 @@
     "review_notes": null
   },
   {
+    "id": 201,
+    "fingerprint": "ac604cf7937c1d273ab4fb4460b7c12d82493a5a1531041eeea6b22a3ee21c5b",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3Q1EzVUdsYjFBSHEyVmdhOEgwWGlyWXVscDNLZS1XZ2hXQzRVQUhvRUYyU3RTcVZRNzJiaWFtbXluQzZKaXlxY3NOdThyYjRKRjI2VVZGZE4wTUZWV013Z0J6UGRTMDltOW9NMHdqYkt6bzZ0?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "智驾“裸奔”时代结束,这三家车企率先拿到国家证 - 新浪汽车",
+    "content": "智驾“裸奔”时代结束,这三家车企率先拿到国家证 &nbsp;&nbsp; 新浪汽车",
+    "author": null,
+    "published_at": "2026-08-06T07:00:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.985Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.55,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": []
+    },
+    "review_notes": null
+  },
+  {
     "id": 155,
     "fingerprint": "fe8f77b121dd0e85da99df0883d0ea4a222fe490062e8b037b0ecf5ec59f3762",
     "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjX3Zob1pxRGdyVmtIRVFXWEVOclE1MUxPQ09UbzNkWDVaZ0lEWmRZVWFvUjR1dk1KZWZ2UmZ0Z05QYUN6N0NLclpqczJ4SmF6UENvWEV3OUdOMlBCd0Q2ck9JdUMxUFlpM0gtVHh2OGh4ZFA5dFFidQ?oc=5",
@@ -2393,6 +3756,42 @@
       "roadMatches": [],
       "severityMatches": [],
       "matchedKeywords": []
+    },
+    "review_notes": null
+  },
+  {
+    "id": 178,
+    "fingerprint": "c3549db07d16ed498c39ea653eee438dc28cb8c39b5d16aad5c38cd1e119fb12",
+    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pY05mSDQtR2xVV3J2RmpUaXRmMFo0bWE2Q3dvbkhLamF1d21sYjNLVW9DVG9vVmtsdUxJOER0TUMtbWgzZ1RHQWEwbTBlbmZXd3BYTG52NW56WlZKVk9WOGFTdkF0d0d2UC1HSDh6eFdTZmFJ?oc=5",
+    "source_name": "Google News: assisted-driving accident discovery",
+    "platform": "news_index",
+    "title": "智能辅助驾驶在狂欢与隐患中狂奔 智驾平权背后的隐忧_中华网 - 新浪汽车",
+    "content": "智能辅助驾驶在狂欢与隐患中狂奔 智驾平权背后的隐忧_中华网 &nbsp;&nbsp; 新浪汽车",
+    "author": null,
+    "published_at": "2026-07-24T07:00:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.200Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.55,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "辅助驾驶"
+      ]
     },
     "review_notes": null
   },
@@ -3555,6 +4954,45 @@
     "review_notes": null
   },
   {
+    "id": 204,
+    "fingerprint": "c8860bb19d5b7f7dde6be189edc899f7002ba3eb6c71e6bb11a0351e341d65af",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nT0FrTGdnd3dpTjlFdDlaeHVjWnppRjM3TTFiMTA4YXlaVnd1eEtPellINTl2cTVvaWRPMzZZT2NtVFhONFZNdTdyZFFpclNyWXBmWDVBd05Sck0?oc=5",
+    "source_name": "Google News: smart-driving collision discovery",
+    "platform": "news_index",
+    "title": "比亚迪CNOA城市领航首例赔付落地:24小时技术判定,智驾责任兜底从承诺走向实践 - 网通社",
+    "content": "比亚迪CNOA城市领航首例赔付落地:24小时技术判定,智驾责任兜底从承诺走向实践 &nbsp;&nbsp; 网通社",
+    "author": null,
+    "published_at": "2026-06-03T07:00:00.000Z",
+    "collected_at": "2026-09-09T23:16:32.012Z",
+    "event_date": null,
+    "brand": "BYD",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.65,
+    "labels": {
+      "brandMatches": [
+        "BYD"
+      ],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "比亚迪",
+        "noa"
+      ]
+    },
+    "review_notes": null
+  },
+  {
     "id": 162,
     "fingerprint": "6b2078701219253387b5619105540b176a60f8fc4ca218237811b68a00bf902a",
     "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55dFc5aDlRYnRpSHE1SGlNelhlbWFzRjdKSm5wY0xWSWJLWTZwU1d6VVU2WFd1VkxtWXVVM0NpY2U4cVZFSUROYlJrRjNYUDJVMl9MOS1QQ0hQOEE?oc=5",
@@ -4079,6 +5517,45 @@
     "review_notes": null
   },
   {
+    "id": 179,
+    "fingerprint": "3eba9b111329d78e63b3089a79f68b54fb6dcc478d3e67350e25dd57a5bea248",
+    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iTWx0cmVzeDVXNDZrc1U5RElQYWNvZFY4N1VtbXlySUNqbnMyM3VmUWtNeEV5TGg5bkFhYVBCdW5WQWRINVcxNi1Dd3c0NnZqSjdtSkZGZms4S2Rxd2dCSDJBR0txdE9MZlQ3QUpaNE5zZw?oc=5",
+    "source_name": "Google News: assisted-driving accident discovery",
+    "platform": "news_index",
+    "title": "推动辅助驾驶功能普及 比亚迪宣布为城市领航安全“兜底” - 京报网",
+    "content": "推动辅助驾驶功能普及 比亚迪宣布为城市领航安全“兜底” &nbsp;&nbsp; 京报网",
+    "author": null,
+    "published_at": "2026-05-31T07:00:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.226Z",
+    "event_date": null,
+    "brand": "BYD",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.65,
+    "labels": {
+      "brandMatches": [
+        "BYD"
+      ],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "比亚迪",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null
+  },
+  {
     "id": 159,
     "fingerprint": "748f170a2f7adb6adb55c41785331e15beb319b71e5a9107bdc01cc3a1f3a93a",
     "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12TmdkRWFoSFoycmVGT2VrdndFRkM4NTA0eGJ3YXZmaUJtemhaMEZEOWR3Tm4yVGstdzhwdlk1SUVjbk9TZWE4czBrZEg2LXdRRjNNd0lrT0dQN1dOREFMN3l2N290QQ?oc=5",
@@ -4274,6 +5751,49 @@
       ],
       "matchedKeywords": [
         "死亡"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 180,
+    "fingerprint": "63cd1484261d1482df15e5542ce6ee475a12752150b17287a348f0736ebb3cce",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wX0FmeDB4eWpTWnk3M3ZSZ2h3Z2NPQXB3Ny00ZHBxT3FUWllWSTdCdWMyQUVSa1Nia2hzSlVHRDloUlZZMk9na3F4NzVRcEQwT2F0eU9xWEJBX0hocXc?oc=5",
+    "source_name": "Google News: assisted-driving accident discovery",
+    "platform": "news_index",
+    "title": "长安启源A07追尾致3死背后:事发前约40秒开启辅助驾驶,碰撞前出现脱手状态 | 大鱼财经 - jinantimes.com.cn",
+    "content": "长安启源A07追尾致3死背后:事发前约40秒开启辅助驾驶,碰撞前出现脱手状态 | 大鱼财经 &nbsp;&nbsp; jinantimes.com.cn",
+    "author": null,
+    "published_at": "2026-05-30T07:00:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.241Z",
+    "event_date": null,
+    "brand": "Changan",
+    "model": null,
+    "cause": "driver_misuse_or_inattention",
+    "cause_confidence": 0.6,
+    "adas_mode": "active",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "Changan"
+      ],
+      "causeMatches": [
+        "driver_misuse_or_inattention",
+        "speed_or_distance"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "长安",
+        "脱手",
+        "开启辅助驾驶"
       ]
     },
     "review_notes": null
@@ -5264,6 +6784,42 @@
     "review_notes": null
   },
   {
+    "id": 182,
+    "fingerprint": "7f92eda01145737f99e3a7c735efec1018ad2655dc1c8915e7222c1c11bd2622",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPNGpBY3VrNjJ3OG9zeGNEajdQdEVjTVZnYVlpcnctZXlGMHdydENUZGhJY2hhWlpCcUNpeGtvVTRXcl9aVUN4VXo3ODJXNTVkZUpmOUxSNU9TZ25qbUE?oc=5",
+    "source_name": "Google News: assisted-driving accident discovery",
+    "platform": "news_index",
+    "title": "别侥幸,雪天辅助驾驶要不得 - 中华网",
+    "content": "别侥幸,雪天辅助驾驶要不得 &nbsp;&nbsp; 中华网",
+    "author": null,
+    "published_at": "2026-01-20T08:00:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.268Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.55,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null
+  },
+  {
     "id": 74,
     "fingerprint": "f908f201c3aa7bebd527e75d56225041f03df2b7f92a9d60c6d892f96d74a6b6",
     "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SLXc4OXVKWlZJUnlONTlKQ3JZenJMc0dDTmNSVnhGNXpQTHNjLVlpNGRaQnFwa2g5aU51R25mT252OTFMZ0VQb0ZPSFNSOW9KMzBWYkcyS1R1ckRvbXlELS1NU20?oc=5",
@@ -5641,6 +7197,42 @@
       "severityMatches": [],
       "matchedKeywords": [
         "问界",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null
+  },
+  {
+    "id": 181,
+    "fingerprint": "f4121b78ade4930143b2fb16ac742db11b0e806b2dd827737672dfa02c5bcdec",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IWF9lZTE4dnNaNVduR2xoVXYwSDB0Zlh6Z3VOUW9aa0N0NkNfZ3VDWU43NG9RRDhNbXZ6SlVRVkwycURiX2liQVk5bjNkUnpDX3FvbmVzaDlmcV81WWtYaWgxYmNtUQ?oc=5",
+    "source_name": "Google News: assisted-driving accident discovery",
+    "platform": "news_index",
+    "title": "陈震首次还原撞车事件:过于信赖辅助驾驶,低头捡物品导致事故发生 - 观察者",
+    "content": "陈震首次还原撞车事件:过于信赖辅助驾驶,低头捡物品导致事故发生 &nbsp;&nbsp; 观察者",
+    "author": null,
+    "published_at": "2025-10-19T07:00:00.000Z",
+    "collected_at": "2026-09-09T23:16:31.264Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
         "辅助驾驶"
       ]
     },
