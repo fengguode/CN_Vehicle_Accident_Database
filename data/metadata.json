@@ -1,0 +1,8 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-09-09T22:55:24.944Z",
+  "record_count": 162,
+  "repository_role": "Public, sanitized publication of leads discovered by china-adas-accident-methods",
+  "verification_policy": "Records are leads unless verification_status is human_verified; inclusion does not establish ADAS causation.",
+  "source_policy": "Original URLs and provenance are retained; private data, raw database fields, and collection logs are not published."
+}

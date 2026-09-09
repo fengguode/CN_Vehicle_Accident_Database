@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "China ADAS Accident Public Report",
+  "type": "object",
+  "required": ["id", "fingerprint", "title", "source_name", "verification_status"],
+  "properties": {
+    "id": {"type": "integer"}, "fingerprint": {"type": "string"},
+    "title": {"type": "string"}, "content": {"type": "string"},
+    "source_url": {"type": ["string", "null"], "format": "uri"},
+    "source_name": {"type": "string"}, "platform": {"type": ["string", "null"]},
+    "verification_status": {"type": "string", "enum": ["unverified", "human_verified", "disputed"]},
+    "relevance_score": {"type": "number", "minimum": 0, "maximum": 1},
+    "labels": {"type": "object"}
+  },
+  "additionalProperties": true
+}
