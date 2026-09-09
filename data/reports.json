@@ -43,7 +43,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 修车超10万元! XPeng X9智驾系统自主变道, highway 上遭 rear-end collision !谁之过 - shobserver.com. Source text: 修车超10万元! XPeng X9智驾系统自主变道, highway 上遭 rear-end collision !谁之过 &nbsp;&nbsp; shobserver.com. Automatic labels: XPeng; label: speed_or_distance. Verification status: human_verified.",
+    "english_description": "Reported 10! XPeng X9, highway rear-end collision ! - shobserver.com. English translation unavailable; source text omitted. Automatic labels: XPeng; label: speed_or_distance. Verification status: human_verified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -82,7 +82,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 不再只依赖实验室数据,宝马拟收集车主真实 incident 影像改进 driver-assistance - 凤凰网科技. Source text: 不再只依赖实验室数据,宝马拟收集车主真实 incident 影像改进 driver-assistance &nbsp;&nbsp; 凤凰网科技. Verification status: unverified.",
+    "english_description": "Reported , incident driver-assistance -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -127,7 +127,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported Tesla 在 incident 中辗过停车标志致人 fatal ,记录确认 automated-driving 已 active - 至顶网. Source text: Tesla 在 incident 中辗过停车标志致人 fatal ,记录确认 automated-driving 已 active &nbsp;&nbsp; 至顶网. Automatic labels: Tesla. Verification status: human_verified.",
+    "english_description": "Reported Tesla incident fatal , automated-driving active -. English translation unavailable; source text omitted. Automatic labels: Tesla. Verification status: human_verified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -173,7 +173,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported Tesla Model 3酿致命车祸:82岁老人身亡,FSD背锅? - cnBeta.COM. Source text: Tesla Model 3酿致命车祸:82岁老人身亡,FSD背锅? &nbsp;&nbsp; cnBeta.COM. Automatic labels: Tesla. Verification status: human_verified.",
+    "english_description": "Reported Tesla Model 3:82,FSD? - cnBeta.COM. English translation unavailable; source text omitted. Automatic labels: Tesla. Verification status: human_verified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -216,7 +216,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported Li Auto NOA driver-assistance 实线突然变道致 vehicle 被公交车 rear-end collision - 汽车之家. Source text: Li Auto NOA driver-assistance 实线突然变道致 vehicle 被公交车 rear-end collision &nbsp;&nbsp; 汽车之家. Automatic labels: label: speed_or_distance. Verification status: human_verified.",
+    "english_description": "Reported Li Auto NOA driver-assistance vehicle rear-end collision -. English translation unavailable; source text omitted. Automatic labels: label: speed_or_distance. Verification status: human_verified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -253,7 +253,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 临危甩锅成历史!最高法首份涉人工智能司法裁判规则出台:智驾 incident 责任不再一刀切 - 凤凰网科技. Source text: 临危甩锅成历史!最高法首份涉人工智能司法裁判规则出台:智驾 incident 责任不再一刀切 &nbsp;&nbsp; 凤凰网科技. Verification status: human_verified.",
+    "english_description": "Reported !: incident -. English translation unavailable; source text omitted. Verification status: human_verified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -296,7 +296,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported Li Auto NOA driver-assistance 实线突然变道致 vehicle 被公交车 rear-end collision 车主:之前智驾时也曾压实线 - 信网. Source text: Li Auto NOA driver-assistance 实线突然变道致 vehicle 被公交车 rear-end collision 车主:之前智驾时也曾压实线 &nbsp;&nbsp; 信网. Automatic labels: label: speed_or_distance. Verification status: human_verified.",
+    "english_description": "Reported Li Auto NOA driver-assistance vehicle rear-end collision : -. English translation unavailable; source text omitted. Automatic labels: label: speed_or_distance. Verification status: human_verified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -333,7 +333,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 最高法:依法认定涉智驾交通 incident 赔偿责任 - chinanews.com.cn. Source text: 最高法:依法认定涉智驾交通 incident 赔偿责任 &nbsp;&nbsp; chinanews.com.cn. Verification status: unverified.",
+    "english_description": "Reported : incident - chinanews.com.cn. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -370,7 +370,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 男子开智驾睡一路交警查监控处罚 - 新浪财经. Source text: 男子开智驾睡一路交警查监控处罚 &nbsp;&nbsp; 新浪财经. Verification status: unverified.",
+    "english_description": "Reported -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -411,7 +411,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 杭州一起 incident ,让 NIO 汽车的全域全场景智驾露陷了 - 汽车之家. Source text: 杭州一起 incident ,让 NIO 汽车的全域全场景智驾露陷了 &nbsp;&nbsp; 汽车之家. Automatic labels: NIO. Verification status: unverified.",
+    "english_description": "Reported incident , NIO -. English translation unavailable; source text omitted. Automatic labels: NIO. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -453,7 +453,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 安全再进化: Huawei 乾崑智驾发布ADS 4系统,188体育娱乐官网技术引领 driver-assistance 新纪元 - 体坛. Source text: 安全再进化: Huawei 乾崑智驾发布ADS 4系统,188体育娱乐官网技术引领 driver-assistance 新纪元 &nbsp;&nbsp; 体坛. Automatic labels: Huawei ecosystem. Verification status: unverified.",
+    "english_description": "Reported : Huawei ADS 4,188 driver-assistance -. English translation unavailable; source text omitted. Automatic labels: Huawei ecosystem. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -494,7 +494,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 【视频】 XPeng 全新P7智驾 incident - 车家号. Source text: 【视频】 XPeng 全新P7智驾 incident &nbsp;&nbsp; 车家号. Automatic labels: XPeng. Verification status: unverified.",
+    "english_description": "Reported 【】 XPeng P7 incident -. English translation unavailable; source text omitted. Automatic labels: XPeng. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -536,7 +536,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 博主分享 BYD 智驾兜底案例:四个关键点车主必学!|天神之眼| smart-driving |唐l ev| incident |保险_手机新浪网 - 新浪网. Source text: 博主分享 BYD 智驾兜底案例:四个关键点车主必学!|天神之眼| smart-driving |唐l ev| incident |保险_手机新浪网 &nbsp;&nbsp; 新浪网. Automatic labels: BYD. Verification status: unverified.",
+    "english_description": "Reported BYD :!|| smart-driving |l ev| incident |_ -. English translation unavailable; source text omitted. Automatic labels: BYD. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -577,7 +577,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 安全至上:m88亚洲主页力挺 Huawei 乾崑智驾ADS 4全向防撞-体坛网_体坛+ - 体坛. Source text: 安全至上:m88亚洲主页力挺 Huawei 乾崑智驾ADS 4全向防撞-体坛网_体坛+ &nbsp;&nbsp; 体坛. Automatic labels: Huawei ecosystem. Verification status: unverified.",
+    "english_description": "Reported :m88 Huawei ADS 4-_+ -. English translation unavailable; source text omitted. Automatic labels: Huawei ecosystem. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -614,7 +614,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 海豹06EV智享型智驾效果 - 新浪网. Source text: 海豹06EV智享型智驾效果 &nbsp;&nbsp; 新浪网. Verification status: unverified.",
+    "english_description": "Reported 06EV -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -651,7 +651,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 海豹06EV智享型智驾效果 - k.sina.com.cn. Source text: 海豹06EV智享型智驾效果 &nbsp;&nbsp; k.sina.com.cn. Verification status: unverified.",
+    "english_description": "Reported 06EV - k.sina.com.cn. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -692,7 +692,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 博主分享 BYD 智驾兜底案例:四个关键点车主必学! - 新浪财经. Source text: 博主分享 BYD 智驾兜底案例:四个关键点车主必学! &nbsp;&nbsp; 新浪财经. Automatic labels: BYD. Verification status: unverified.",
+    "english_description": "Reported BYD :! -. English translation unavailable; source text omitted. Automatic labels: BYD. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -734,7 +734,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 智驾 highway incident 频发,yobo体育app注册入口记录惊险瞬间,现存 automated-driving 相关企业超8200家 - womenofchina.com. Source text: 智驾 highway incident 频发,yobo体育app注册入口记录惊险瞬间,现存 automated-driving 相关企业超8200家 &nbsp;&nbsp; womenofchina.com. Verification status: human_verified.",
+    "english_description": "Reported highway incident ,yoboapp, automated-driving 8200 - womenofchina.com. English translation unavailable; source text omitted. Verification status: human_verified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -773,7 +773,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported L2级 driver-assistance incident 责任划分难 驶员与车企谁该负责 - 车家号. Source text: L2级 driver-assistance incident 责任划分难 驶员与车企谁该负责 &nbsp;&nbsp; 车家号. Verification status: unverified.",
+    "english_description": "Reported L2 driver-assistance incident -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -814,7 +814,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported BYD 智驾:十重冗余与自研芯片护航 - 中国网. Source text: BYD 智驾:十重冗余与自研芯片护航 &nbsp;&nbsp; 中国网. Automatic labels: BYD. Verification status: unverified.",
+    "english_description": "Reported BYD : -. English translation unavailable; source text omitted. Automatic labels: BYD. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -851,7 +851,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 智驾 incident 车企回应及博主评论|智驾|小艺|加速踏板_新浪新闻 - 新浪网. Source text: 智驾 incident 车企回应及博主评论|智驾|小艺|加速踏板_新浪新闻 &nbsp;&nbsp; 新浪网. Verification status: unverified.",
+    "english_description": "Reported incident |||_ -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -890,7 +890,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 史上最严!新国标来袭!L2 driver-assistance ,即将沦为时代弃子? - 汽车之家. Source text: 史上最严!新国标来袭!L2 driver-assistance ,即将沦为时代弃子? &nbsp;&nbsp; 汽车之家. Verification status: unverified.",
+    "english_description": "Reported !!L2 driver-assistance ,? -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -929,7 +929,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 开 driver-assistance 撞车全责车主索赔 Li Auto 回应拒绝全额赔偿 - 中华网. Source text: 开 driver-assistance 撞车全责车主索赔 Li Auto 回应拒绝全额赔偿 &nbsp;&nbsp; 中华网. Verification status: unverified.",
+    "english_description": "Reported driver-assistance Li Auto -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -970,7 +970,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported Li Auto 高管智驾言论撕开安全遮羞布:一半 incident 发生在接管瞬间,智驾竞争进入认知时代+FAQ - 新浪网. Source text: Li Auto 高管智驾言论撕开安全遮羞布:一半 incident 发生在接管瞬间,智驾竞争进入认知时代+FAQ &nbsp;&nbsp; 新浪网. Automatic labels: label: handover_failure. Verification status: unverified.",
+    "english_description": "Reported Li Auto : incident ,+FAQ -. English translation unavailable; source text omitted. Automatic labels: label: handover_failure. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1015,7 +1015,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 广汽埃安智驾突发刹停遭 rear-end collision ,谁来为车主损失买单? - 汽车之家. Source text: 广汽埃安智驾突发刹停遭 rear-end collision ,谁来为车主损失买单? &nbsp;&nbsp; 汽车之家. Automatic labels: GAC/Aion; label: speed_or_distance. Verification status: unverified.",
+    "english_description": "Reported rear-end collision ,? -. English translation unavailable; source text omitted. Automatic labels: GAC/Aion; label: speed_or_distance. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1054,7 +1054,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 使用 driver-assistance 撞车被认定全责,广东东莞一 Li Auto 车主索赔5万元, Li Auto : driver-assistance 有局限,司机是第一责任人 - 新浪财经. Source text: 使用 driver-assistance 撞车被认定全责,广东东莞一 Li Auto 车主索赔5万元, Li Auto : driver-assistance 有局限,司机是第一责任人 &nbsp;&nbsp; 新浪财经. Verification status: unverified.",
+    "english_description": "Reported driver-assistance , Li Auto 5, Li Auto : driver-assistance , -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1093,7 +1093,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 使用 driver-assistance 撞车被认定全责,车主索赔5万, Li Auto : driver-assistance 有局限,司机是第一责任人 - 凤凰网. Source text: 使用 driver-assistance 撞车被认定全责,车主索赔5万, Li Auto : driver-assistance 有局限,司机是第一责任人 &nbsp;&nbsp; 凤凰网. Verification status: unverified.",
+    "english_description": "Reported driver-assistance ,5, Li Auto : driver-assistance , -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1130,7 +1130,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 钛7重大缺陷事件最新进展:OTA降功率, 智驾失效是实锤还是抹黑?3个维度拆解+FAQ - 新浪网. Source text: 钛7重大缺陷事件最新进展:OTA降功率, 智驾失效是实锤还是抹黑?3个维度拆解+FAQ &nbsp;&nbsp; 新浪网. Verification status: unverified.",
+    "english_description": "Reported 7:OTA, ?3+FAQ -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1171,7 +1171,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 小米SU7 collision 爆燃致3死:智驾2秒预警, 门把手失效,安全真相全解析+FAQ - 新浪网. Source text: 小米SU7 collision 爆燃致3死:智驾2秒预警, 门把手失效,安全真相全解析+FAQ &nbsp;&nbsp; 新浪网. Automatic labels: Xiaomi. Verification status: unverified.",
+    "english_description": "Reported SU7 collision 3:2, ,+FAQ -. English translation unavailable; source text omitted. Automatic labels: Xiaomi. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1210,7 +1210,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 恐吓司机许久的 automated-driving ,仅有美国取得有限的成功,牛皮已经破了 - auto.sina.cn. Source text: 恐吓司机许久的 automated-driving ,仅有美国取得有限的成功,牛皮已经破了 &nbsp;&nbsp; auto.sina.cn. Verification status: unverified.",
+    "english_description": "Reported automated-driving ,, - auto.sina.cn. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1249,7 +1249,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 长快讯| automated-driving 出 incident 责任算谁的? - 汽车之家. Source text: 长快讯| automated-driving 出 incident 责任算谁的? &nbsp;&nbsp; 汽车之家. Verification status: unverified.",
+    "english_description": "Reported | automated-driving incident ? -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1286,7 +1286,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 车企兜底,汽车智驾功能随便用?你可能对道交法修订草案的理解有偏差! - Sohu. Source text: 车企兜底,汽车智驾功能随便用?你可能对道交法修订草案的理解有偏差! &nbsp;&nbsp; Sohu. Verification status: unverified.",
+    "english_description": "Reported ,?! - Sohu. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1323,7 +1323,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported Huawei 乾坤智驾到底怎么样?实测+数据拆解,3个维度说清+FAQ - 新浪网. Source text: Huawei 乾坤智驾到底怎么样?实测+数据拆解,3个维度说清+FAQ &nbsp;&nbsp; 新浪网. Verification status: unverified.",
+    "english_description": "Reported Huawei ?+,3+FAQ -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1364,7 +1364,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported BYD 元UP智驾版值不值得买?3个维度说清+FAQ - 新浪网. Source text: BYD 元UP智驾版值不值得买?3个维度说清+FAQ &nbsp;&nbsp; 新浪网. Automatic labels: BYD. Verification status: unverified.",
+    "english_description": "Reported BYD UP?3+FAQ -. English translation unavailable; source text omitted. Automatic labels: BYD. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1401,7 +1401,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported Huawei 乾坤智驾功能介绍 - auto.sina.cn. Source text: Huawei 乾坤智驾功能介绍 &nbsp;&nbsp; auto.sina.cn. Verification status: unverified.",
+    "english_description": "Reported Huawei - auto.sina.cn. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1438,7 +1438,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 智驾出险车企买单?读懂兜底规则买车少花冤枉钱 - 车家号. Source text: 智驾出险车企买单?读懂兜底规则买车少花冤枉钱 &nbsp;&nbsp; 车家号. Verification status: unverified.",
+    "english_description": "Reported ? -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1479,7 +1479,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported BYD 城市智驾兜底,其他车企为什么不跟? - 汽车之家. Source text: BYD 城市智驾兜底,其他车企为什么不跟? &nbsp;&nbsp; 汽车之家. Automatic labels: BYD. Verification status: unverified.",
+    "english_description": "Reported BYD ,? -. English translation unavailable; source text omitted. Automatic labels: BYD. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1518,7 +1518,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported automated-driving 出了交通 incident 谁负责?车企责任边界进一步明确 - 新浪网. Source text: automated-driving 出了交通 incident 谁负责?车企责任边界进一步明确 &nbsp;&nbsp; 新浪网. Verification status: unverified.",
+    "english_description": "Reported automated-driving incident ? -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1555,7 +1555,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 道交法修法之后,智驾退出,责任就能退出吗? - 第一电动网. Source text: 道交法修法之后,智驾退出,责任就能退出吗? &nbsp;&nbsp; 第一电动网. Verification status: unverified.",
+    "english_description": "Reported ,,? -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1592,7 +1592,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 拿手机瞬间突发 incident :智驾系统无预警, 没避让,气囊一个没弹!车主:整车报废 - qq.com. Source text: 拿手机瞬间突发 incident :智驾系统无预警, 没避让,气囊一个没弹!车主:整车报废 &nbsp;&nbsp; qq.com. Verification status: unverified.",
+    "english_description": "Reported incident :, ,!: - qq.com. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1633,7 +1633,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported BYD 元UP 2026款智驾值不值?1.2万选装+ incident 全赔,3个维度说清+FAQ - 新浪网. Source text: BYD 元UP 2026款智驾值不值?1.2万选装+ incident 全赔,3个维度说清+FAQ &nbsp;&nbsp; 新浪网. Automatic labels: BYD. Verification status: unverified.",
+    "english_description": "Reported BYD UP 2026?1.2+ incident ,3+FAQ -. English translation unavailable; source text omitted. Automatic labels: BYD. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1674,7 +1674,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 零跑D19智驾测试:冰雪120km/h双轮爆胎不 loss of control ,这车安全到底有多强?+FAQ - 新浪网. Source text: 零跑D19智驾测试:冰雪120km/h双轮爆胎不 loss of control ,这车安全到底有多强?+FAQ &nbsp;&nbsp; 新浪网. Automatic labels: label: mechanical_or_tire. Verification status: unverified.",
+    "english_description": "Reported D19:120km/h loss of control ,?+FAQ -. English translation unavailable; source text omitted. Automatic labels: label: mechanical_or_tire. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1716,7 +1716,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 小米SU7车祸详情:3·29 incident 真相与 driver-assistance 安全边界深度解析+FAQ - 新浪网. Source text: 小米SU7车祸详情:3·29 incident 真相与 driver-assistance 安全边界深度解析+FAQ &nbsp;&nbsp; 新浪网. Automatic labels: Xiaomi. Verification status: unverified.",
+    "english_description": "Reported SU7:3·29 incident driver-assistance +FAQ -. English translation unavailable; source text omitted. Automatic labels: Xiaomi. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1753,7 +1753,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 小米YU7撞人 incident 深度解析:智驾边界与安全设计谁该背锅?+FAQ - 新浪网. Source text: 小米YU7撞人 incident 深度解析:智驾边界与安全设计谁该背锅?+FAQ &nbsp;&nbsp; 新浪网. Verification status: unverified.",
+    "english_description": "Reported YU7 incident :?+FAQ -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1795,7 +1795,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 司机 highway 上开 driver-assistance 后用手机回信息,遇到刮擦了!谁来担责 - 有驾. Source text: 司机 highway 上开 driver-assistance 后用手机回信息,遇到刮擦了!谁来担责 &nbsp;&nbsp; 有驾. Verification status: human_verified.",
+    "english_description": "Reported highway driver-assistance ,! -. English translation unavailable; source text omitted. Verification status: human_verified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1843,7 +1843,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 阿维塔12 active Huawei 乾崑智驾后雨天冲至125公里/时 highway 上 rear-end collision 大货车 售后 reported 智驾没问题 - 信网. Source text: 阿维塔12 active Huawei 乾崑智驾后雨天冲至125公里/时 highway 上 rear-end collision 大货车 售后 reported 智驾没问题 &nbsp;&nbsp; 信网. Automatic labels: Huawei ecosystem; label: speed_or_distance. Verification status: human_verified.",
+    "english_description": "Reported 12 active Huawei 125/ highway rear-end collision reported -. English translation unavailable; source text omitted. Automatic labels: Huawei ecosystem; label: speed_or_distance. Verification status: human_verified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1885,7 +1885,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 司机开智驾玩手机冲进施工区 分心驾驶酿 incident - 中华网. Source text: 司机开智驾玩手机冲进施工区 分心驾驶酿 incident &nbsp;&nbsp; 中华网. Automatic labels: label: driver_misuse_or_inattention. Verification status: unverified.",
+    "english_description": "Reported incident -. English translation unavailable; source text omitted. Automatic labels: label: driver_misuse_or_inattention. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1927,7 +1927,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 智驾不等于 automated-driving !杭瑞 highway incident 再敲警钟 - qq.com. Source text: 智驾不等于 automated-driving !杭瑞 highway incident 再敲警钟 &nbsp;&nbsp; qq.com. Verification status: unverified.",
+    "english_description": "Reported automated-driving ! highway incident - qq.com. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1968,7 +1968,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 男子开智驾安心玩手机径直撞进施工区 一查还没驾驶证! - 驱动之家. Source text: 男子开智驾安心玩手机径直撞进施工区 一查还没驾驶证! &nbsp;&nbsp; 驱动之家. Automatic labels: label: road_or_weather. Verification status: unverified.",
+    "english_description": "Reported ! -. English translation unavailable; source text omitted. Automatic labels: label: road_or_weather. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2005,7 +2005,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 公安部网安局公布14起涉企网络谣言典型案例:编造智驾 incident , AI生成假车祸视频 - jfdaily.com. Source text: 公安部网安局公布14起涉企网络谣言典型案例:编造智驾 incident , AI生成假车祸视频 &nbsp;&nbsp; jfdaily.com. Verification status: unverified.",
+    "english_description": "Reported 14: incident , AI - jfdaily.com. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2042,7 +2042,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 编造智驾 incident , AI生成假车祸视频 多人因编造涉企谣言被罚 - bjnews.com.cn. Source text: 编造智驾 incident , AI生成假车祸视频 多人因编造涉企谣言被罚 &nbsp;&nbsp; bjnews.com.cn. Verification status: unverified.",
+    "english_description": "Reported incident , AI - bjnews.com.cn. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2084,7 +2084,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 司机在沙厦 highway 上开 driver-assistance 玩手机发生车祸, highway 交警:司机全责 - Sohu. Source text: 司机在沙厦 highway 上开 driver-assistance 玩手机发生车祸, highway 交警:司机全责 &nbsp;&nbsp; Sohu. Verification status: human_verified.",
+    "english_description": "Reported highway driver-assistance , highway : - Sohu. English translation unavailable; source text omitted. Verification status: human_verified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2123,7 +2123,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 新能源车主误信 driver-assistance 酿车祸,隧道内剐蹭电缆沟惊魂一刻 - 第一电动网. Source text: 新能源车主误信 driver-assistance 酿车祸,隧道内剐蹭电缆沟惊魂一刻 &nbsp;&nbsp; 第一电动网. Verification status: unverified.",
+    "english_description": "Reported driver-assistance , -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2160,7 +2160,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 海豹06EV智驾功能 - 新浪网. Source text: 海豹06EV智驾功能 &nbsp;&nbsp; 新浪网. Verification status: unverified.",
+    "english_description": "Reported 06EV -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2200,7 +2200,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 男子醉酒用 driver-assistance 开车被拘役三个月 smart-driving 非免责理由 - 中华网. Source text: 男子醉酒用 driver-assistance 开车被拘役三个月 smart-driving 非免责理由 &nbsp;&nbsp; 中华网. Verification status: unverified.",
+    "english_description": "Reported driver-assistance smart-driving -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2239,7 +2239,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 一男子醉酒后使用 driver-assistance 发生 incident 并冲卡,被拘役三个月 + 罚款九千元 - 17173. Source text: 一男子醉酒后使用 driver-assistance 发生 incident 并冲卡,被拘役三个月 + 罚款九千元 &nbsp;&nbsp; 17173. Verification status: unverified.",
+    "english_description": "Reported driver-assistance incident , + - 17173. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2278,7 +2278,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 男子醉酒使用 driver-assistance 开车 被拘役三个月 - thecover.cn. Source text: 男子醉酒使用 driver-assistance 开车 被拘役三个月 &nbsp;&nbsp; thecover.cn. Verification status: unverified.",
+    "english_description": "Reported driver-assistance - thecover.cn. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2315,7 +2315,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 风云T7预售,电池热 loss of control 赔新车, 智驾 incident 最高赔500万元 - ce.cn. Source text: 风云T7预售,电池热 loss of control 赔新车, 智驾 incident 最高赔500万元 &nbsp;&nbsp; ce.cn. Verification status: unverified.",
+    "english_description": "Reported T7, loss of control , incident 500 - ce.cn. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2354,7 +2354,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 司机说用了智驾安全意识越来越模糊?L2 driver-assistance 的3个安全真相+FAQ - auto.sina.cn. Source text: 司机说用了智驾安全意识越来越模糊?L2 driver-assistance 的3个安全真相+FAQ &nbsp;&nbsp; auto.sina.cn. Verification status: unverified.",
+    "english_description": "Reported ?L2 driver-assistance 3+FAQ - auto.sina.cn. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2391,7 +2391,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 智驾困局:用户难踩信任油门国标划下底线纠偏|汽势封面 - 凤凰网. Source text: 智驾困局:用户难踩信任油门国标划下底线纠偏|汽势封面 &nbsp;&nbsp; 凤凰网. Verification status: unverified.",
+    "english_description": "Reported :| -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2432,7 +2432,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported BYD 智驾 incident 兜底政策是否包括二手车车主? - auto.sina.cn. Source text: BYD 智驾 incident 兜底政策是否包括二手车车主? &nbsp;&nbsp; auto.sina.cn. Automatic labels: BYD. Verification status: unverified.",
+    "english_description": "Reported BYD incident ? - auto.sina.cn. English translation unavailable; source text omitted. Automatic labels: BYD. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2469,7 +2469,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 智驾新国标发布,最后一秒退出将成史? - Sohu. Source text: 智驾新国标发布,最后一秒退出将成史? &nbsp;&nbsp; Sohu. Verification status: unverified.",
+    "english_description": "Reported ,? - Sohu. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2514,7 +2514,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 男子醉酒后开智驾在 highway 上狂飙,行驶中睡着 vehicle 停下,引发连环 rear-end collision incident ,被判拘役并罚款 - 新浪财经. Source text: 男子醉酒后开智驾在 highway 上狂飙,行驶中睡着 vehicle 停下,引发连环 rear-end collision incident ,被判拘役并罚款 &nbsp;&nbsp; 新浪财经. Automatic labels: label: driver_misuse_or_inattention. Verification status: unverified.",
+    "english_description": "Reported highway , vehicle , rear-end collision incident , -. English translation unavailable; source text omitted. Automatic labels: label: driver_misuse_or_inattention. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2551,7 +2551,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 智驾小蓝灯将被禁用?业内机构解读|都视频·热观察 - 京报网. Source text: 智驾小蓝灯将被禁用?业内机构解读|都视频·热观察 &nbsp;&nbsp; 京报网. Verification status: unverified.",
+    "english_description": "Reported ?|· -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2588,7 +2588,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 男子醉酒后启动智驾系统上路 法院:驾驶责任主体始终为驾驶人,构成危险驾驶罪 - hnzf.gov.cn. Source text: 男子醉酒后启动智驾系统上路 法院:驾驶责任主体始终为驾驶人,构成危险驾驶罪 &nbsp;&nbsp; hnzf.gov.cn. Verification status: unverified.",
+    "english_description": "Reported :, - hnzf.gov.cn. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2625,7 +2625,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 2026智驾好车怎么选?3个维度拆解+4步避坑法+FAQ - auto.sina.cn. Source text: 2026智驾好车怎么选?3个维度拆解+4步避坑法+FAQ &nbsp;&nbsp; auto.sina.cn. Verification status: unverified.",
+    "english_description": "Reported 2026?3+4+FAQ - auto.sina.cn. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2662,7 +2662,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 车企又开始卷智驾险了,这玩意儿真能给车主兜底吗? - 风闻. Source text: 车企又开始卷智驾险了,这玩意儿真能给车主兜底吗? &nbsp;&nbsp; 风闻. Verification status: unverified.",
+    "english_description": "Reported ,? -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2699,7 +2699,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 车企又开始卷智驾险了,这玩意儿真能给车主兜底吗? - 新浪财经. Source text: 车企又开始卷智驾险了,这玩意儿真能给车主兜底吗? &nbsp;&nbsp; 新浪财经. Verification status: unverified.",
+    "english_description": "Reported ,? -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2740,7 +2740,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported NIO 李斌回应智驾兜底:责任认定复杂,人车共驾阶段需审慎推进 - 网通社. Source text: NIO 李斌回应智驾兜底:责任认定复杂,人车共驾阶段需审慎推进 &nbsp;&nbsp; 网通社. Automatic labels: NIO. Verification status: unverified.",
+    "english_description": "Reported NIO :, -. English translation unavailable; source text omitted. Automatic labels: NIO. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2779,7 +2779,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 智能 driver-assistance 收费模式千奇百怪才吸引人 - 潮新闻客户端. Source text: 智能 driver-assistance 收费模式千奇百怪才吸引人 &nbsp;&nbsp; 潮新闻客户端. Verification status: unverified.",
+    "english_description": "Reported driver-assistance -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2821,7 +2821,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 不只是有没有兜底, driver-assistance 责任承接进入新阶段 driver-assistance 进入规模化普及阶段后,出了 incident 谁负责已成为行业绕不开的问题, 今年5月, BYD 召开发布会宣布为城市领航安全兜底, BYD 方面 reported ,天神之眼A, B用户享有一年的城市领航兜底权益——在合规使用CN - 新浪网. Source text: 不只是有没有兜底, driver-assistance 责任承接进入新阶段 driver-assistance 进入规模化普及阶段后,出了 incident 谁负责已成为行业绕不开的问题, 今年5月, BYD 召开发布会宣布为城市领航安全兜底, BYD 方面 reported ,天神之眼A, B用户享有一年的城市领航兜底权益——在合规使用CN &nbsp;&. Automatic labels: BYD. Verification status: unverified.",
+    "english_description": "Reported , driver-assistance driver-assistance , incident , 5, BYD , BYD reported ,A, B——CN -. English translation unavailable; source text omitted. Automatic labels: BYD. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2860,7 +2860,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported driver-assistance 出事谁负责?两家车企拍胸脯,剩下的集体沉默 - 风闻. Source text: driver-assistance 出事谁负责?两家车企拍胸脯,剩下的集体沉默 &nbsp;&nbsp; 风闻. Verification status: unverified.",
+    "english_description": "Reported driver-assistance ?, -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2897,7 +2897,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 智驾兜底热潮背后,要分清谁真正承担 incident 责任 - 湖北日报传媒集团. Source text: 智驾兜底热潮背后,要分清谁真正承担 incident 责任 &nbsp;&nbsp; 湖北日报传媒集团. Verification status: unverified.",
+    "english_description": "Reported , incident -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2934,7 +2934,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 智驾兜底热潮背后,要分清谁真正承担 incident 责任- 湖北日报新闻客户端 - 湖北日报传媒集团. Source text: 智驾兜底热潮背后,要分清谁真正承担 incident 责任- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团. Verification status: unverified.",
+    "english_description": "Reported , incident - -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2976,7 +2976,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported BYD , Huawei 相继为智驾 incident 兜底:从营销噱头到行业变革, smart-driving 责任体系重构 - 网通社. Source text: BYD , Huawei 相继为智驾 incident 兜底:从营销噱头到行业变革, smart-driving 责任体系重构 &nbsp;&nbsp; 网通社. Automatic labels: BYD. Verification status: unverified.",
+    "english_description": "Reported BYD , Huawei incident :, smart-driving -. English translation unavailable; source text omitted. Automatic labels: BYD. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3015,7 +3015,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported Huawei 跟进 driver-assistance 兜底,车主终于不用背锅了 - car.tom.com. Source text: Huawei 跟进 driver-assistance 兜底,车主终于不用背锅了 &nbsp;&nbsp; car.tom.com. Verification status: unverified.",
+    "english_description": "Reported Huawei driver-assistance , - car.tom.com. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3058,7 +3058,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported Tesla Autopilot/FSD再涉致命 incident ,NHTSA升级320万辆调查至工程分析阶段 - 网通社. Source text: Tesla Autopilot/FSD再涉致命 incident ,NHTSA升级320万辆调查至工程分析阶段 &nbsp;&nbsp; 网通社. Automatic labels: Tesla. Verification status: unverified.",
+    "english_description": "Reported Tesla Autopilot/FSD incident ,NHTSA320 -. English translation unavailable; source text omitted. Automatic labels: Tesla. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3095,7 +3095,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported Huawei 跟进,智驾 incident 兜底时代来了? - 凤凰网. Source text: Huawei 跟进,智驾 incident 兜底时代来了? &nbsp;&nbsp; 凤凰网. Verification status: unverified.",
+    "english_description": "Reported Huawei , incident ? -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3136,7 +3136,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 热搜! BYD 之后, Huawei 也宣布对智驾兜底! - 新浪财经. Source text: 热搜! BYD 之后, Huawei 也宣布对智驾兜底! &nbsp;&nbsp; 新浪财经. Automatic labels: BYD. Verification status: unverified.",
+    "english_description": "Reported ! BYD , Huawei ! -. English translation unavailable; source text omitted. Automatic labels: BYD. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3181,7 +3181,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported Huawei 乾崑智驾ADS Max高阶包7月1日涨价至3.6万元,新增城区+ highway NCA incident 兜底保障 - 电子工程专辑. Source text: Huawei 乾崑智驾ADS Max高阶包7月1日涨价至3.6万元,新增城区+ highway NCA incident 兜底保障 &nbsp;&nbsp; 电子工程专辑. Automatic labels: Huawei ecosystem. Verification status: unverified.",
+    "english_description": "Reported Huawei ADS Max713.6,+ highway NCA incident -. English translation unavailable; source text omitted. Automatic labels: Huawei ecosystem. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3218,7 +3218,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 微言 | Huawei 对智驾兜底,不是让你睡觉, 玩手机 - shobserver.com. Source text: 微言 | Huawei 对智驾兜底,不是让你睡觉, 玩手机 &nbsp;&nbsp; shobserver.com. Verification status: unverified.",
+    "english_description": "Reported | Huawei ,, - shobserver.com. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3264,7 +3264,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported Tesla 驳斥 driver-assistance 致死 incident 马斯克:完全说不通- Tesla Tesla - cnBeta.COM. Source text: Tesla 驳斥 driver-assistance 致死 incident 马斯克:完全说不通- Tesla Tesla &nbsp;&nbsp; cnBeta.COM. Automatic labels: Tesla. Verification status: unverified.",
+    "english_description": "Reported Tesla driver-assistance incident :- Tesla Tesla - cnBeta.COM. English translation unavailable; source text omitted. Automatic labels: Tesla. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3301,7 +3301,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported Huawei 跟进,智驾 incident 兜底时代来了? - 新浪财经. Source text: Huawei 跟进,智驾 incident 兜底时代来了? &nbsp;&nbsp; 新浪财经. Verification status: unverified.",
+    "english_description": "Reported Huawei , incident ? -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3343,7 +3343,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported Tesla driver-assistance 发生致命 incident 美监管机构宣布启动特别调查 - Sohu. Source text: Tesla driver-assistance 发生致命 incident 美监管机构宣布启动特别调查 &nbsp;&nbsp; Sohu. Automatic labels: Tesla. Verification status: unverified.",
+    "english_description": "Reported Tesla driver-assistance incident - Sohu. English translation unavailable; source text omitted. Automatic labels: Tesla. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3388,7 +3388,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported Tesla 驳斥 driver-assistance 致死 incident 马斯克:完全说不通 - Sohu. Source text: Tesla 驳斥 driver-assistance 致死 incident 马斯克:完全说不通 &nbsp;&nbsp; Sohu. Automatic labels: Tesla. Verification status: unverified.",
+    "english_description": "Reported Tesla driver-assistance incident : - Sohu. English translation unavailable; source text omitted. Automatic labels: Tesla. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3429,7 +3429,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 对标 BYD ! Huawei 正式给智驾上 保险 - 电子工程专辑. Source text: 对标 BYD ! Huawei 正式给智驾上 保险 &nbsp;&nbsp; 电子工程专辑. Automatic labels: BYD. Verification status: unverified.",
+    "english_description": "Reported BYD ! Huawei -. English translation unavailable; source text omitted. Automatic labels: BYD. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3471,7 +3471,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported Huawei 乾崑 driver-assistance 权益升级, 调价 智驾兜底风渐起? - 财联社. Source text: Huawei 乾崑 driver-assistance 权益升级, 调价 智驾兜底风渐起? &nbsp;&nbsp; 财联社. Automatic labels: Huawei ecosystem. Verification status: unverified.",
+    "english_description": "Reported Huawei driver-assistance , ? -. English translation unavailable; source text omitted. Automatic labels: Huawei ecosystem. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3512,7 +3512,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 甩锅?试驾 Li Auto L8开智驾撞了, Li Auto :建议起诉试驾用户 - Sohu. Source text: 甩锅?试驾 Li Auto L8开智驾撞了, Li Auto :建议起诉试驾用户 &nbsp;&nbsp; Sohu. Automatic labels: Li Auto. Verification status: unverified.",
+    "english_description": "Reported ? Li Auto L8, Li Auto : - Sohu. English translation unavailable; source text omitted. Automatic labels: Li Auto. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3553,7 +3553,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 以技术底气扛起安全责任, BYD 兜底引领智驾行业发展-公司动态 - 证券市场周刊. Source text: 以技术底气扛起安全责任, BYD 兜底引领智驾行业发展-公司动态 &nbsp;&nbsp; 证券市场周刊. Automatic labels: BYD. Verification status: unverified.",
+    "english_description": "Reported , BYD - -. English translation unavailable; source text omitted. Automatic labels: BYD. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3595,7 +3595,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 女子 highway active driver-assistance ,途中与男友争执, vehicle loss of control 撞上隔离铁马,交警:女子全责 - 观察者. Source text: 女子 highway active driver-assistance ,途中与男友争执, vehicle loss of control 撞上隔离铁马,交警:女子全责 &nbsp;&nbsp; 观察者. Verification status: unverified.",
+    "english_description": "Reported highway active driver-assistance ,, vehicle loss of control ,: -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3636,7 +3636,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 如何看待李想说半数智驾 incident 发生在接管瞬间,法规上讲完全合规,但对人类不安全? - 风闻. Source text: 如何看待李想说半数智驾 incident 发生在接管瞬间,法规上讲完全合规,但对人类不安全? &nbsp;&nbsp; 风闻. Automatic labels: label: handover_failure. Verification status: unverified.",
+    "english_description": "Reported incident ,,? -. English translation unavailable; source text omitted. Automatic labels: label: handover_failure. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3677,7 +3677,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 40秒致命! 济广 highway incident 调查结果再次敲响智驾安全警钟 - 央广网. Source text: 40秒致命! 济广 highway incident 调查结果再次敲响智驾安全警钟 &nbsp;&nbsp; 央广网. Verification status: unverified.",
+    "english_description": "Reported 40! highway incident -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3714,7 +3714,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 零跑C16智驾 incident :真的长点心吧! - qq.com. Source text: 零跑C16智驾 incident :真的长点心吧! &nbsp;&nbsp; qq.com. Verification status: unverified.",
+    "english_description": "Reported C16 incident :! - qq.com. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3751,7 +3751,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 车企密集推出智驾 incident 兜底,争夺数据规模先手| 《财经》客户端 - mycaijing.com. Source text: 车企密集推出智驾 incident 兜底,争夺数据规模先手| 《财经》客户端 &nbsp;&nbsp; mycaijing.com. Verification status: unverified.",
+    "english_description": "Reported incident ,| 《》 - mycaijing.com. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3794,7 +3794,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported BYD 为 driver-assistance 城市领航兜底,那和L3 automated-driving 还有什么区别? - 热点科技. Source text: BYD 为 driver-assistance 城市领航兜底,那和L3 automated-driving 还有什么区别? &nbsp;&nbsp; 热点科技. Automatic labels: BYD. Verification status: unverified.",
+    "english_description": "Reported BYD driver-assistance ,L3 automated-driving ? -. English translation unavailable; source text omitted. Automatic labels: BYD. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3839,7 +3839,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 长安启源回应 driver-assistance rear-end collision incident :车速过快或无法完全刹停 - 风闻. Source text: 长安启源回应 driver-assistance rear-end collision incident :车速过快或无法完全刹停 &nbsp;&nbsp; 风闻. Automatic labels: Changan; label: speed_or_distance. Verification status: unverified.",
+    "english_description": "Reported driver-assistance rear-end collision incident : -. English translation unavailable; source text omitted. Automatic labels: Changan; label: speed_or_distance. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3881,7 +3881,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 智驾兜底与智驾险路线之争: BYD 全域兜底PK Huawei 乾崑智驾险,算法规制与责任边界成焦点 - 网通社. Source text: 智驾兜底与智驾险路线之争: BYD 全域兜底PK Huawei 乾崑智驾险,算法规制与责任边界成焦点 &nbsp;&nbsp; 网通社. Automatic labels: BYD. Verification status: unverified.",
+    "english_description": "Reported : BYD PK Huawei , -. English translation unavailable; source text omitted. Automatic labels: BYD. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3922,7 +3922,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 智驾 rear-end collision 致3死 车企再回应: incident 车无激光雷达 - auto.hangzhou.com.cn. Source text: 智驾 rear-end collision 致3死 车企再回应: incident 车无激光雷达 &nbsp;&nbsp; auto.hangzhou.com.cn. Automatic labels: label: speed_or_distance. Verification status: unverified.",
+    "english_description": "Reported rear-end collision 3 : incident - auto.hangzhou.com.cn. English translation unavailable; source text omitted. Automatic labels: label: speed_or_distance. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3964,7 +3964,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 激活 driver-assistance 40秒后3人 fatal ,谁在为智驾时代的过度信任买单? - 新浪网. Source text: 激活 driver-assistance 40秒后3人 fatal ,谁在为智驾时代的过度信任买单? &nbsp;&nbsp; 新浪网. Verification status: unverified.",
+    "english_description": "Reported driver-assistance 403 fatal ,? -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4005,7 +4005,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 发智驾芯片, 为城市领航安全兜底, BYD 科技公司属性藏不住了 - DoNews. Source text: 发智驾芯片, 为城市领航安全兜底, BYD 科技公司属性藏不住了 &nbsp;&nbsp; DoNews. Automatic labels: BYD. Verification status: unverified.",
+    "english_description": "Reported , , BYD - DoNews. English translation unavailable; source text omitted. Automatic labels: BYD. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4049,7 +4049,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 智驾脱手撞上半挂,长安启源曾 reported 天枢智驾安全永远第一 - 观察者. Source text: 智驾脱手撞上半挂,长安启源曾 reported 天枢智驾安全永远第一 &nbsp;&nbsp; 观察者. Automatic labels: Changan; label: driver_misuse_or_inattention. Verification status: unverified.",
+    "english_description": "Reported , reported -. English translation unavailable; source text omitted. Automatic labels: Changan; label: driver_misuse_or_inattention. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4097,7 +4097,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 司机激活智驾并双手脱离方向盘,40秒后撞上货车致一家三口身亡!长安启源最新回应: incident 车A07无激光雷达,在视线不佳时或无法探测障碍物 - 每日经济新闻. Source text: 司机激活智驾并双手脱离方向盘,40秒后撞上货车致一家三口身亡!长安启源最新回应: incident 车A07无激光雷达,在视线不佳时或无法探测障碍物 &nbsp;&nbsp; 每日经济新闻. Automatic labels: Changan; label: perception_failure. Verification status: unverified.",
+    "english_description": "Reported ,40!: incident A07, -. English translation unavailable; source text omitted. Automatic labels: Changan; label: perception_failure. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4146,7 +4146,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 长安启源智驾 rear-end collision 致3人遇难 vehicle 数据记录公开: incident 前出现脱手 driver-assistance 到 collision 仅40秒 - 驱动之家. Source text: 长安启源智驾 rear-end collision 致3人遇难 vehicle 数据记录公开: incident 前出现脱手 driver-assistance 到 collision 仅40秒 &nbsp;&nbsp; 驱动之家. Automatic labels: Changan; label: driver_misuse_or_inattention. Verification status: unverified.",
+    "english_description": "Reported rear-end collision 3 vehicle : incident driver-assistance collision 40 -. English translation unavailable; source text omitted. Automatic labels: Changan; label: driver_misuse_or_inattention. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4187,7 +4187,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 长安启源A07智驾40秒后失灵撞上半挂,一家三口当场殒命,EDR数据还原最后时刻:司机没踩刹车没踩油门;长安汽车承认 incident 车未搭载激光雷达 - Sohu. Source text: 长安启源A07智驾40秒后失灵撞上半挂,一家三口当场殒命,EDR数据还原最后时刻:司机没踩刹车没踩油门;长安汽车承认 incident 车未搭载激光雷达 &nbsp;&nbsp; Sohu. Automatic labels: Changan. Verification status: unverified.",
+    "english_description": "Reported A0740,,EDR:; incident - Sohu. English translation unavailable; source text omitted. Automatic labels: Changan. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4226,7 +4226,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported driver-assistance ≠无人驾驶!这起 incident 给所有车主敲响警钟 - qq.com. Source text: driver-assistance ≠无人驾驶!这起 incident 给所有车主敲响警钟 &nbsp;&nbsp; qq.com. Verification status: unverified.",
+    "english_description": "Reported driver-assistance ≠! incident - qq.com. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4271,7 +4271,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 长安启源回应 driver-assistance rear-end collision incident :系统可识别夜间静止车 但车速过快或无法完全刹停 - 驱动之家. Source text: 长安启源回应 driver-assistance rear-end collision incident :系统可识别夜间静止车 但车速过快或无法完全刹停 &nbsp;&nbsp; 驱动之家. Automatic labels: Changan; label: speed_or_distance. Verification status: unverified.",
+    "english_description": "Reported driver-assistance rear-end collision incident : -. English translation unavailable; source text omitted. Automatic labels: Changan; label: speed_or_distance. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4315,7 +4315,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported driver-assistance ≠ automated-driving !司机开智驾40 秒后 rear-end collision 致 3 死,曾双手脱离方向盘 - 新浪网. Source text: driver-assistance ≠ automated-driving !司机开智驾40 秒后 rear-end collision 致 3 死,曾双手脱离方向盘 &nbsp;&nbsp; 新浪网. Automatic labels: label: lane_or_steering. Verification status: unverified.",
+    "english_description": "Reported driver-assistance ≠ automated-driving !40 rear-end collision 3 , -. English translation unavailable; source text omitted. Automatic labels: label: lane_or_steering. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4357,7 +4357,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported BYD 率先承诺为城市领航安全兜底 推动 driver-assistance 普及 - app.xinhuanet.com. Source text: BYD 率先承诺为城市领航安全兜底 推动 driver-assistance 普及 &nbsp;&nbsp; app.xinhuanet.com. Automatic labels: BYD. Verification status: unverified.",
+    "english_description": "Reported BYD driver-assistance - app.xinhuanet.com. English translation unavailable; source text omitted. Automatic labels: BYD. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4402,7 +4402,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 长安启源 rear-end collision incident 官方通报:双方均担责 涉事车曾开 driver-assistance - 东方财富. Source text: 长安启源 rear-end collision incident 官方通报:双方均担责 涉事车曾开 driver-assistance &nbsp;&nbsp; 东方财富. Automatic labels: Changan; label: speed_or_distance. Verification status: unverified.",
+    "english_description": "Reported rear-end collision incident : driver-assistance -. English translation unavailable; source text omitted. Automatic labels: Changan; label: speed_or_distance. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4446,7 +4446,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 3时59分34秒 司机激活智驾 双手脱离方向盘 4时许撞上货车 一家三口身亡 - 东方财富. Source text: 3时59分34秒 司机激活智驾 双手脱离方向盘 4时许撞上货车 一家三口身亡 &nbsp;&nbsp; 东方财富. Automatic labels: label: lane_or_steering. Verification status: unverified.",
+    "english_description": "Reported 35934 4 -. English translation unavailable; source text omitted. Automatic labels: label: lane_or_steering. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4493,7 +4493,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 司机在 highway 上激活智驾后双手脱离方向盘,撞上故障熄火的半挂车,轿车内一家三口身亡 - 光明网. Source text: 司机在 highway 上激活智驾后双手脱离方向盘,撞上故障熄火的半挂车,轿车内一家三口身亡 &nbsp;&nbsp; 光明网. Automatic labels: label: lane_or_steering. Verification status: unverified.",
+    "english_description": "Reported highway ,, -. English translation unavailable; source text omitted. Automatic labels: label: lane_or_steering. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4535,7 +4535,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 轿车 rear-end collision 致3死:事发前司机激活智驾,双手脱离方向盘 - 新浪军事_手机新浪网. Source text: 轿车 rear-end collision 致3死:事发前司机激活智驾,双手脱离方向盘 &nbsp;&nbsp; 新浪军事_手机新浪网. Automatic labels: label: lane_or_steering. Verification status: unverified.",
+    "english_description": "Reported rear-end collision 3:, - _. English translation unavailable; source text omitted. Automatic labels: label: lane_or_steering. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4576,7 +4576,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 赣州发布 incident 调查结果:车主遭车祸前曾开智驾模式,涉事 vehicle 为长安启源 - 新浪财经. Source text: 赣州发布 incident 调查结果:车主遭车祸前曾开智驾模式,涉事 vehicle 为长安启源 &nbsp;&nbsp; 新浪财经. Automatic labels: Changan. Verification status: unverified.",
+    "english_description": "Reported incident :, vehicle -. English translation unavailable; source text omitted. Automatic labels: Changan. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4617,7 +4617,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 又一起涉智驾 incident ,3人 fatal ! - 电子工程专辑. Source text: 又一起涉智驾 incident ,3人 fatal ! &nbsp;&nbsp; 电子工程专辑. Verification status: unverified.",
+    "english_description": "Reported incident ,3 fatal ! -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4663,7 +4663,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 长安启源A07 rear-end collision 致3死背后:事发前约40秒 active driver-assistance , collision 前出现脱手状态 | 大鱼财经 - qq.com. Source text: 长安启源A07 rear-end collision 致3死背后:事发前约40秒 active driver-assistance , collision 前出现脱手状态 | 大鱼财经 &nbsp;&nbsp; qq.com. Automatic labels: Changan; label: driver_misuse_or_inattention. Verification status: unverified.",
+    "english_description": "Reported A07 rear-end collision 3:40 active driver-assistance , collision | - qq.com. English translation unavailable; source text omitted. Automatic labels: Changan; label: driver_misuse_or_inattention. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4709,7 +4709,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 长安启源A07 rear-end collision 致3死背后:事发前约40秒 active driver-assistance , collision 前出现脱手状态 | 大鱼财经 - 凤凰网. Source text: 长安启源A07 rear-end collision 致3死背后:事发前约40秒 active driver-assistance , collision 前出现脱手状态 | 大鱼财经 &nbsp;&nbsp; 凤凰网. Automatic labels: Changan; label: driver_misuse_or_inattention. Verification status: unverified.",
+    "english_description": "Reported A07 rear-end collision 3:40 active driver-assistance , collision | -. English translation unavailable; source text omitted. Automatic labels: Changan; label: driver_misuse_or_inattention. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4755,7 +4755,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 3时59分34秒司机激活 driver-assistance 并双手脱离方向盘,4时许撞上半挂车致3死,涉事 vehicle 长安启源A07搭载22个感知硬件 - Sohu. Source text: 3时59分34秒司机激活 driver-assistance 并双手脱离方向盘,4时许撞上半挂车致3死,涉事 vehicle 长安启源A07搭载22个感知硬件 &nbsp;&nbsp; Sohu. Automatic labels: Changan; label: perception_failure. Verification status: unverified.",
+    "english_description": "Reported 35934 driver-assistance ,43, vehicle A0722 - Sohu. English translation unavailable; source text omitted. Automatic labels: Changan; label: perception_failure. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4797,7 +4797,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported BYD 王传福宣布:为城市领航安全兜底1年,对因 driver-assistance resulted in 的交通 incident ,全额赔付,不设上限 - 证券时报. Source text: BYD 王传福宣布:为城市领航安全兜底1年,对因 driver-assistance resulted in 的交通 incident ,全额赔付,不设上限 &nbsp;&nbsp; 证券时报. Automatic labels: BYD. Verification status: unverified.",
+    "english_description": "Reported BYD :1, driver-assistance resulted in incident ,, -. English translation unavailable; source text omitted. Automatic labels: BYD. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4843,7 +4843,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 离谱!司机开 driver-assistance 后睡着 vehicle 在 highway 超车道上趴窝险被 rear-end collision - 新浪财经. Source text: 离谱!司机开 driver-assistance 后睡着 vehicle 在 highway 超车道上趴窝险被 rear-end collision &nbsp;&nbsp; 新浪财经. Automatic labels: label: driver_misuse_or_inattention. Verification status: unverified.",
+    "english_description": "Reported ! driver-assistance vehicle highway rear-end collision -. English translation unavailable; source text omitted. Automatic labels: label: driver_misuse_or_inattention. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4888,7 +4888,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 致1死1伤!上海一男子 active driver-assistance 超速行车,撞上2名 road 养护工人 - Sohu. Source text: 致1死1伤!上海一男子 active driver-assistance 超速行车,撞上2名 road 养护工人 &nbsp;&nbsp; Sohu. Automatic labels: label: speed_or_distance. Verification status: unverified.",
+    "english_description": "Reported 11! active driver-assistance ,2 road - Sohu. English translation unavailable; source text omitted. Automatic labels: label: speed_or_distance. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4931,7 +4931,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 男子开 driver-assistance 超速分心致1死1伤 - 深圳新闻网. Source text: 男子开 driver-assistance 超速分心致1死1伤 &nbsp;&nbsp; 深圳新闻网. Automatic labels: label: driver_misuse_or_inattention. Verification status: unverified.",
+    "english_description": "Reported driver-assistance 11 -. English translation unavailable; source text omitted. Automatic labels: label: driver_misuse_or_inattention. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -4976,7 +4976,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 上海一男子开 driver-assistance 超速行驶,1个意外致 road 养护工人1死1伤!案情公布 - Sohu. Source text: 上海一男子开 driver-assistance 超速行驶,1个意外致 road 养护工人1死1伤!案情公布 &nbsp;&nbsp; Sohu. Automatic labels: label: speed_or_distance. Verification status: unverified.",
+    "english_description": "Reported driver-assistance ,1 road 11! - Sohu. English translation unavailable; source text omitted. Automatic labels: label: speed_or_distance. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5021,7 +5021,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 上海一男子开 driver-assistance 超速行驶,1个意外致 road 养护工人1死1伤!案情公布 - 上观新闻. Source text: 上海一男子开 driver-assistance 超速行驶,1个意外致 road 养护工人1死1伤!案情公布 &nbsp;&nbsp; 上观新闻. Automatic labels: label: speed_or_distance. Verification status: unverified.",
+    "english_description": "Reported driver-assistance ,1 road 11! -. English translation unavailable; source text omitted. Automatic labels: label: speed_or_distance. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5061,7 +5061,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported driver-assistance ≠ automated-driving !上海一司机弯腰捡瓶酿成致命车祸 - 驱动之家. Source text: driver-assistance ≠ automated-driving !上海一司机弯腰捡瓶酿成致命车祸 &nbsp;&nbsp; 驱动之家. Verification status: unverified.",
+    "english_description": "Reported driver-assistance ≠ automated-driving ! -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5103,7 +5103,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 过度依赖智能 driver-assistance :男子 highway 逆行险酿 incident ,罚款 200 记 12 分 - 新浪财经. Source text: 过度依赖智能 driver-assistance :男子 highway 逆行险酿 incident ,罚款 200 记 12 分 &nbsp;&nbsp; 新浪财经. Verification status: unverified.",
+    "english_description": "Reported driver-assistance : highway incident , 200 12 -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5142,7 +5142,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 过度依赖 driver-assistance ,撞了! - nfplus.nfnews.com. Source text: 过度依赖 driver-assistance ,撞了! &nbsp;&nbsp; nfplus.nfnews.com. Verification status: unverified.",
+    "english_description": "Reported driver-assistance ,! - nfplus.nfnews.com. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5179,7 +5179,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 智驾险要来了 - 21财经. Source text: 智驾险要来了 &nbsp;&nbsp; 21财经. Verification status: unverified.",
+    "english_description": "Reported - 21. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5218,7 +5218,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported L2级 driver-assistance 新国标征求意见,对数据记录提出明确要求 - qq.com. Source text: L2级 driver-assistance 新国标征求意见,对数据记录提出明确要求 &nbsp;&nbsp; qq.com. Verification status: unverified.",
+    "english_description": "Reported L2 driver-assistance , - qq.com. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5255,7 +5255,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 百万智驾险竟是骗局? - m-new.inabr.com. Source text: 百万智驾险竟是骗局? &nbsp;&nbsp; m-new.inabr.com. Verification status: unverified.",
+    "english_description": "Reported ? - m-new.inabr.com. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5292,7 +5292,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 美国确证美国智驾 incident 率高于人类,美国电车创始人依然吹嘘智驾! - Sohu. Source text: 美国确证美国智驾 incident 率高于人类,美国电车创始人依然吹嘘智驾! &nbsp;&nbsp; Sohu. Verification status: unverified.",
+    "english_description": "Reported incident ,! - Sohu. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5329,7 +5329,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 构建智驾 incident 分析新范式——基于汽车行业可信数据空间的智驾保险服务落地实践 - caam.org.cn. Source text: 构建智驾 incident 分析新范式——基于汽车行业可信数据空间的智驾保险服务落地实践 &nbsp;&nbsp; caam.org.cn. Verification status: unverified.",
+    "english_description": "Reported incident —— - caam.org.cn. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5366,7 +5366,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 智驾车险北京先行先试,要试什么? - 21财经. Source text: 智驾车险北京先行先试,要试什么? &nbsp;&nbsp; 21财经. Verification status: unverified.",
+    "english_description": "Reported ,? - 21. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5403,7 +5403,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 智驾车出 incident 谁赔?北京率先破题,L2至L4智驾将迎专属保险 - 21财经. Source text: 智驾车出 incident 谁赔?北京率先破题,L2至L4智驾将迎专属保险 &nbsp;&nbsp; 21财经. Verification status: unverified.",
+    "english_description": "Reported incident ?,L2L4 - 21. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5442,7 +5442,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported smart-driving 成了闯祸精:技术狂飙引发信任危机 - Sohu. Source text: smart-driving 成了闯祸精:技术狂飙引发信任危机 &nbsp;&nbsp; Sohu. Verification status: unverified.",
+    "english_description": "Reported smart-driving : - Sohu. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5479,7 +5479,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 智驾出车祸,谁担责?法律给出最硬核答案:永远是驾驶人! - 维科号. Source text: 智驾出车祸,谁担责?法律给出最硬核答案:永远是驾驶人! &nbsp;&nbsp; 维科号. Verification status: unverified.",
+    "english_description": "Reported ,?:! -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5516,7 +5516,7 @@
       "matchedKeywords": []
     },
     "review_notes": null,
-    "english_description": "Reported 智驾乱象丛生,315将至,今年会有车企上榜吗?『你怎么看』 - 网通社. Source text: 智驾乱象丛生,315将至,今年会有车企上榜吗?『你怎么看』 &nbsp;&nbsp; 网通社. Verification status: unverified.",
+    "english_description": "Reported ,315,?『』 -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5555,7 +5555,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 警惕 driver-assistance 化身马路杀手 - 央广网. Source text: 警惕 driver-assistance 化身马路杀手 &nbsp;&nbsp; 央广网. Verification status: unverified.",
+    "english_description": "Reported driver-assistance -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5600,7 +5600,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported driver-assistance 致死天价赔偿案落定! Tesla 须支付16.8亿元赔偿金 - Sohu. Source text: driver-assistance 致死天价赔偿案落定! Tesla 须支付16.8亿元赔偿金 &nbsp;&nbsp; Sohu. Automatic labels: Tesla. Verification status: unverified.",
+    "english_description": "Reported driver-assistance ! Tesla 16.8 - Sohu. English translation unavailable; source text omitted. Automatic labels: Tesla. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5639,7 +5639,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 首个因 driver-assistance 引发交通 incident 曝光 - aikahao.xcar.com.cn. Source text: 首个因 driver-assistance 引发交通 incident 曝光 &nbsp;&nbsp; aikahao.xcar.com.cn. Verification status: unverified.",
+    "english_description": "Reported driver-assistance incident - aikahao.xcar.com.cn. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5680,7 +5680,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported Li Auto L6智驾 incident 引争议,数据自然灭失难释疑 - 国际金融报. Source text: Li Auto L6智驾 incident 引争议,数据自然灭失难释疑 &nbsp;&nbsp; 国际金融报. Automatic labels: Li Auto. Verification status: unverified.",
+    "english_description": "Reported Li Auto L6 incident , -. English translation unavailable; source text omitted. Automatic labels: Li Auto. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5722,7 +5722,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 阿维塔通报南宁15辆车连撞 incident : driver-assistance 功能未激活 - 观察者. Source text: 阿维塔通报南宁15辆车连撞 incident : driver-assistance 功能未激活 &nbsp;&nbsp; 观察者. Automatic labels: Changan. Verification status: unverified.",
+    "english_description": "Reported 15 incident : driver-assistance -. English translation unavailable; source text omitted. Automatic labels: Changan. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5764,7 +5764,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 阿维塔回应南宁15辆车连撞 incident : driver-assistance 功能未激活 - DoNews. Source text: 阿维塔回应南宁15辆车连撞 incident : driver-assistance 功能未激活 &nbsp;&nbsp; DoNews. Automatic labels: Changan. Verification status: unverified.",
+    "english_description": "Reported 15 incident : driver-assistance - DoNews. English translation unavailable; source text omitted. Automatic labels: Changan. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5806,7 +5806,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 20:51:14【阿维塔通报南宁15辆车连撞 incident : driver-assistance 功能未激活】 - 财联社. Source text: 20:51:14【阿维塔通报南宁15辆车连撞 incident : driver-assistance 功能未激活】 &nbsp;&nbsp; 财联社. Automatic labels: Changan. Verification status: unverified.",
+    "english_description": "Reported 20:51:14【15 incident : driver-assistance 】 -. English translation unavailable; source text omitted. Automatic labels: Changan. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5845,7 +5845,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 市面在售汽车仍为L2级 L3级 automated-driving 有何升级 - app.xinhuanet.com. Source text: 市面在售汽车仍为L2级 L3级 automated-driving 有何升级 &nbsp;&nbsp; app.xinhuanet.com. Verification status: unverified.",
+    "english_description": "Reported L2 L3 automated-driving - app.xinhuanet.com. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5887,7 +5887,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 滥用 driver-assistance 引发 incident :湖南一男子驾驶零跑C11睡着,致 vehicle 撞栏 - 风闻. Source text: 滥用 driver-assistance 引发 incident :湖南一男子驾驶零跑C11睡着,致 vehicle 撞栏 &nbsp;&nbsp; 风闻. Automatic labels: label: driver_misuse_or_inattention. Verification status: unverified.",
+    "english_description": "Reported driver-assistance incident :C11, vehicle -. English translation unavailable; source text omitted. Automatic labels: label: driver_misuse_or_inattention. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5929,7 +5929,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 小米SU7 incident 后,中国推迟 automated-driving 汽车量产计划 - 纽约时报中文网. Source text: 小米SU7 incident 后,中国推迟 automated-driving 汽车量产计划 &nbsp;&nbsp; 纽约时报中文网. Automatic labels: Xiaomi. Verification status: unverified.",
+    "english_description": "Reported SU7 incident , automated-driving -. English translation unavailable; source text omitted. Automatic labels: Xiaomi. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5968,7 +5968,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 拍案·关注交通安全丨 driver-assistance 不是大撒把 智驾不能当代驾 - news.cn. Source text: 拍案·关注交通安全丨 driver-assistance 不是大撒把 智驾不能当代驾 &nbsp;&nbsp; news.cn. Verification status: unverified.",
+    "english_description": "Reported · driver-assistance - news.cn. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -6009,7 +6009,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 误用智驾系统 resulted in 交通 incident 同比激增47%,智驾安全公开课破解认知误区 - 维科号. Source text: 误用智驾系统 resulted in 交通 incident 同比激增47%,智驾安全公开课破解认知误区 &nbsp;&nbsp; 维科号. Automatic labels: label: driver_misuse_or_inattention. Verification status: unverified.",
+    "english_description": "Reported resulted in incident 47%, -. English translation unavailable; source text omitted. Automatic labels: label: driver_misuse_or_inattention. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -6051,7 +6051,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported AITO M7 incident 原因分析: driver-assistance 不值得完全信任! - 新浪网. Source text: AITO M7 incident 原因分析: driver-assistance 不值得完全信任! &nbsp;&nbsp; 新浪网. Automatic labels: Huawei ecosystem. Verification status: unverified.",
+    "english_description": "Reported AITO M7 incident : driver-assistance ! -. English translation unavailable; source text omitted. Automatic labels: Huawei ecosystem. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -6093,7 +6093,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported AITO M7 incident 原因分析: driver-assistance 不值得完全信任! - car.tom.com. Source text: AITO M7 incident 原因分析: driver-assistance 不值得完全信任! &nbsp;&nbsp; car.tom.com. Automatic labels: Huawei ecosystem. Verification status: unverified.",
+    "english_description": "Reported AITO M7 incident : driver-assistance ! - car.tom.com. English translation unavailable; source text omitted. Automatic labels: Huawei ecosystem. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -6132,7 +6132,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 陈震首曝车祸原因:对 driver-assistance 认知不足,低头捡物致严重 collision - 凤凰网财经. Source text: 陈震首曝车祸原因:对 driver-assistance 认知不足,低头捡物致严重 collision &nbsp;&nbsp; 凤凰网财经. Verification status: unverified.",
+    "english_description": "Reported : driver-assistance , collision -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -6171,7 +6171,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 陈震反思劳斯莱斯车祸时 active driver-assistance :智驾得用靠谱的 - 观察者. Source text: 陈震反思劳斯莱斯车祸时 active driver-assistance :智驾得用靠谱的 &nbsp;&nbsp; 观察者. Verification status: unverified.",
+    "english_description": "Reported active driver-assistance : -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -6210,7 +6210,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported automated-driving incident 如何判定?谁应负主要责任? - 维科号. Source text: automated-driving incident 如何判定?谁应负主要责任? &nbsp;&nbsp; 维科号. Verification status: unverified.",
+    "english_description": "Reported automated-driving incident ?? -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -6250,7 +6250,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported driver-assistance ≠ automated-driving !返程路上别陷入这些致命误区 - 珠海网. Source text: driver-assistance ≠ automated-driving !返程路上别陷入这些致命误区 &nbsp;&nbsp; 珠海网. Verification status: unverified.",
+    "english_description": "Reported driver-assistance ≠ automated-driving ! -. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -6292,7 +6292,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 1死1伤,自动 driver-assistance resulted in 车祸! Tesla 被裁定赔偿2.43亿美元!马斯克发声 - 证券时报. Source text: 1死1伤,自动 driver-assistance resulted in 车祸! Tesla 被裁定赔偿2.43亿美元!马斯克发声 &nbsp;&nbsp; 证券时报. Automatic labels: Tesla. Verification status: unverified.",
+    "english_description": "Reported 11, driver-assistance resulted in ! Tesla 2.43! -. English translation unavailable; source text omitted. Automatic labels: Tesla. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -6331,7 +6331,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 车圈圆桌派| driver-assistance 监管收紧,技术创新与安全底线如何平衡? - bjnews.com.cn. Source text: 车圈圆桌派| driver-assistance 监管收紧,技术创新与安全底线如何平衡? &nbsp;&nbsp; bjnews.com.cn. Verification status: unverified.",
+    "english_description": "Reported | driver-assistance ,? - bjnews.com.cn. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -6375,7 +6375,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 小米SU7 incident 后:事发路段路况改变,电子屏轮播提示慎用智驾 - 新华报业网. Source text: 小米SU7 incident 后:事发路段路况改变,电子屏轮播提示慎用智驾 &nbsp;&nbsp; 新华报业网. Automatic labels: Xiaomi. Verification status: unverified.",
+    "english_description": "Reported SU7 incident :, -. English translation unavailable; source text omitted. Automatic labels: Xiaomi. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -6417,7 +6417,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 小米SU7 交通 incident 引全民关注 smart-driving 如何守住安全红线 - 中国青年报. Source text: 小米SU7 交通 incident 引全民关注 smart-driving 如何守住安全红线 &nbsp;&nbsp; 中国青年报. Automatic labels: Xiaomi. Verification status: unverified.",
+    "english_description": "Reported SU7 incident smart-driving -. English translation unavailable; source text omitted. Automatic labels: Xiaomi. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -6459,7 +6459,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 小米SU7发生致命车祸, driver-assistance 功能受质疑 - 纽约时报中文网. Source text: 小米SU7发生致命车祸, driver-assistance 功能受质疑 &nbsp;&nbsp; 纽约时报中文网. Automatic labels: Xiaomi. Verification status: unverified.",
+    "english_description": "Reported SU7, driver-assistance -. English translation unavailable; source text omitted. Automatic labels: Xiaomi. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -6501,7 +6501,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported Robotaxi推出在即, Tesla FSD再曝严重 incident - 观察者. Source text: Robotaxi推出在即, Tesla FSD再曝严重 incident &nbsp;&nbsp; 观察者. Automatic labels: Tesla. Verification status: unverified.",
+    "english_description": "Reported Robotaxi, Tesla FSD incident -. English translation unavailable; source text omitted. Automatic labels: Tesla. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -6540,7 +6540,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported smart-driving 系统引发 incident 该谁担责 - legaldaily.com.cn. Source text: smart-driving 系统引发 incident 该谁担责 &nbsp;&nbsp; legaldaily.com.cn. Verification status: unverified.",
+    "english_description": "Reported smart-driving incident - legaldaily.com.cn. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -6579,7 +6579,7 @@
       ]
     },
     "review_notes": null,
-    "english_description": "Reported 对话|朱西产谈 driver-assistance incident 频发:智能汽车尚难识别静态物体 - bjnews.com.cn. Source text: 对话|朱西产谈 driver-assistance incident 频发:智能汽车尚难识别静态物体 &nbsp;&nbsp; bjnews.com.cn. Verification status: unverified.",
+    "english_description": "Reported | driver-assistance incident : - bjnews.com.cn. English translation unavailable; source text omitted. Verification status: unverified.",
     "english_description_source": "machine_heuristic_v1"
   }
 ]
