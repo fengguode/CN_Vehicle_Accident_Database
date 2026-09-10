@@ -31,6 +31,8 @@ jobs:
           node-version: 24
       - name: Hydrate, collect, and publish
         working-directory: updater
+        env:
+          WEIBO_WEB_COOKIE: ${{ secrets.WEIBO_WEB_COOKIE }}
         run: |
           npm run hydrate -- ../data/reports.json
           npm run backfill

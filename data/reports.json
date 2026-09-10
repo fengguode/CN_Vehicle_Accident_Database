@@ -3283,39 +3283,47 @@
     "source_name": "Google News: public Weibo accident discovery",
     "platform": "weibo_web_index",
     "title": "ACC辅助驾驶追撞致3人死亡 - 微博",
-    "content": "ACC辅助驾驶追撞致3人死亡 &nbsp;&nbsp; 微博",
+    "content": "#辅助驾驶不是自动驾驶# 台湾苗栗发生一起严重车祸。一台厢型车驾驶45岁江男与特斯拉36岁李女，发生碰撞后，两人在两车之间协商。没多久，一台51岁林女驾驶的VOLVO，使用辅助驾驶ACC从后方追撞，造成江男、李女，以及厢型车上的62岁菲律宾女死亡。#ACC辅助驾驶追撞致3人死亡#",
     "author": null,
     "published_at": "2026-08-21T07:00:00.000Z",
     "collected_at": "2026-09-10T03:24:38.669Z",
     "event_date": null,
-    "brand": "Unknown",
+    "brand": "Volvo",
     "model": null,
-    "cause": "unclassified",
-    "cause_confidence": 0,
-    "adas_mode": "unknown",
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "active",
     "road_type": "unknown",
     "severity": "fatal",
-    "province": null,
-    "city": null,
+    "province": "台湾",
+    "city": "Miaoli",
     "injuries": null,
-    "fatalities": null,
+    "fatalities": 3,
     "verification_status": "unverified",
     "relevance_score": 0.9,
     "labels": {
-      "brandMatches": [],
-      "causeMatches": [],
+      "brandMatches": [
+        "Tesla",
+        "Volvo"
+      ],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
       "roadMatches": [],
       "severityMatches": [
         "fatal"
       ],
       "matchedKeywords": [
+        "特斯拉",
+        "追撞",
         "死亡",
-        "辅助驾驶"
+        "使用辅助驾驶",
+        "使用辅助驾驶ACC"
       ]
     },
     "review_notes": null,
-    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: fatal outcome. Report date: 2026-08-21. Source: weibo.com.",
-    "english_description_source": "machine_heuristic_v1"
+    "english_description": "An unverified Weibo report says a Volvo using ACC struck people and vehicles stopped after an earlier collision in Miaoli, Taiwan, killing three people. The post does not establish whether ACC limitations or driver behavior caused the crash.",
+    "english_description_source": "machine_summary_from_source_v1"
   },
   {
     "id": 118,
