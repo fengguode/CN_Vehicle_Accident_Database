@@ -2346,6 +2346,56 @@
     "english_description_source": "machine_heuristic_v1"
   },
   {
+    "id": 209,
+    "fingerprint": "bc3483293599d51d78c93550370cb9306737bdc934d3fc449e658d402904d3b7",
+    "source_url": "https://weibo.com/2/detail/5338721672234779",
+    "discovery_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03N0hvcU9UTGZoWFdidlBvTWdiZjEzR3kwUjZsX3cyNW9MdWNrYzQyWlEwRnRNSGtpc0dLZHNjS0NNeHVCOVRteEJWV1pxdmhCRmxWNlUzVmtXbS1zS2ZtajhNSDNQOU1TOXBB?oc=5",
+    "publisher_name": "weibo.com",
+    "source_name": "unknown",
+    "platform": "weibo_web_index",
+    "title": "理想车主启用辅助驾驶撞车索赔被认定全责 协商仍在进行 - 微博",
+    "content": "男子使用辅助驾驶撞车被认定全责。理想车主称在四川驾车赴理塘，启用车辆辅助驾驶功能后，经一处下坡时车辆左偏越实线，撞上对向车后视镜后驾驶员才刹车，交警认定其全责。理想方回应辅助驾驶有局限性，驾驶员须全程接管，事故系驾驶员未及时干预所致，目前双方仍在协商中。",
+    "author": null,
+    "published_at": "2026-09-02T07:01:32.000Z",
+    "collected_at": "2026-09-10T05:34:54.394Z",
+    "event_date": null,
+    "brand": "Li Auto",
+    "model": null,
+    "cause": "lane_or_steering",
+    "cause_confidence": 0.6,
+    "adas_mode": "active",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": "四川",
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [
+        "Li Auto"
+      ],
+      "causeMatches": [
+        "lane_or_steering",
+        "driver_misuse_or_inattention",
+        "handover_failure",
+        "speed_or_distance"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "理想车主",
+        "左偏",
+        "启用辅助驾驶",
+        "使用辅助驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "An unverified Weibo report says a Li Auto vehicle using driver assistance drifted across a solid line on a downhill road in Sichuan and struck an oncoming vehicle mirror. Police reportedly assigned full responsibility to the driver; the owner and automaker remained in a compensation dispute.",
+    "english_description_source": "machine_summary_from_source_v1"
+  },
+  {
     "id": 7,
     "fingerprint": "f2d41a04a2091e999382b70f5f65788459ae1cece3be54517f0059d0a1d7db93",
     "source_url": "https://finance.sina.com.cn/wm/2026-09-02/doc-iniqkvca4612723.shtml",
