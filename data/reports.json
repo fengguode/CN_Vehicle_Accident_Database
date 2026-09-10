@@ -3275,6 +3275,49 @@
     "english_description_source": "machine_heuristic_v1"
   },
   {
+    "id": 208,
+    "fingerprint": "323a37c1daba455acb498b6857f3470b62726c2cf24a22e75ea22b9678473ea0",
+    "source_url": "https://weibo.com/a/hot/7cce76a251eb1079_0.html?type",
+    "discovery_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyMTNvS08wWDY2Q1FVbmoyaUtvZlhxa3loWkxnR3hMY0pfWTJacm9TVUJVY0o2Q29CNGQ1QjMxY0o3ci1vcDkza1RackphTTRXbVZKa05STE5wNUNKcFpWSUpFSGlodk0w?oc=5",
+    "publisher_name": "weibo.com",
+    "source_name": "Google News: public Weibo accident discovery",
+    "platform": "weibo_web_index",
+    "title": "ACC辅助驾驶追撞致3人死亡 - 微博",
+    "content": "ACC辅助驾驶追撞致3人死亡 &nbsp;&nbsp; 微博",
+    "author": null,
+    "published_at": "2026-08-21T07:00:00.000Z",
+    "collected_at": "2026-09-10T03:24:38.669Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "fatal",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [
+        "fatal"
+      ],
+      "matchedKeywords": [
+        "死亡",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: fatal outcome. Report date: 2026-08-21. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
     "id": 118,
     "fingerprint": "2a183a31487b3d2648f9b69f892c3f780219821d130b33fbf3afcf38484d6dad",
     "source_url": "https://www.qdxin.cn/xin/2026/391101.html",
