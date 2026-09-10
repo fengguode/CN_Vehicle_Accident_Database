@@ -1,13 +1,13 @@
 (() => {
   const labels = {
-    source: '来源',
-    platform: '平台',
-    verification_status: '核验状态',
-    brand: '品牌',
-    cause: '事故原因',
-    road_type: '道路类型',
-    province: '省/地区',
-    city: '城市'
+    source: 'Source',
+    platform: 'Platform',
+    verification_status: 'Verification status',
+    brand: 'Brand',
+    cause: 'Cause',
+    road_type: 'Road type',
+    province: 'Province/region',
+    city: 'City'
   };
   const pretty = value => String(value || 'Unknown').replaceAll('_', ' ');
   const sourceOf = row => row.publisher_name || row.source_name || row.platform || 'Unknown';
@@ -33,7 +33,7 @@
     label.innerHTML = `<span>${esc(labels[key])}</span>`;
     const select = document.createElement('select');
     select.dataset.filter = key;
-    select.innerHTML = `<option value="">全部</option>${values.map(value => `<option value="${esc(value)}">${esc(pretty(value))}</option>`).join('')}`;
+    select.innerHTML = `<option value="">All</option>${values.map(value => `<option value="${esc(value)}">${esc(pretty(value))}</option>`).join('')}`;
     label.append(select);
     return label;
   }
@@ -55,11 +55,11 @@
 
     const panel = document.createElement('section');
     panel.className = 'filters';
-    panel.setAttribute('aria-label', '筛选公开报道');
-    panel.innerHTML = '<strong>筛选公开报道</strong><div class="filter-grid"></div><div class="filter-actions"><button type="button" data-reset>重置筛选</button> <span class="filter-summary" aria-live="polite"></span></div>';
+    panel.setAttribute('aria-label', 'Filter public reports');
+    panel.innerHTML = '<strong>Filter public reports</strong><div class="filter-grid"></div><div class="filter-actions"><button type="button" data-reset>Reset filters</button> <span class="filter-summary" aria-live="polite"></span></div>';
     const grid = panel.querySelector('.filter-grid');
     const queryLabel = document.createElement('label');
-    queryLabel.innerHTML = '<span>关键词</span><input type="search" placeholder="标题、摘要或来源" data-filter="q">';
+    queryLabel.innerHTML = '<span>Keyword</span><input type="search" placeholder="Title, description, or source" data-filter="q">';
     grid.append(queryLabel);
     for (const key of Object.keys(labels)) {
       const values = [...new Set(reports.map(row => valueOf(row, key)).filter(Boolean))].sort((a, b) => String(a).localeCompare(String(b), 'zh-CN'));
@@ -68,7 +68,7 @@
     main.before(panel);
     const empty = document.createElement('p');
     empty.className = 'no-results';
-    empty.textContent = '没有符合当前筛选条件的报道。';
+    empty.textContent = 'No reports match the current filters.';
     empty.hidden = true;
     main.after(empty);
 
@@ -80,13 +80,13 @@
       let visible = 0;
       cards.forEach((card, index) => {
         const row = reports[index] || {};
-        const haystack = [row.title, row.content, row.english_description, sourceOf(row)].filter(Boolean).join(' ').toLowerCase();
+        const haystack = [row.title_en, row.description_en, row.title, row.content, row.english_description, sourceOf(row)].filter(Boolean).join(' ').toLowerCase();
         const matches = (!selected.q || haystack.includes(selected.q)) && Object.keys(labels).every(key => !selected[key] || String(valueOf(row, key)).toLowerCase() === selected[key]);
         card.hidden = !matches;
         if (matches) visible++;
       });
       empty.hidden = visible !== 0;
-      summary.textContent = `显示 ${visible} / ${cards.length} 条`;
+      summary.textContent = `Showing ${visible} / ${cards.length}`;
     };
     controls.forEach(control => control.addEventListener('input', apply));
     panel.querySelector('[data-reset]').addEventListener('click', () => { controls.forEach(control => { control.value = ''; }); apply(); });
