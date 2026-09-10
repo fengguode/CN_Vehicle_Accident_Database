@@ -24,6 +24,7 @@
       .filters button{cursor:pointer;background:#eef4f8}
       .filter-summary{color:#637385;font-size:.9rem}
       .no-results{padding:1rem;background:#fff;border:1px dashed #c8d2dc;border-radius:12px;color:#637385}
+      .article-tools{display:flex;justify-content:flex-end;margin-bottom:.25rem}.lang-toggle{font:inherit;border:1px solid #c8d2dc;border-radius:7px;background:#eef4f8;padding:.3rem .55rem;cursor:pointer}
     `;
     document.head.append(style);
   }
@@ -43,6 +44,20 @@
     const main = document.querySelector('main');
     if (!main) return;
     const cards = [...main.querySelectorAll('article')];
+    cards.forEach(card => {
+      const title = card.querySelector('h2');
+      const summary = card.querySelector('.summary');
+      const button = card.querySelector('.lang-toggle');
+      if (!title || !summary || !button) return;
+      button.addEventListener('click', () => {
+        const chinese = button.dataset.lang === 'en';
+        title.textContent = chinese ? card.dataset.titleZh : card.dataset.titleEn;
+        summary.textContent = chinese ? card.dataset.summaryZh : card.dataset.summaryEn;
+        summary.classList.toggle('english', !chinese);
+        button.dataset.lang = chinese ? 'zh' : 'en';
+        button.textContent = chinese ? 'English' : '中文';
+      });
+    });
     let reports = [];
     try {
       const response = await fetch('data/reports.json', { cache: 'no-store' });
