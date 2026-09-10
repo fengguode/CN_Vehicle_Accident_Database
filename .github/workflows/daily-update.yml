@@ -7,9 +7,14 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   update:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Check out public database
@@ -38,3 +43,12 @@ jobs:
           git add data site
           git diff --cached --quiet || git commit -m "Daily accident data update"
           git push
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload generated site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - name: Deploy generated site
+        id: deployment
+        uses: actions/deploy-pages@v4

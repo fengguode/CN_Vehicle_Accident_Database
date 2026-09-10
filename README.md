@@ -22,6 +22,6 @@ Review the generated diff in this repository, then commit and publish it. Genera
 
 ## Automated updates and hosting
 
-The `Daily accident data update` workflow runs at 00:00 UTC (08:00 Asia/Shanghai), checks out the public methods repository, hydrates its local database from the current public JSON, collects enabled sources, republishes the sanitized JSON and HTML, and commits changes with the public repository's `GITHUB_TOKEN`. It is also manually runnable from the Actions tab.
+The `Daily accident data update` workflow runs at 00:00 UTC (08:00 Asia/Shanghai), checks out the public methods repository, hydrates its local database from the current public JSON, collects enabled sources, republishes the sanitized JSON and HTML, commits changes with the public repository's `GITHUB_TOKEN`, and deploys the generated `site/` to GitHub Pages in the same run. Deploying in the same workflow is intentional because a `GITHUB_TOKEN` push does not trigger another workflow. It is also manually runnable from the Actions tab.
 
 The `Deploy public database site` workflow publishes `site/` to GitHub Pages on every push. In repository Settings → Pages, select **GitHub Actions** as the source if Pages has not been enabled yet.
