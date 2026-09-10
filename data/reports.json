@@ -1,5 +1,436 @@
 [
   {
+    "id": 259,
+    "fingerprint": "6b399d44d711a19c0a973be3fd3ee8b2ab25f5ae4b9a5923165bb6142d71d30d",
+    "source_url": "https://weibo.com/7983184984/Rhuv8B9QM",
+    "discovery_url": "https://weibo.com/7983184984/Rhuv8B9QM",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "#小米回应澎程试驾事故# 今天试驾小米澎程的过程中,教练一直在我强调:“小米智驾打开以后就放心大胆的交给它开”。在晚高峰车流量很大的场景下,它开的也确实不错,甚至出现了为了优先选道微微别了一把后车的情况。要说是因为智驾或者车辆故障出现了失控驶出车道的情况,我其实是不太信的 ​ 展开c",
+    "content": "c 大懒货的懒货 今天19:53 来自 Xiaomi 13 #小米回应澎程试驾事故# 今天试驾小米澎程的过程中,教练一直在我强调:“小米智驾打开以后就放心大胆的交给它开”。在晚高峰车流量很大的场景下,它开的也确实不错,甚至出现了为了优先选道微微别了一把后车的情况。要说是因为智驾或者车辆故障出现了失控驶出车道的情况,我其实是不太信的 ​ 展开c 转发 评论 赞",
+    "author": "c",
+    "published_at": null,
+    "collected_at": "2026-09-10T15:58:07.746Z",
+    "event_date": null,
+    "brand": "Xiaomi",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "Xiaomi"
+      ],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "xiaomi"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving Xiaomi on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 253,
+    "fingerprint": "85f4585ed103211f81aa3cce3380ca34cb4765777fe85db8cbfed2f4548beae5",
+    "source_url": "https://weibo.com/7844425653/RhpsWnIhr",
+    "discovery_url": "https://weibo.com/7844425653/RhpsWnIhr",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "多亏了华为智驾的AEB自动紧急制动,不然就追尾了。 L鯊魚説的微博视频 ​",
+    "content": "c 鯊魚説 今天07:04 来自 微博视频号 !!! 多亏了华为智驾的AEB自动紧急制动,不然就追尾了。 L鯊魚説的微博视频 ​ 播放视频 https://video.weibo.com/show?fid=1034:5341295418474505 转发 1 1",
+    "author": "c",
+    "published_at": null,
+    "collected_at": "2026-09-10T15:58:07.730Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "追尾"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 252,
+    "fingerprint": "8b3580bb0cdbb8706c2011b1626123a93b34b6dffc1cb00ae70c6d00e47b4a44",
+    "source_url": "https://weibo.com/6251672531/RhsEQ7VUN",
+    "discovery_url": "https://weibo.com/6251672531/RhsEQ7VUN",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "特斯拉确实把安全的标尺从「撞后保命」推向「不撞才是真安全」,并以辅助驾驶事故率数据作为核心论证——这是对传统汽车安全叙事的一次重要重塑。",
+    "content": "c 徐世涛 今天15:11 来自 Android 特斯拉确实把安全的标尺从「撞后保命」推向「不撞才是真安全」,并以辅助驾驶事故率数据作为核心论证——这是对传统汽车安全叙事的一次重要重塑。 特斯拉是用「事故率/碰撞率」来重新定义汽车安全,把评判标准从传统的「撞了之后保护得多好」前移到了「最好别撞上」。 特斯拉的安全逻辑:以「避免碰 ​ 展开c 1 1 赞",
+    "author": "c",
+    "published_at": null,
+    "collected_at": "2026-09-10T15:58:07.728Z",
+    "event_date": null,
+    "brand": "Tesla",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "Tesla"
+      ],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "特斯拉",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 241,
+    "fingerprint": "f90097051f6ef32819eac7898672509e4d56365ba035551d267d72676c7f69b5",
+    "source_url": "https://weibo.com/1898050623/Rhqa3gbww",
+    "discovery_url": "https://weibo.com/1898050623/Rhqa3gbww",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "#文明交通·安全伴您行##文明交通礼行天下# 辅助驾驶≠自动驾驶# 【#别把辅助驾驶当“全自动”#】@湖南高速警察四支队 8月28日凌晨5时许,沪昆高速(东往西)1187km处,一辆大客车突然向左变道,该车道上的小车并未减速避让,而是径直撞上了大客车尾部。事故造成小车严重受损,小车驾驶人李某与车上乘 ​ 展开c",
+    "content": "c 河南交警 今天08:50 来自 微博视频号 #文明交通·安全伴您行##文明交通礼行天下# 辅助驾驶≠自动驾驶# 【#别把辅助驾驶当“全自动”#】@湖南高速警察四支队 8月28日凌晨5时许,沪昆高速(东往西)1187km处,一辆大客车突然向左变道,该车道上的小车并未减速避让,而是径直撞上了大客车尾部。事故造成小车严重受损,小车驾驶人李某与车上乘 ​ 展开c 播放视频 https://video.weibo.com/show?fid=1034:5341277194223659 转发 评论 赞",
+    "author": "c",
+    "published_at": null,
+    "collected_at": "2026-09-10T15:58:07.692Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "highway",
+    "severity": "property_damage",
+    "province": "河南",
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [
+        "highway"
+      ],
+      "severityMatches": [
+        "property_damage"
+      ],
+      "matchedKeywords": [
+        "高速",
+        "受损",
+        "辅助驾驶",
+        "自动驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on a highway in Henan, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: property damage. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 240,
+    "fingerprint": "6b2e302d4412f81e8db3c559b5030d239ecae29b46fee714927b0debf0cea5b6",
+    "source_url": "https://weibo.com/7754931118/Rhrb6zp2w",
+    "discovery_url": "https://weibo.com/7754931118/Rhrb6zp2w",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "遇到前车变道不减速避让,而是直接撞上去。",
+    "content": "c 二狗App单身青年图鉴 今天11:25 来自 理想汽车超话 遇到前车变道不减速避让,而是直接撞上去。 这样的理想智驾,你敢用吗? 视频后面有理想官方对事故的回复。@李想 @理想汽车 理想汽车超话 L二狗App单身青年图鉴的微博视频 ​ 播放视频 https://video.weibo.com/show?fid=1034:5341559600644120 转发 评论 赞",
+    "author": "c",
+    "published_at": null,
+    "collected_at": "2026-09-10T15:58:07.690Z",
+    "event_date": null,
+    "brand": "Li Auto",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "Li Auto"
+      ],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "理想汽车"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving Li Auto on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 239,
+    "fingerprint": "cd2f59d6e06b745d7371b5f29e7713cbb8e0dd111ecc3a66617f6b8325fb2537",
+    "source_url": "https://weibo.com/7957234182/RhsDZdciG",
+    "discovery_url": "https://weibo.com/7957234182/RhsDZdciG",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "特斯拉开始向部分AI4车型推送自动碰撞规避功能,包含在2026.27.6软件和FSD监督版V14.3.9中,目前首先面向早期测试用户开放。",
+    "content": "c 莱特宁NEV 今天15:09 特斯拉开始向部分AI4车型推送自动碰撞规避功能,包含在2026.27.6软件和FSD监督版V14.3.9中,目前首先面向早期测试用户开放。 与传统自动紧急制动不同,这套系统可以在驾驶员手动驾驶时判断潜在碰撞风险。 如果系统发现驾驶员注意力不足、没有及时采取动作,或FSD可能被意外退出,车辆可以主动启用FSD ​ 展开c 转发 评论 1",
+    "author": "c",
+    "published_at": null,
+    "collected_at": "2026-09-10T15:58:07.688Z",
+    "event_date": null,
+    "brand": "Tesla",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "inactive",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "Tesla"
+      ],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "特斯拉",
+        "fsd",
+        "手动驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The report says driver assistance was inactive. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 238,
+    "fingerprint": "b1d9fc693e683f9e82996e10550d8ecf24a9699ee6942c174e95984cd9783f9c",
+    "source_url": "https://weibo.com/2553177023/RhuJwf1wJ",
+    "discovery_url": "https://weibo.com/2553177023/RhuJwf1wJ",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "2. FCW前方碰撞预警:还没到紧急制动阶段,提前声光提醒前车距离过近。",
+    "content": "c 哈利宝舵主 38分钟前 转赞人数超过100 来自 哈利宝舵主超话 汽车都有哪些辅助功能?#辅助驾驶到底是实用还是炫技##哪些辅助驾驶功能会让你安心# L1级别辅助: 1. AEB自动紧急制动:识别车辆、行人、非机动车,风险下自动刹车。保命功能。 2. FCW前方碰撞预警:还没到紧急制动阶段,提前声光提醒前车距离过近。 3. BSD盲区监测:变道时,盲区有车,后视镜指示灯+ ​ 展开c 9 49 166",
+    "author": "c",
+    "published_at": null,
+    "collected_at": "2026-09-10T15:58:07.686Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "车距",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 232,
+    "fingerprint": "e6f5aab275c2fe60555ab963d3f9c351b9dc7859ff265286b87a4360ab75c7c2",
+    "source_url": "https://weibo.com/6464787632/RhtmRzkFY",
+    "discovery_url": "https://weibo.com/6464787632/RhtmRzkFY",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "坏消息是,自动驾驶赛车比赛也会有撞车。",
+    "content": "c ArthurShen_Origin 今天17:00 来自 微博视频号 坏消息是,自动驾驶赛车比赛也会有撞车。 好消息是,不用马修去救人了。 #大V聊车# @拆那奥拓 LArthurShen_Origin的微博视频 ​ 播放视频 https://video.weibo.com/show?fid=1034:5341267857703018 转发 1 4",
+    "author": "c",
+    "published_at": null,
+    "collected_at": "2026-09-10T15:58:07.674Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "撞车",
+        "自动驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 223,
+    "fingerprint": "33c5db0dd6fb6e2e18c587174606981d6b04fc37020d35a768716269bc2bc2e7",
+    "source_url": "https://weibo.com/1920237513/RhsNyDrdw",
+    "discovery_url": "https://weibo.com/1920237513/RhsNyDrdw",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "粗粮的智驾事故,此前智驾赛道集体吹\"全场景\",一到实测就各种\"驾驶员的锅\"",
+    "content": "c 桃小仙的碎碎念 今天15:33 来自 OPPO Find X8 粗粮的智驾事故,此前智驾赛道集体吹\"全场景\",一到实测就各种\"驾驶员的锅\" 💬 宣传的时候\"全场景智驾\",出事的时候\"驾驶员全责\",智驾行业的薛定谔责任永远在用户那边 ​ 19 5 93",
+    "author": "c",
+    "published_at": null,
+    "collected_at": "2026-09-10T15:58:07.651Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": []
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 219,
+    "fingerprint": "8611a965a43b0f9f21571179a9d33f10a63ffb6ec9edca295abd038599c64294",
+    "source_url": "https://weibo.com/1938523582/Rhsd16j20",
+    "discovery_url": "https://weibo.com/1938523582/Rhsd16j20",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "#宁波司机智驾100码全速追尾# 近日,甬台温高速就发生一起追尾事故,为广大驾驶人敲响警钟。宁波交警向 @宁波晚报 详细讲述事故过程:9月1日凌晨4点多,驾驶人陈某驾车从宁波出发,中途在甬台温高速宁海服务区休整半小时后再次上路。彼时,高速路面车流稀少,陈某随即开启车辆辅助驾驶功能。由于多次使 ​ 展开c",
+    "content": "c 宁波晚报 今天14:03 来自 微博视频号 #宁波司机智驾100码全速追尾# 近日,甬台温高速就发生一起追尾事故,为广大驾驶人敲响警钟。宁波交警向 @宁波晚报 详细讲述事故过程:9月1日凌晨4点多,驾驶人陈某驾车从宁波出发,中途在甬台温高速宁海服务区休整半小时后再次上路。彼时,高速路面车流稀少,陈某随即开启车辆辅助驾驶功能。由于多次使 ​ 展开c 播放视频 https://video.weibo.com/show?fid=1034:5341597127344157 2 3 12",
+    "author": "c",
+    "published_at": null,
+    "collected_at": "2026-09-10T15:58:07.643Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "highway",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [
+        "highway"
+      ],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "追尾",
+        "高速",
+        "服务区",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
     "id": 184,
     "fingerprint": "ebfe45b8537e480bb0a06c0a3418b90e1c77cc69f512b0e751f668697afaa294",
     "source_url": "https://www.ttplus.cn/Jwikiqp20cc/",
@@ -84,6 +515,147 @@
     "english_description_source": "machine_heuristic_v1"
   },
   {
+    "id": 260,
+    "fingerprint": "635cf10dd5d63bab0e9493cb767e8efb26a6f150b6d736b315719af90adb42af",
+    "source_url": "https://weibo.com/5453217483/RhgCfzGyL",
+    "discovery_url": "https://weibo.com/5453217483/RhgCfzGyL",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "#小米澎程首撞#9月8日晚一辆小米澎程试驾车路口转弯为前车让道,客户紧张误将油门当刹车,车辆驶出车道冲上绿化带,行车记录显示未撞行人,无人受伤;9月9日凌晨小米辟谣发文定性操作失误,排除车辆失控或智驾故障。",
+    "content": "c 赤心筑梦师 09月09日 22:53 转赞人数超过10 来自 Android #小米澎程首撞#9月8日晚一辆小米澎程试驾车路口转弯为前车让道,客户紧张误将油门当刹车,车辆驶出车道冲上绿化带,行车记录显示未撞行人,无人受伤;9月9日凌晨小米辟谣发文定性操作失误,排除车辆失控或智驾故障。 “首撞”热搜更多是新车高关注度放大的舆情,不宜直接等同于质量事故。 试驾陌生电 ​ 展开c 转发 1 13",
+    "author": "c",
+    "published_at": "2026-09-09T14:53:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.750Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "urban",
+    "severity": "minor_injury",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [
+        "urban"
+      ],
+      "severityMatches": [
+        "minor_injury"
+      ],
+      "matchedKeywords": [
+        "路口",
+        "受伤"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an urban road, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: minor injury. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 213,
+    "fingerprint": "f7de119869eada8cdc7b443180c4c812fa9fb43471534e7b5d39168d796b1df6",
+    "source_url": "https://weibo.com/5646104164/Rhm31bHUw",
+    "discovery_url": "https://weibo.com/5646104164/Rhm31bHUw",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "8月28日凌晨5时许,沪昆高速上,一辆大客车突然向左变道,后方小车并未减速避让,而是径直撞上了大客车尾部。事故造成小车严重受损,小车驾驶人与车上乘客轻微受伤。",
+    "content": "c 古风悠存 09月09日 22:21 来自 钛7EV闪充iPhone客户端 司机直言:“还是不能太相信辅助驾驶了!” 湖南高速交警消息: 8月28日凌晨5时许,沪昆高速上,一辆大客车突然向左变道,后方小车并未减速避让,而是径直撞上了大客车尾部。事故造成小车严重受损,小车驾驶人与车上乘客轻微受伤。 经询,小车司机当时开启了车辆的辅助驾驶功能,当看见前方大客车突 ​ 展开c 转发 3 3",
+    "author": "c",
+    "published_at": "2026-09-09T14:21:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.627Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "highway",
+    "severity": "minor_injury",
+    "province": "湖南",
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [
+        "highway"
+      ],
+      "severityMatches": [
+        "minor_injury",
+        "property_damage"
+      ],
+      "matchedKeywords": [
+        "高速",
+        "受伤",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on a highway in Hunan, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: minor injury. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 242,
+    "fingerprint": "a49ef2d26a13869b627654036dcf2782834394d5e7c12059eb492b30599923be",
+    "source_url": "https://weibo.com/2718503193/Rh1SRcEpH",
+    "discovery_url": "https://weibo.com/2718503193/Rh1SRcEpH",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "【尊界V800交通事故说明!】",
+    "content": "c 郑谊- 09月09日 20:18 转赞人数超过100 来自 微博网页版 【尊界V800交通事故说明!】 9 月 7 日早 7 点 40 分,尊界 V800 一台试驾车在路口绿灯直行时,与一台低速代步车发生碰撞,代步车驾驶员受伤送医,事件引发行业关注。 根据尊界官方发布的初步通报,事故发生时车辆为人工驾驶状态,高阶智驾并未开启;车辆 AEB 自动紧急制动系统已经正常触发,但因为 ​ 展开c 1 1 100",
+    "author": "c",
+    "published_at": "2026-09-09T12:18:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.694Z",
+    "event_date": null,
+    "brand": "Huawei ecosystem",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "inactive",
+    "road_type": "urban",
+    "severity": "minor_injury",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "Huawei ecosystem"
+      ],
+      "causeMatches": [],
+      "roadMatches": [
+        "urban"
+      ],
+      "severityMatches": [
+        "minor_injury"
+      ],
+      "matchedKeywords": [
+        "尊界",
+        "路口",
+        "受伤",
+        "人工驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving Huawei ecosystem on an urban road, categorized as an unclassified cause. The report says driver assistance was inactive. Coded outcome: minor injury. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
     "id": 163,
     "fingerprint": "a84680d710edadbdc96052a0b6ff344364b385ec707797156b36f8459e7c1978",
     "source_url": "https://auto.sina.cn/2026-09-09/detail-inirfivw3798893.d.html",
@@ -127,6 +699,92 @@
     "english_description_source": "machine_heuristic_v1"
   },
   {
+    "id": 243,
+    "fingerprint": "d2002c3b02097b53c0c779ac138f0b3240a419b0a6328e0ab3f30b7437b56778",
+    "source_url": "https://weibo.com/1047467705/RhjWna2cL",
+    "discovery_url": "https://weibo.com/1047467705/RhjWna2cL",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "【人机共驾,出了事故谁负责?】本篇来自《新京报中文学术文摘》2026年第16期(总第31期)。徐振华关注的,是人机共驾模式下交通事故的侵权归责问题。技术快速迭代,智能营销话术与用户实际体验之间的落差屡次引发争议。近年来,不时有私家车发生智驾交通事故。常见情形是:车辆在辅助或某个等级的自动 ​ 展开c",
+    "content": "c 新京报书评周刊 09月09日 17:00 来自 微博 weibo.com 【人机共驾,出了事故谁负责?】本篇来自《新京报中文学术文摘》2026年第16期(总第31期)。徐振华关注的,是人机共驾模式下交通事故的侵权归责问题。技术快速迭代,智能营销话术与用户实际体验之间的落差屡次引发争议。近年来,不时有私家车发生智驾交通事故。常见情形是:车辆在辅助或某个等级的自动 ​ 展开c 新京报书评周刊 人机共驾,出了事故谁负责? 转发 评论 赞",
+    "author": "c",
+    "published_at": "2026-09-09T09:00:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.695Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": []
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 215,
+    "fingerprint": "1ae46cfb273e274dc28f22aa83fd5d7e7908844680658567638a728d52a56864",
+    "source_url": "https://weibo.com/2054302531/RhjVUlkAz",
+    "discovery_url": "https://weibo.com/2054302531/RhjVUlkAz",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "#辅助驾驶≠自动驾驶# 【#别把辅助驾驶当“全自动”#】@湖南高速警察四支队 8月28日凌晨5时许,沪昆高速(东往西)1187km处,一辆大客车突然向左变道,该车道上的小车并未减速避让,而是径直撞上了大客车尾部。事故造成小车严重受损,小车驾驶人李某与车上乘客轻微受伤。经询,李某当时开启了车辆的辅 ​ 展开c",
+    "content": "c 湖南高速警察 09月09日 16:58 来自 微博视频号 #辅助驾驶≠自动驾驶# 【#别把辅助驾驶当“全自动”#】@湖南高速警察四支队 8月28日凌晨5时许,沪昆高速(东往西)1187km处,一辆大客车突然向左变道,该车道上的小车并未减速避让,而是径直撞上了大客车尾部。事故造成小车严重受损,小车驾驶人李某与车上乘客轻微受伤。经询,李某当时开启了车辆的辅 ​ 展开c 播放视频 https://video.weibo.com/show?fid=1034:5341277194223659 13 11 20",
+    "author": "c",
+    "published_at": "2026-09-09T08:58:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.632Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "highway",
+    "severity": "minor_injury",
+    "province": "湖南",
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [
+        "highway"
+      ],
+      "severityMatches": [
+        "minor_injury",
+        "property_damage"
+      ],
+      "matchedKeywords": [
+        "高速",
+        "受伤",
+        "辅助驾驶",
+        "自动驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on a highway in Hunan, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: minor injury. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
     "id": 165,
     "fingerprint": "76099b6f61fad58bc4947482a56cb334cf47abdfafff85c39e2cbcf5122df36a",
     "source_url": "https://finance.sina.com.cn/roll/2026-09-09/doc-inirfivw3798898.shtml",
@@ -167,6 +825,49 @@
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-09. Source: finance.sina.com.cn.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 210,
+    "fingerprint": "7b539a68c672bc12c30ab54efd17efe8822888a5d75d69bdfabcbe073b53dfbe",
+    "source_url": "https://weibo.com/1963106735/RhjJr3hwR",
+    "discovery_url": "https://weibo.com/1963106735/RhjJr3hwR",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "理想汽车辅助驾驶未能识别出行人导致车祸。当时光线良好,也没有任何干扰因素,所以不清楚为何没有识别出来。#理想i8##李想称i9全世界绝无仅有##理想汽车将全系搭载自研电池# L搜狐汽车的微博视频 ​",
+    "content": "c 搜狐汽车 09月09日 16:28 来自 微博视频号 理想汽车辅助驾驶未能识别出行人导致车祸。当时光线良好,也没有任何干扰因素,所以不清楚为何没有识别出来。#理想i8##李想称i9全世界绝无仅有##理想汽车将全系搭载自研电池# L搜狐汽车的微博视频 ​ 播放视频 https://video.weibo.com/show?fid=1034:5341274006552622 67 76 218",
+    "author": "c",
+    "published_at": "2026-09-09T08:28:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.616Z",
+    "event_date": null,
+    "brand": "Li Auto",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "Li Auto"
+      ],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "理想汽车",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving Li Auto on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -300,6 +1001,46 @@
     "english_description_source": "machine_heuristic_v1"
   },
   {
+    "id": 212,
+    "fingerprint": "f4030361cc246eb9bd4ff741a5f0dde6f98252b8b27ca0888fc5591cbfd47509",
+    "source_url": "https://weibo.com/7214085188/Rhipuux1K",
+    "discovery_url": "https://weibo.com/7214085188/Rhipuux1K",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "#小米回应澎程试驾事故# 蛮有趣的,怎么不提防误踩功能呢?",
+    "content": "c TT玩车 09月09日 13:06 来自 微博网页版 #小米回应澎程试驾事故# 蛮有趣的,怎么不提防误踩功能呢? 最高法已经明确因车辆存在产品缺陷导致交通事故造成损害,当事人请求生产者或者销售者依照民法典第七编第四章的规定承担赔偿责任的,人民法院应予支持。 具备辅助驾驶功能的汽车因车辆缺陷与驾驶人的过错行为结合导致同一损害,当事人依据 ​ 展开c 转发 1 3",
+    "author": "c",
+    "published_at": "2026-09-09T05:06:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.625Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
     "id": 197,
     "fingerprint": "89184f2ac3d5fa80b42c153761509bd2d56fe4f11071e567bd52119293535be1",
     "source_url": "https://www.ttplus.cn/wiki-2026-09-09-dpkcjqzy.html",
@@ -340,6 +1081,44 @@
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-09. Source: ttplus.cn.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 229,
+    "fingerprint": "af50486d4bd91057629e3fee9b15576f2a04dbe80801b9543f3aea5e65bebdb5",
+    "source_url": "https://weibo.com/6406826296/Rhi92nPMZ",
+    "discovery_url": "https://weibo.com/6406826296/Rhi92nPMZ",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "快乐的时光总是短暂的,一段时间过后,智驾行业发生了一次大事故,从那以后各家智驾版本的测试发版开始受到严格管 ​ 展开c",
+    "content": "c 影总Tim 09月09日 12:25 来自 iPhone 17 Pro Max 每隔一段时间就会看到这样的表述,我觉得我还是有必要帮你们答疑解惑一下发生了什么变化。 很久很久以前,有七颗鸟蛋可以拿到 Ad 的最新版本,测试,反馈,以及分享给大家最新的体验。 快乐的时光总是短暂的,一段时间过后,智驾行业发生了一次大事故,从那以后各家智驾版本的测试发版开始受到严格管 ​ 展开c 4 57 59",
+    "author": "c",
+    "published_at": "2026-09-09T04:25:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.665Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": []
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -419,6 +1198,168 @@
     "english_description_source": "machine_heuristic_v1"
   },
   {
+    "id": 255,
+    "fingerprint": "c8fad2e52292a30b9c5e395f857e47fadc39cb6af15572ec67d6c311ee4de51f",
+    "source_url": "https://weibo.com/6249379680/RhgRZoaP0",
+    "discovery_url": "https://weibo.com/6249379680/RhgRZoaP0",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "小米澎程这首撞来得有点快,刚上市第二天试驾车就冲进了绿化带。官方凌晨迅速回应,定性为客户紧张误踩油门,排除了车辆质量或智驾背锅的嫌疑,也没人受伤。",
+    "content": "c 礼哥 09月09日 09:11 小米澎程这首撞来得有点快,刚上市第二天试驾车就冲进了绿化带。官方凌晨迅速回应,定性为客户紧张误踩油门,排除了车辆质量或智驾背锅的嫌疑,也没人受伤。 很多人纠结AEB为啥没刹住,其实这在技术逻辑上挺说得通。自动紧急制动主要识别车辆和行人这些标准目标,绿化带这种软性植被在传感器眼里可能 ​ 展开c 转发 6 5",
+    "author": "c",
+    "published_at": "2026-09-09T01:11:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.734Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "minor_injury",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [
+        "minor_injury"
+      ],
+      "matchedKeywords": [
+        "受伤"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: minor injury. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 216,
+    "fingerprint": "ed5b6722fdec3f2ca0dfb0c8281119182543f4dd74ec229bfa9e49f96d046126",
+    "source_url": "https://weibo.com/2661992301/RhgMtcnaC",
+    "discovery_url": "https://weibo.com/2661992301/RhgMtcnaC",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "小米澎程上市第二天就上演绿化带首撞,官方视频定性为驾驶员误踩油门。这事看似是个体操作失误,实则暴露了人机共驾时代的底层逻辑冲突。",
+    "content": "c 买家张俊 09月09日 08:57 小米澎程上市第二天就上演绿化带首撞,官方视频定性为驾驶员误踩油门。这事看似是个体操作失误,实则暴露了人机共驾时代的底层逻辑冲突。 在科技视角下,辅助驾驶系统就像一套高并发的感知算法,它能处理99%的标准路况,但在面对高耸绿化带这种非结构化障碍物时,往往存在感知盲区或决策迟疑。当系统 ​ 展开c 8 10 14",
+    "author": "c",
+    "published_at": "2026-09-09T00:57:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.634Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "perception_failure",
+    "cause_confidence": 0.75,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "perception_failure"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "感知",
+        "障碍物",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible perception failure. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 256,
+    "fingerprint": "c34f7d197213f9a9c9527e8c8f0bfe7fd1e6178b21bf56f83ec87bcdd23426b1",
+    "source_url": "https://weibo.com/2919479201/RhgKlFpG7",
+    "discovery_url": "https://weibo.com/2919479201/RhgKlFpG7",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "#小米回应澎程试驾事故#前天刚为小米叫好,今天它就跳上了绿化带,看起来有30厘米高的混凝土台子也没让它停下。",
+    "content": "c 小明同学的杂谈 09月09日 08:52 来自 OPPO Find X9 #小米回应澎程试驾事故#前天刚为小米叫好,今天它就跳上了绿化带,看起来有30厘米高的混凝土台子也没让它停下。 智搜解释说绿化带在雷达看来不能作为刚性约束,混凝土也发现不了?小米的智驾还真得继续努力。 ​ 播放视频 https://video.weibo.com/show?fid=1034:5341159992786964 转发 14 16",
+    "author": "c",
+    "published_at": "2026-09-09T00:52:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.739Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": []
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 254,
+    "fingerprint": "f94b78f34ed6c12eaee013b403dd05c0277df975c37ac5ed8c83ffadb394969f",
+    "source_url": "https://weibo.com/2889942201/RhgEaqkkQ",
+    "discovery_url": "https://weibo.com/2889942201/RhgEaqkkQ",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "客户试驾小米澎程,油门当刹车误踩,不是车失控、不是智驾背锅。",
+    "content": "c 成小直 09月09日 08:36 新车最怕的是什么? 就是遇上黄师傅试驾! 客户试驾小米澎程,油门当刹车误踩,不是车失控、不是智驾背锅。 平白无故,给了人带节奏的机会...... ​#小米澎程##小米回应澎程试驾事故# ​​​​ 播放视频 https://video.weibo.com/show?fid=1034:5341136127197194 1 18 9",
+    "author": "c",
+    "published_at": "2026-09-09T00:36:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.733Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": []
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
     "id": 166,
     "fingerprint": "744ba492f1375df0cd951c9846bee88d83d91c95e1667a161d1bf8fd452c7380",
     "source_url": "https://chejiahao.autohome.com.cn/info/26406036",
@@ -456,6 +1397,46 @@
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-09. Source: chejiahao.autohome.com.cn.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 249,
+    "fingerprint": "d371b2d94d8ad01e4e15a7b68875297ad7faf6b3fb9dca138760372c92044f6e",
+    "source_url": "https://weibo.com/2370627490/RhgqI3RKo",
+    "discovery_url": "https://weibo.com/2370627490/RhgqI3RKo",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "赛博茶馆超话【虾说热搜】#小米澎程首撞# 🦐",
+    "content": "c 夏目可可茶 AI生成 09月09日 08:03 来自 DeepSeek模型 赛博茶馆超话【虾说热搜】#小米澎程首撞# 🦐 看到小米澎程试驾事故登上科技榜第一,我的第一反应不是'自动驾驶不靠谱',而是:终于有人把测试阶段的真实面貌拍给大家看了。 先说一个反直觉的判断:试驾出事故,未必是坏事。 不是幸灾乐祸。是因为整个汽车行业对自动驾驶的叙事已经严重失真— ​ 展开c 转发 6 2",
+    "author": "c",
+    "published_at": "2026-09-09T00:03:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.711Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "自动驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1277,6 +2258,57 @@
     "english_description_source": "machine_heuristic_v1"
   },
   {
+    "id": 250,
+    "fingerprint": "14ac0112998fd0addce47462794498ceb9b31a2abf40084796802a2149d0ef1c",
+    "source_url": "https://weibo.com/5281491251/Rh7hHdzJN",
+    "discovery_url": "https://weibo.com/5281491251/Rh7hHdzJN",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "【理想NOA辅助驾驶实线突然变道致车辆被公交车追尾 车主:之前智驾时也曾压实线】广东深圳车主孙女士向信号新闻(0532-80889431)反映,8月24日,她的理想L7 Max汽车在开启NOA高阶辅助驾驶功能行驶时,在道路实线区域变道,导致车辆被后方公交车追尾。事故发生后,孙女士称理想汽车工作人员虽口头认可事 ​ 展开c",
+    "content": "c 信网 09月08日 08:46 来自 微博视频号 【理想NOA辅助驾驶实线突然变道致车辆被公交车追尾 车主:之前智驾时也曾压实线】广东深圳车主孙女士向信号新闻(0532-80889431)反映,8月24日,她的理想L7 Max汽车在开启NOA高阶辅助驾驶功能行驶时,在道路实线区域变道,导致车辆被后方公交车追尾。事故发生后,孙女士称理想汽车工作人员虽口头认可事 ​ 展开c 播放视频 https://video.weibo.com/show?fid=1034:5340793242845243 转发 评论 赞",
+    "author": "c",
+    "published_at": "2026-09-08T00:46:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.713Z",
+    "event_date": null,
+    "brand": "Li Auto",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "other_or_unknown",
+    "severity": "unknown",
+    "province": "广东",
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "Li Auto"
+      ],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [
+        "other_or_unknown"
+      ],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "理想汽车",
+        "理想l",
+        "追尾",
+        "道路",
+        "辅助驾驶",
+        "noa"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving Li Auto on an unspecified road in Guangdong, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
     "id": 191,
     "fingerprint": "b9e6090addc5039fe66023422a303dc98529daf4b23f60a4faf72c6b9420b1ac",
     "source_url": "https://www.qdxin.cn/xin/2026/391920.html",
@@ -1362,6 +2394,97 @@
     },
     "review_notes": null,
     "english_description": "Verified report involving an unidentified vehicle on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-09-08. Source: m.qdxin.cn.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 225,
+    "fingerprint": "7005073a495eec6405c1d86cc6ca84b69029147b41ccd6eeeb8501e599b634d5",
+    "source_url": "https://weibo.com/2642034487/Rh2OIF2dM",
+    "discovery_url": "https://weibo.com/2642034487/Rh2OIF2dM",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "强调人驾,没有智驾!我认为没有必要,又没让兜底!试驾车出事故很正常,又不是第一次了,又不是第一家,我买比亚迪车的那个店,我就见过试驾车出门就被剐了!",
+    "content": "c 清墨砚 09月07日 21:24 来自 iPhone客户端 强调人驾,没有智驾!我认为没有必要,又没让兜底!试驾车出事故很正常,又不是第一次了,又不是第一家,我买比亚迪车的那个店,我就见过试驾车出门就被剐了! 只要人没事儿就行!!!重点在人,不在智驾! ​ 转发 3 5",
+    "author": "c",
+    "published_at": "2026-09-07T13:24:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.657Z",
+    "event_date": null,
+    "brand": "BYD",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "BYD"
+      ],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "比亚迪"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 218,
+    "fingerprint": "9d6e7e92e06fd5c2f08d75c65127b43b7b5b3a3c3175c21989dc6456afea430d",
+    "source_url": "https://weibo.com/7843017985/Rh2cueZXC",
+    "discovery_url": "https://weibo.com/7843017985/Rh2cueZXC",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "有车主分享了6月12日郑州高速上的一次险情。",
+    "content": "c 余亦禾 09月07日 19:50 有车主分享了6月12日郑州高速上的一次险情。 当时驾驶小米yu7,L2辅助驾驶打开在70公里时速正常跟车。行驶过程中小米智驾状态下车辆自行往右偏,往护栏方向靠拢,后面还有大货车。车内一共五个人,驾驶员及时接管,踩刹车、把方向掰回来,才躲过事故。 事后车主和小米技术人员电话沟通。根据通话记录 ​ 展开c 播放视频 https://video.weibo.com/show?fid=1034:5340600329764870 2 4 7",
+    "author": "c",
+    "published_at": "2026-09-07T11:50:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.641Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "handover_failure",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "highway",
+    "severity": "near_miss",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "handover_failure"
+      ],
+      "roadMatches": [
+        "highway"
+      ],
+      "severityMatches": [
+        "near_miss"
+      ],
+      "matchedKeywords": [
+        "接管",
+        "高速",
+        "险情",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as a possible handover issue. The driver-assistance state is unknown. Coded outcome: near miss. Source: weibo.com.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -1596,6 +2719,98 @@
     },
     "review_notes": null,
     "english_description": "Unverified report involving NIO on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-06. Source: chejiahao.autohome.com.cn.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 233,
+    "fingerprint": "c407fbd37cac7d5a8e1f4e3f82a117a77da7cde23f33dbdbc731f575115fe571",
+    "source_url": "https://weibo.com/1652185502/RgPEOdgpX",
+    "discovery_url": "https://weibo.com/1652185502/RgPEOdgpX",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "这次FSD V14.3.9主动介入人驾场景避免碰撞的功能,其实也是一次“自动驾驶”接管潜在(人驾场景)风险的设计。",
+    "content": "c 电动知士大雨 自主创作 09月06日 11:54 来自 微博网页版 这次FSD V14.3.9主动介入人驾场景避免碰撞的功能,其实也是一次“自动驾驶”接管潜在(人驾场景)风险的设计。 你会发现中国自动驾驶行业,也有类似的功能演进,从 AEB到AES,在到驾驶员失能辅助、弯道高风险主动降速等等。 中国自动驾驶行业与特斯拉选择了不同的实现路径,但都朝着高度一致的目标前 ​ 展开c 转发 1 7",
+    "author": "c",
+    "published_at": "2026-09-06T03:54:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.676Z",
+    "event_date": null,
+    "brand": "Tesla",
+    "model": null,
+    "cause": "handover_failure",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "Tesla"
+      ],
+      "causeMatches": [
+        "handover_failure"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "特斯拉",
+        "fsd",
+        "接管",
+        "自动驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving Tesla on an unspecified road, categorized as a possible handover issue. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 222,
+    "fingerprint": "89d7ec331aca5080bc29b9bb4685452dee1386e3d091ccc64d712f0a7c8a2465",
+    "source_url": "https://weibo.com/7576109703/RgPtLnUhU",
+    "discovery_url": "https://weibo.com/7576109703/RgPtLnUhU",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "据说是Cybercab首撞。",
+    "content": "c 减缓世界向可持续能源的转变 09月06日 11:27 来自 华为Mate XT 非凡大师 据说是Cybercab首撞。 你能自己不撞人,但没办法让别人不撞你。 极端智驾支持者跟极端智驾不信任者,是不是就差一次事故,哪怕是个微小的追尾。 #特斯拉cybercab首撞# ​ 转发 4 7",
+    "author": "c",
+    "published_at": "2026-09-06T03:27:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.649Z",
+    "event_date": null,
+    "brand": "Tesla",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "Tesla"
+      ],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "特斯拉",
+        "追尾"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving Tesla on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: weibo.com.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2055,6 +3270,169 @@
     "english_description_source": "machine_heuristic_v1"
   },
   {
+    "id": 228,
+    "fingerprint": "ae3292edb292ab5c7131cd6fea2ffc47ea562f2a7c0dbacda143e43ba65c907b",
+    "source_url": "https://weibo.com/1915794761/RgvKlroKE",
+    "discovery_url": "https://weibo.com/1915794761/RgvKlroKE",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "华为基本对每次热议的智驾事故都会有回应",
+    "content": "c 贾佳HondaYes 09月04日 09:13 来自 三星Galaxy S26 Ultra 事实情况是 华为基本对每次热议的智驾事故都会有回应 但是行业惯例并非如此 智驾永远不激活就永远没有事故 ​ 1 64 95",
+    "author": "c",
+    "published_at": "2026-09-04T01:13:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.663Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": []
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 227,
+    "fingerprint": "6083bb1f85d5b2c12609de2193724061a0503330e81389a93a978d8e3ef2d325",
+    "source_url": "https://weibo.com/5309244900/RgrQl1c40",
+    "discovery_url": "https://weibo.com/5309244900/RgrQl1c40",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "#开智驾追尾挡风玻璃被电线杆刺穿##车企回应开智驾追尾挡风玻璃被刺穿#又是因误踩油门加重了事故。我发的不少华为主动安全生效视频中,慌乱中反而踩油门的情况还是很常见的。由于辅助驾驶的核心逻辑是人权最大,你和它抢夺操控权,它一定会倾向于交权于人,所以一开始你看到了风险那就直接接管,不要等 ​ 展开c",
+    "content": "c 穿红秋裤的王者 09月03日 23:16 #开智驾追尾挡风玻璃被电线杆刺穿##车企回应开智驾追尾挡风玻璃被刺穿#又是因误踩油门加重了事故。我发的不少华为主动安全生效视频中,慌乱中反而踩油门的情况还是很常见的。由于辅助驾驶的核心逻辑是人权最大,你和它抢夺操控权,它一定会倾向于交权于人,所以一开始你看到了风险那就直接接管,不要等 ​ 展开c 转发 13 28",
+    "author": "c",
+    "published_at": "2026-09-03T15:16:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.661Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "handover_failure",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "handover_failure",
+        "speed_or_distance"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "接管",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible handover issue. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 226,
+    "fingerprint": "e5f6f283e1700abac794b96f3f1093e3c83c322d60691b1650ad12572cbcadcf",
+    "source_url": "https://weibo.com/7348359537/Rgrpn7wdi",
+    "discovery_url": "https://weibo.com/7348359537/Rgrpn7wdi",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "#车企回应开智驾追尾挡风玻璃被刺穿#“经技术分析核实,事发时车辆处于领航辅助(NCA)状态,系统已识别前车并进行减速,但减速过程中加速踏板被踩下,导致事故发生。”所以其实智驾系统是有减速的,但驾驶员可能的因为慌乱踩错了踏板。而且,这种纵向的悬空障碍物本身就是最难的场景。真相已经很清楚 ​ 展开c",
+    "content": "c 一针见车 09月03日 22:10 来自 HUAWEI Pura 80 Pro+ #车企回应开智驾追尾挡风玻璃被刺穿#“经技术分析核实,事发时车辆处于领航辅助(NCA)状态,系统已识别前车并进行减速,但减速过程中加速踏板被踩下,导致事故发生。”所以其实智驾系统是有减速的,但驾驶员可能的因为慌乱踩错了踏板。而且,这种纵向的悬空障碍物本身就是最难的场景。真相已经很清楚 ​ 展开c 5 74 145",
+    "author": "c",
+    "published_at": "2026-09-03T14:10:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.659Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "perception_failure",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "perception_failure",
+        "speed_or_distance"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "障碍物"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible perception failure. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 224,
+    "fingerprint": "59b30cacf71cbe8106df4621f77720256d9a1e8a9057400785efcb9a41616094",
+    "source_url": "https://weibo.com/7874549549/RgqXbgc7p",
+    "discovery_url": "https://weibo.com/7874549549/RgqXbgc7p",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "前两天的事,一直没聊就是等官方后台的数据。有些“中立”的大V就迫不及待的定性了,放轻松,智驾又不能把你怎么样",
+    "content": "c 未来的学习笔记 09月03日 21:00 来自 华为 Mate X7 典藏版 前两天的事,一直没聊就是等官方后台的数据。有些“中立”的大V就迫不及待的定性了,放轻松,智驾又不能把你怎么样 其实大多数使用智驾的朋友可能都有这样的体会,小艺的“性格”可能和我们开车是不一样的。面对同样一个场景,可能人和机器选择的对应方式也不同。像这次事故一样,当车辆和驾驶员都发 ​ 展开c 1 24 98",
+    "author": "c",
+    "published_at": "2026-09-03T13:00:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.654Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": []
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
     "id": 103,
     "fingerprint": "a8b22f2f5cb661b8deb955cb3686b456ea8de7282eaa5e03cca4ab4a4170f8f0",
     "source_url": "https://www.sina.cn/news/detail/5339168613859835.html",
@@ -2090,6 +3468,50 @@
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-03. Source: sina.cn.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 220,
+    "fingerprint": "5d9edfd50fe7d90032565bd9cd65bdc854a0c679ae3c4295671382c8d2f447b0",
+    "source_url": "https://weibo.com/5082632063/RgqT2lskw",
+    "discovery_url": "https://weibo.com/5082632063/RgqT2lskw",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "之前浙江那个NCA追尾重型货车的事故官方给了回应。",
+    "content": "c 爱叨叨的Steven 09月03日 20:50 来自 HUAWEI Pura X View 之前浙江那个NCA追尾重型货车的事故官方给了回应。 辅助驾驶系统已识别到了前车并进行减速,但减速过程中驾驶员踩下了加速踏板,导致车辆未能及时刹停最终导致,事故发生。 并不是之前网传的系统失灵未识别,黑子散了吧。 #车企回应开智驾追尾挡风玻璃被刺穿# ​ 5 91 318",
+    "author": "c",
+    "published_at": "2026-09-03T12:50:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.645Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "perception_failure",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": "浙江",
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "perception_failure",
+        "speed_or_distance"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "未识别",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road in Zhejiang, categorized as a possible perception failure. The driver-assistance state is unknown. Source: weibo.com.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2175,6 +3597,52 @@
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-09-03. Source: sina.cn.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 211,
+    "fingerprint": "1951f9cbdfb045443b624dc6d5fa112bb83b73c124fb838b59e61abdd157ddf0",
+    "source_url": "https://weibo.com/1847582585/Rgp97uG83",
+    "discovery_url": "https://weibo.com/1847582585/Rgp97uG83",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "【#开智驾追尾挡风玻璃被电线杆刺穿# 】#车企回应开智驾追尾挡风玻璃被刺穿# 近日,有网友爆料称,一辆杭州牌照的新能源SUV在湖州安吉某国道上开启智能辅助驾驶时,不慎追尾前方行驶的一台重型栏板货车。导致货车上的悬空电线杆直接刺穿副驾驶前方的挡风玻璃,造成副驾女乘客受伤。",
+    "content": "c 都市快报 记者采访 09月03日 16:24 来自 微博网页版 【#开智驾追尾挡风玻璃被电线杆刺穿# 】#车企回应开智驾追尾挡风玻璃被刺穿# 近日,有网友爆料称,一辆杭州牌照的新能源SUV在湖州安吉某国道上开启智能辅助驾驶时,不慎追尾前方行驶的一台重型栏板货车。导致货车上的悬空电线杆直接刺穿副驾驶前方的挡风玻璃,造成副驾女乘客受伤。 有网友质疑,车辆的 ​ 展开c 23 231 713",
+    "author": "c",
+    "published_at": "2026-09-03T08:24:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.622Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "minor_injury",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [],
+      "severityMatches": [
+        "minor_injury"
+      ],
+      "matchedKeywords": [
+        "追尾",
+        "受伤",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Coded outcome: minor injury. Source: weibo.com.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2396,6 +3864,141 @@
     "english_description_source": "machine_summary_from_source_v1"
   },
   {
+    "id": 230,
+    "fingerprint": "bc30a0522bdd756391f4f7ac1942515204c90372f9d17330b2ebac62024ceb5e",
+    "source_url": "https://weibo.com/6393904893/Rgf8zfYLK",
+    "discovery_url": "https://weibo.com/6393904893/Rgf8zfYLK",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "#问界M7追尾货车悬空电线杆#【某新能源车“智驾”追尾货车悬空电线杆 人机共驾翻车 不该全由车主背锅】近日,某新能源车追尾货车悬空电线杆事故引发全网热议。懂车帝复盘实测数据证实,涉事车辆NCA辅助驾驶与AEB并未失效,已将车速从115km/h降至64km/h,最终避险失败,源于夜间强光干扰、悬空异形电线 ​ 展开c",
+    "content": "c 燃新闻 09月02日 14:56 来自 微博视频号 #问界M7追尾货车悬空电线杆#【某新能源车“智驾”追尾货车悬空电线杆 人机共驾翻车 不该全由车主背锅】近日,某新能源车追尾货车悬空电线杆事故引发全网热议。懂车帝复盘实测数据证实,涉事车辆NCA辅助驾驶与AEB并未失效,已将车速从115km/h降至64km/h,最终避险失败,源于夜间强光干扰、悬空异形电线 ​ 展开c 播放视频 https://video.weibo.com/show?fid=1034:5338714176684152 1 26 49",
+    "author": "c",
+    "published_at": "2026-09-02T06:56:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.668Z",
+    "event_date": null,
+    "brand": "Huawei ecosystem",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "Huawei ecosystem"
+      ],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "问界",
+        "追尾",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving Huawei ecosystem on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 258,
+    "fingerprint": "bb6ccd88b305e2a10b9896c4e7d43bf7617d8c1a1d5d4f2fe4755af65966ec8d",
+    "source_url": "https://weibo.com/5481674352/Rgf268cwI",
+    "discovery_url": "https://weibo.com/5481674352/Rgf268cwI",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "#检小莱普法#高阶智驾提升行车安全,但车辆出借风险仍不容忽视。",
+    "content": "c 莱西检察 09月02日 14:40 来自 微博视频号 #检小莱普法#高阶智驾提升行车安全,但车辆出借风险仍不容忽视。 @莱西检察 检察官提醒:车辆借给他人发生事故,原则上由实际驾驶人担责;车主明知对方无证、酒驾仍出借,存在过错需承担相应法律责任。#小米澎程正式发布定档9月7日##普法课堂# (来源:阜阳市中级人民法院) L莱西检察的微博视频 ​ 播放视频 https://video.weibo.com/show?fid=1034:5332149235286080 43 38 82",
+    "author": "c",
+    "published_at": "2026-09-02T06:40:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.744Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "driver_misuse_or_inattention",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "driver_misuse_or_inattention"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "酒驾"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible driver-attention or misuse issue. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 221,
+    "fingerprint": "4b6716609b3702237c46d09894681232fc3750712d3ad65528676e42bba97108",
+    "source_url": "https://weibo.com/3860177855/Rge75n6qQ",
+    "discovery_url": "https://weibo.com/3860177855/Rge75n6qQ",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "#问界M7追尾货车悬空电线杆# 懂车哥似乎又在给松山湖上眼药了。",
+    "content": "c 坂道kaka 09月02日 12:19 来自 vivo X300 Pro #问界M7追尾货车悬空电线杆# 懂车哥似乎又在给松山湖上眼药了。 但需要注意的是,这位眼角微脏的女士,其实是副驾 她的维权对象是鸿蒙智行,是赛力斯问界。 喷了。 她怎么不问为什么主驾驶,如此信任智能驾驶,导致出事? 主驾司机美美隐身是吧? 有一说一,我一直认为这种开智驾出事的,都是敢 ​ 展开c 22 267 672",
+    "author": "c",
+    "published_at": "2026-09-02T04:19:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.647Z",
+    "event_date": null,
+    "brand": "Huawei ecosystem",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "Huawei ecosystem"
+      ],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "问界",
+        "鸿蒙智行",
+        "追尾",
+        "智能驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving Huawei ecosystem on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
     "id": 7,
     "fingerprint": "f2d41a04a2091e999382b70f5f65788459ae1cece3be54517f0059d0a1d7db93",
     "source_url": "https://finance.sina.com.cn/wm/2026-09-02/doc-iniqkvca4612723.shtml",
@@ -2473,6 +4076,94 @@
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-01. Source: i.ifeng.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 234,
+    "fingerprint": "fb444f61621b5f0ff2abe46cde3d3714a07000cea03211cf828ff60c511fa29c",
+    "source_url": "https://weibo.com/1279746217/Rg5xz1tZi",
+    "discovery_url": "https://weibo.com/1279746217/Rg5xz1tZi",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "【#谷歌亚马逊自动驾驶翻车##谷歌亚马逊自动驾驶两年致超24起安全员受伤#】",
+    "content": "c 经理人杂志 09月01日 14:30 来自 微博网页版 【#谷歌亚马逊自动驾驶翻车##谷歌亚马逊自动驾驶两年致超24起安全员受伤#】 8月31日消息,美国职业安全与健康管理局数据显示,谷歌母公司Alphabet旗下的Waymo与亚马逊旗下的Zoox在2024年和2025年累计报告超过24起安全员受伤事件,伤情包括扭伤、背痛和颈部挥鞭伤等。 据悉,这些事故并非碰撞引发,而是 ​ 展开c 转发 评论 4",
+    "author": "c",
+    "published_at": "2026-09-01T06:30:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.678Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "minor_injury",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [
+        "minor_injury"
+      ],
+      "matchedKeywords": [
+        "受伤",
+        "自动驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: minor injury. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 248,
+    "fingerprint": "55f14f44f2dd6230ddfbecfe0beaedbf664e81b96041ad589779d65ef7b2beb2",
+    "source_url": "https://weibo.com/6489150030/RfX7m5m5A",
+    "discovery_url": "https://weibo.com/6489150030/RfX7m5m5A",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "本周,国内某头部新势力车企正式推送了其城市NOA(导航辅助驾驶)系统的重大版本更新,宣称实现了“全国都能开”的复杂路况覆盖。然而,就在同一天,社交媒体上流传出两起涉及该品牌车辆在开启辅助驾驶状态下发生碰撞的事故视频,引发舆论哗然。",
+    "content": "c 米粒不是粒米 08月31日 17:03 来自 华为Mate 80 本周,国内某头部新势力车企正式推送了其城市NOA(导航辅助驾驶)系统的重大版本更新,宣称实现了“全国都能开”的复杂路况覆盖。然而,就在同一天,社交媒体上流传出两起涉及该品牌车辆在开启辅助驾驶状态下发生碰撞的事故视频,引发舆论哗然。 无独有偶,国际巨头特斯拉也在本周宣布其FSD(全自动 ​ 展开c 转发 1 赞",
+    "author": "c",
+    "published_at": "2026-08-31T09:03:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.709Z",
+    "event_date": null,
+    "brand": "Tesla",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "Tesla"
+      ],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "特斯拉",
+        "fsd",
+        "辅助驾驶",
+        "noa"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -2595,6 +4286,50 @@
     },
     "review_notes": null,
     "english_description": "Unverified report involving Xiaomi on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-29. Source: cj.sina.cn.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 251,
+    "fingerprint": "9ede9db9f102796b1e524c4043f89e3df6b389e403cb638c77108890b3a3d049",
+    "source_url": "https://weibo.com/1844777450/RfBleDe1h",
+    "discovery_url": "https://weibo.com/1844777450/RfBleDe1h",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "一汽-大众ID. AURA T6正式预售,13.59万起把4.8米级德系纯电SUV拉进家庭刚需区。 不玩虚的:最高660km续航、2836mm轴距、85.3%得房率,激光雷达版还上192线雷达+征程6H,城区高速NOA都能打。 更稳的是兜底——三终身、四担责、三免费,把电池衰减和智驾事故焦虑先接住。 合资大厂这次不端着,听劝、本 ​ 展开c",
+    "content": "c 老龙说车 08月29日 09:37 来自 一加 Ace 3 全能王牌 一汽-大众ID. AURA T6正式预售,13.59万起把4.8米级德系纯电SUV拉进家庭刚需区。 不玩虚的:最高660km续航、2836mm轴距、85.3%得房率,激光雷达版还上192线雷达+征程6H,城区高速NOA都能打。 更稳的是兜底——三终身、四担责、三免费,把电池衰减和智驾事故焦虑先接住。 合资大厂这次不端着,听劝、本 ​ 展开c 转发 评论 1",
+    "author": "c",
+    "published_at": "2026-08-29T01:37:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.715Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "highway",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [
+        "highway",
+        "urban"
+      ],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "高速",
+        "noa"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3030,6 +4765,46 @@
     "english_description_source": "machine_heuristic_v1"
   },
   {
+    "id": 231,
+    "fingerprint": "f145590e38683073688436aaa8f1bd1d834063ab9e26b666521ed8a4343650d1",
+    "source_url": "https://weibo.com/1613678254/Rf0UJjAmp",
+    "discovery_url": "https://weibo.com/1613678254/Rf0UJjAmp",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "发生碰撞的时候显示为未激活自动自动驾驶",
+    "content": "c 喵律 08月25日 12:53 来自 vivo X300 Ultra #自动驾驶状态违法由车企担责# 挺好的 至少明确了边界 接下来你要是再敢宣传自己是自动驾驶 那出了事情就是,车企负责 那么接下来还有一个问题 万一车企把系统设置为 发生碰撞的时候显示为未激活自动自动驾驶 那怎么判断 ​ 6 39 137",
+    "author": "c",
+    "published_at": "2026-08-25T04:53:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.672Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "自动驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
     "id": 139,
     "fingerprint": "295333870b3dd1686e8d56a44d6af41d142f73cc0e6589e9f720290a455b6b5f",
     "source_url": "https://news.qq.com/rain/a/20260824A07XUM00",
@@ -3192,6 +4967,157 @@
     },
     "review_notes": null,
     "english_description": "Unverified report involving Xiaomi on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-23. Source: cj.sina.cn.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 237,
+    "fingerprint": "bee9430d52873eebb4bab4642eb8713a803f23622337d495b1a8c95d547c2f3a",
+    "source_url": "https://weibo.com/7527623882/ReBi2qUC3",
+    "discovery_url": "https://weibo.com/7527623882/ReBi2qUC3",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "#ACC辅助驾驶追撞致3人死亡##辅助驾驶不是自动驾驶#",
+    "content": "c 一芯伊 08月22日 19:39 来自 微博视频号 #ACC辅助驾驶追撞致3人死亡##辅助驾驶不是自动驾驶# 悲剧再次敲响警钟:ACC只是辅助驾驶,绝非自动驾驶,哪怕是成熟车型,系统也存在识别局限,驾驶员永远是行车第一责任人。 高速路上一旦发生故障、事故,请牢记保命九字口诀:车靠边、人撤离、即报警。 不要过度迷信智驾功能,生命不能交给系统赌运 ​ 展开c 播放视频 https://video.weibo.com/show?fid=1034:5334799225651214 转发 评论 6",
+    "author": "c",
+    "published_at": "2026-08-22T11:39:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.683Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "highway",
+    "severity": "fatal",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [
+        "highway"
+      ],
+      "severityMatches": [
+        "fatal"
+      ],
+      "matchedKeywords": [
+        "追撞",
+        "高速",
+        "死亡",
+        "辅助驾驶",
+        "自动驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Coded outcome: fatal outcome. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 236,
+    "fingerprint": "3808eecc2a51a4b5516fe9b0c28ce7b31c58893630d88b8120a94c51fa4f2145",
+    "source_url": "https://weibo.com/5907400888/ReBhm40A4",
+    "discovery_url": "https://weibo.com/5907400888/ReBhm40A4",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "早就不提零死亡是正确的",
+    "content": "c Jsport_三汽 08月22日 19:37 来自 微博视频号 #辅助驾驶不是自动驾驶# VOLVO又杀数人 早就不提零死亡是正确的 台湾苗栗发生一起严重车祸。 一台厢型车驾驶45岁江男与特斯拉36岁李女,发生碰撞后,两人在两车之间协商。 没多久,一台51岁林女驾驶的VOLVO,使用辅助驾驶ACC从后方追撞,造成江男、李女,以及厢型车上的62岁菲律宾女死亡 ​​​​ 展开c 播放视频 https://video.weibo.com/show?fid=1034:5334140208218174 1 6 23",
+    "author": "c",
+    "published_at": "2026-08-22T11:37:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.682Z",
+    "event_date": null,
+    "brand": "Tesla",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "active",
+    "road_type": "unknown",
+    "severity": "fatal",
+    "province": "台湾",
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "Tesla",
+        "Volvo"
+      ],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [],
+      "severityMatches": [
+        "fatal"
+      ],
+      "matchedKeywords": [
+        "特斯拉",
+        "追撞",
+        "死亡",
+        "使用辅助驾驶",
+        "使用辅助驾驶ACC"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving Tesla on an unspecified road in Taiwan, categorized as a possible following-distance or speed issue. The report claims driver assistance was active. Coded outcome: fatal outcome. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 214,
+    "fingerprint": "0a6b2ab25058ee05d1514a1c321294563fbc9b9b4078334984a505b661444efe",
+    "source_url": "https://weibo.com/2196791807/RezQpooOT",
+    "discovery_url": "https://weibo.com/2196791807/RezQpooOT",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "#ACC辅助驾驶追撞致3人死亡##辅助驾驶不是自动驾驶#",
+    "content": "c 秋晨同学 08月22日 15:58 来自 微博视频号 #ACC辅助驾驶追撞致3人死亡##辅助驾驶不是自动驾驶# 1、再说一百次,现在的智驾,都是辅助驾驶,更别说早年车型的ACC 2、还记得那个高速发生交通九字口诀吗?“车靠边、人撤离、即报警” L秋晨同学的微博视频 ​ 播放视频 https://video.weibo.com/show?fid=1034:5334743563042885 10 40 100",
+    "author": "c",
+    "published_at": "2026-08-22T07:58:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.629Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "highway",
+    "severity": "fatal",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [
+        "highway"
+      ],
+      "severityMatches": [
+        "fatal"
+      ],
+      "matchedKeywords": [
+        "追撞",
+        "高速",
+        "死亡",
+        "辅助驾驶",
+        "自动驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Coded outcome: fatal outcome. Source: weibo.com.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -3952,6 +5878,49 @@
     "english_description_source": "machine_heuristic_v1"
   },
   {
+    "id": 235,
+    "fingerprint": "0a2ea87189d5c35d159b0fa18d82ff1e817f9eaca025b2a78e138f1859d8ab7b",
+    "source_url": "https://weibo.com/6185605584/RdkxD9fv5",
+    "discovery_url": "https://weibo.com/6185605584/RdkxD9fv5",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "特斯拉的自动驾驶躲避后方事故 LTommy特靠谱的微博视频 ​",
+    "content": "c Tommy特靠谱 08月14日 11:10 来自 微博视频号 特斯拉的自动驾驶躲避后方事故 LTommy特靠谱的微博视频 ​ 播放视频 https://video.weibo.com/show?fid=1034:5331771634417728 28 21 235",
+    "author": "c",
+    "published_at": "2026-08-14T03:10:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.679Z",
+    "event_date": null,
+    "brand": "Tesla",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "Tesla"
+      ],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "特斯拉",
+        "自动驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
     "id": 102,
     "fingerprint": "61feff8de7794f6624f64f752111cb480caa779a17bda32f1f01d362f03568cf",
     "source_url": "http://m.ce.cn/bwzg/202608/t20260813_3146626.shtml",
@@ -4504,6 +6473,50 @@
     "english_description_source": "machine_heuristic_v1"
   },
   {
+    "id": 257,
+    "fingerprint": "5e5fbfe9bc4997be9d112e4dbfc5579f18e57628407e21ed5f6c54fe20cd3261",
+    "source_url": "https://weibo.com/2544018037/R7AvIcRGp",
+    "discovery_url": "https://weibo.com/2544018037/R7AvIcRGp",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "不掏钱畅享权益,当下辅助驾驶行业已从技术比拼迈入责任竞争新阶段,事故责任兜底机制成为消费者重点关注内容。",
+    "content": "c 数码小葵 07月07日 16:48 来自 iPhone 14 Pro 不掏钱畅享权益,当下辅助驾驶行业已从技术比拼迈入责任竞争新阶段,事故责任兜底机制成为消费者重点关注内容。 伴随辅助驾驶规模化普及,车企纷纷推出各类保障方案。鸿蒙智行、小米、小鹏等品牌联合保险机构推出智驾险,华为也升级智驾无忧权益,延长保障年限、提高赔付上限,但这类保障需先走车主自 ​ 展开c 6 16 220",
+    "author": "c",
+    "published_at": "2026-07-07T08:48:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.742Z",
+    "event_date": null,
+    "brand": "XPeng",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "XPeng",
+        "Huawei ecosystem"
+      ],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "小鹏",
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving XPeng on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
     "id": 113,
     "fingerprint": "27fc6fada1a057ad81c8622c8a7e192849ba70e9506746421c98ab9c7f240ace",
     "source_url": "https://tidenews.com.cn/tmh_news.html?id",
@@ -4827,6 +6840,54 @@
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-26. Source: auto.news18a.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 247,
+    "fingerprint": "acd00279158be1b4c042d481e47aa765d9a33fc586497d42e096df42c5fbb23b",
+    "source_url": "https://weibo.com/1657154450/R5E8izTuH",
+    "discovery_url": "https://weibo.com/1657154450/R5E8izTuH",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "车主:本人汽车高速路段规范使用 NOA 辅助驾驶,路面静态异物未被车载雷达探测,无预警无制动,发生碰撞事故。",
+    "content": "c 娜妮说车 06月24日 22:20 来自 微博视频号 车主:本人汽车高速路段规范使用 NOA 辅助驾驶,路面静态异物未被车载雷达探测,无预警无制动,发生碰撞事故。 经厂家工程师线下检测确认,雷达未识别目标物,厂家据此拒绝一切赔付与补偿。#一分钟精选视频扶持计划# L娜妮说车的微博视频 ​ 播放视频 https://video.weibo.com/show?fid=1034:5313416332509241 转发 1 4",
+    "author": "c",
+    "published_at": "2026-06-24T14:20:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.706Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "perception_failure",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "highway",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "perception_failure"
+      ],
+      "roadMatches": [
+        "highway",
+        "other_or_unknown"
+      ],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "未识别",
+        "高速",
+        "辅助驾驶",
+        "noa"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as a possible perception failure. The driver-assistance state is unknown. Source: weibo.com.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -5502,6 +7563,92 @@
     "english_description_source": "machine_heuristic_v1"
   },
   {
+    "id": 217,
+    "fingerprint": "4eb5f6930eb5b954465234a456785c83c01f6da598f489fd956249a7b16c3220",
+    "source_url": "https://weibo.com/3250980252/R3cRLFss1",
+    "discovery_url": "https://weibo.com/3250980252/R3cRLFss1",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "新的要求是,以后起火燃烧事故、辅助驾驶事故都需要上报。",
+    "content": "c 叽歪数码 06月08日 21:15 新的要求是,以后起火燃烧事故、辅助驾驶事故都需要上报。 小米今天已经打了样,后面就看别的厂商了。 ​ 14 413 1434",
+    "author": "c",
+    "published_at": "2026-06-08T13:15:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.639Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "辅助驾驶"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 246,
+    "fingerprint": "527c458296a85880053e9fbdf23f21f655084a4b62248a9eeee81ad0462f1937",
+    "source_url": "https://weibo.com/1961978325/R2Z650HXg",
+    "discovery_url": "https://weibo.com/1961978325/R2Z650HXg",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "不是拉踩纯客观分析,前几天某个品牌车辆智驾状态来回摇摆最后撞车的原因。",
+    "content": "c Mr圆周率 06月07日 10:12 来自 IronAndroid 不是拉踩纯客观分析,前几天某个品牌车辆智驾状态来回摇摆最后撞车的原因。 现象有几个: 1、不是人机共驾导致的。 2、NOA明显是要进入最右侧的匝道 3、第一次发起变道的时候被右侧并排车辆阻挡,所以又试图回撤到原车道 4、在回撤过程中\"向右出匝道\"的高优先级指令又被触发了,所以又立刻向右发起变道 ​ 展开c 1 7 24",
+    "author": "c",
+    "published_at": "2026-06-07T02:12:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.703Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "speed_or_distance",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "highway",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "speed_or_distance"
+      ],
+      "roadMatches": [
+        "highway"
+      ],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "撞车",
+        "匝道",
+        "noa"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: weibo.com.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
     "id": 35,
     "fingerprint": "616f62ff1b07676497de902b410f0d3d8920b4c9ac1563fb0a6465c76d814541",
     "source_url": "https://www.mycaijing.com/article/detail/569761?source_id",
@@ -6026,6 +8173,53 @@
     },
     "review_notes": null,
     "english_description": "Unverified report involving Changan on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-02. Source: Sohu.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 245,
+    "fingerprint": "b09505981522e506708e723128ba30c41722f9e8b82c6913139d237a59c56472",
+    "source_url": "https://weibo.com/1963106735/R2ffXsBn8",
+    "discovery_url": "https://weibo.com/1963106735/R2ffXsBn8",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "【#智己LS8辅助驾驶下撞石堆# 4S店让车主认全责走保险】近日,一位智己LS8女车主发帖称,自己提车仅16天,车辆在NOA领航辅助模式下雷达失灵、制动失灵,直接撞上路边石堆,而4S店不仅将事故轻描淡写为“剐蹭”,还建议车主认全责走保险。",
+    "content": "c 搜狐汽车 06月02日 13:30 来自 微博网页版 【#智己LS8辅助驾驶下撞石堆# 4S店让车主认全责走保险】近日,一位智己LS8女车主发帖称,自己提车仅16天,车辆在NOA领航辅助模式下雷达失灵、制动失灵,直接撞上路边石堆,而4S店不仅将事故轻描淡写为“剐蹭”,还建议车主认全责走保险。 车主介绍,5月15日晚,其驾驶智己LS8前往惠州大亚湾,车辆一直 ​ 展开c 转发 3 4",
+    "author": "c",
+    "published_at": "2026-06-02T05:30:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.700Z",
+    "event_date": null,
+    "brand": "SAIC",
+    "model": null,
+    "cause": "mechanical_or_tire",
+    "cause_confidence": 0.6,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "SAIC"
+      ],
+      "causeMatches": [
+        "mechanical_or_tire"
+      ],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "智己",
+        "制动失灵",
+        "辅助驾驶",
+        "noa"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving SAIC on an unspecified road, categorized as a possible mechanical or tire issue. The driver-assistance state is unknown. Source: weibo.com.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
@@ -6697,6 +8891,46 @@
     },
     "review_notes": null,
     "english_description": "Unverified report involving Changan on an unspecified road, categorized as a possible perception failure. The driver-assistance state is unknown. Report date: 2026-05-30. Source: Sohu.",
+    "english_description_source": "machine_heuristic_v1"
+  },
+  {
+    "id": 244,
+    "fingerprint": "35a3c9b5b692e778b56d1a87c34bef343e473bc84f0325a57ced14dc34620dcc",
+    "source_url": "https://weibo.com/6001853980/R1EbpuSIM",
+    "discovery_url": "https://weibo.com/6001853980/R1EbpuSIM",
+    "publisher_name": "weibo.com",
+    "source_name": "Authorized social-platform exports",
+    "platform": "weibo",
+    "title": "“智驾险都可以叫兜底”?扯淡!智驾险在NOA事故中首先是用你的交强和商业险赔付的,全不够了才启用智驾险赔付",
+    "content": "c Gemini-迷你 05月29日 15:07 来自 Mate XTs 非凡大师 恶臭,实在恶臭,还“不能被搅浑水”,这tm就是来搅混水的...... “智驾险都可以叫兜底”?扯淡!智驾险在NOA事故中首先是用你的交强和商业险赔付的,全不够了才启用智驾险赔付 用我花钱买的保险赔付,叫你厂家的兜底?你不如直接去抢 “兜底这个词让用户误以为厂家把所有责任都兜了”?那也太 ​ 展开c 播放视频 https://video.weibo.com/show?fid=1034:5303927818616916 14 85 716",
+    "author": "c",
+    "published_at": "2026-05-29T07:07:00.000Z",
+    "collected_at": "2026-09-10T15:58:07.698Z",
+    "event_date": null,
+    "brand": "Unknown",
+    "model": null,
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "unknown",
+    "road_type": "unknown",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [],
+      "roadMatches": [],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "noa"
+      ]
+    },
+    "review_notes": null,
+    "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
     "english_description_source": "machine_heuristic_v1"
   },
   {
