@@ -25,6 +25,7 @@
       .filter-summary{color:#637385;font-size:.9rem}
       .no-results{padding:1rem;background:#fff;border:1px dashed #c8d2dc;border-radius:12px;color:#637385}
       .article-tools{display:flex;justify-content:flex-end;margin-bottom:.25rem}.lang-toggle{font:inherit;border:1px solid #c8d2dc;border-radius:7px;background:#eef4f8;padding:.3rem .55rem;cursor:pointer}
+      .language-toggle{font-size:1rem;font-weight:600;border:1px solid #0b63ce;border-radius:8px;background:#e8f2ff;color:#064f9d;padding:.55rem .85rem;cursor:pointer;margin:.25rem 0 .75rem}
       .vote-tools{display:flex;gap:.35rem;align-items:center;flex-wrap:wrap}.vote-tools button{cursor:pointer}
     `;
     document.head.append(style);
@@ -45,6 +46,16 @@
     const main = document.querySelector('main');
     if (!main) return;
     const cards = [...main.querySelectorAll('article')];
+    document.querySelectorAll('.lang-toggle').forEach(button => button.remove());
+    const header = document.querySelector('header');
+    const languageToggle = document.createElement('button');
+    languageToggle.type = 'button'; languageToggle.id = 'language-toggle'; languageToggle.className = 'language-toggle'; languageToggle.dataset.lang = 'en'; languageToggle.textContent = '中文 / Chinese';
+    header?.insertBefore(languageToggle, header.querySelector('p:last-child'));
+    languageToggle.addEventListener('click', () => {
+      const chinese = languageToggle.dataset.lang === 'en';
+      cards.forEach(card => { const title = card.querySelector('h2'); const summary = card.querySelector('.summary'); if (title) title.textContent = chinese ? card.dataset.titleZh : card.dataset.titleEn; if (summary) summary.textContent = chinese ? card.dataset.summaryZh : card.dataset.summaryEn; });
+      languageToggle.dataset.lang = chinese ? 'zh' : 'en'; languageToggle.textContent = chinese ? 'English / 英文' : '中文 / Chinese';
+    });
     cards.forEach(card => {
       const title = card.querySelector('h2');
       const summary = card.querySelector('.summary');
