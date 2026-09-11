@@ -25,6 +25,7 @@
       .filter-summary{color:#637385;font-size:.9rem}
       .no-results{padding:1rem;background:#fff;border:1px dashed #c8d2dc;border-radius:12px;color:#637385}
       .article-tools{display:flex;justify-content:flex-end;margin-bottom:.25rem}.lang-toggle{font:inherit;border:1px solid #c8d2dc;border-radius:7px;background:#eef4f8;padding:.3rem .55rem;cursor:pointer}
+      .vote-tools{display:flex;gap:.35rem;align-items:center;flex-wrap:wrap}.vote-tools button{cursor:pointer}
     `;
     document.head.append(style);
   }
@@ -57,6 +58,30 @@
         button.dataset.lang = chinese ? 'zh' : 'en';
         button.textContent = chinese ? 'English' : '中文';
       });
+    });
+    const voteKey = 'adas-review-votes-v1';
+    const voterKey = 'adas-review-voter-id-v1';
+    const voterId = localStorage.getItem(voterKey) || (crypto.randomUUID ? crypto.randomUUID() : `${Date.now()}-${Math.random()}`);
+    localStorage.setItem(voterKey, voterId);
+    let votes = JSON.parse(localStorage.getItem(voteKey) || '{}');
+    const renderVote = card => {
+      const current = votes[card.dataset.fingerprint];
+      const status = card.querySelector('[data-vote-status]');
+      if (status) status.textContent = current ? `Your vote: ${current === 'relevant' ? 'Relevant' : 'Not relevant'}` : '';
+    };
+    cards.forEach(card => {
+      card.querySelectorAll('[data-vote]').forEach(button => button.addEventListener('click', () => {
+        votes[card.dataset.fingerprint] = button.dataset.vote;
+        localStorage.setItem(voteKey, JSON.stringify(votes));
+        renderVote(card);
+      }));
+      renderVote(card);
+    });
+    document.querySelector('#export-votes')?.addEventListener('click', () => {
+      const payload = Object.entries(votes).map(([fingerprint, vote]) => ({ fingerprint, vote, voter_id: voterId, created_at: new Date().toISOString() }));
+      const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+      const link = document.createElement('a'); link.href = URL.createObjectURL(blob); link.download = 'votes.json'; link.click(); URL.revokeObjectURL(link.href);
+      const status = document.querySelector('#vote-export-status'); if (status) status.textContent = `${payload.length} votes exported. Commit them as data/votes.json for updater review.`;
     });
     let reports = [];
     try {

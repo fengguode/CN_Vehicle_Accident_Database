@@ -34,6 +34,7 @@ jobs:
         env:
           WEIBO_WEB_COOKIE: ${{ secrets.WEIBO_WEB_COOKIE }}
         run: |
+          npm run apply-votes -- ../data/votes.json
           npm run hydrate -- ../data/reports.json
           npm run backfill
           npm run collect
