@@ -33,6 +33,7 @@ jobs:
         working-directory: updater
         env:
           WEIBO_WEB_COOKIE: ${{ secrets.WEIBO_WEB_COOKIE }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           npm run apply-votes -- ../data/votes.json
           npm run hydrate -- ../data/reports.json
