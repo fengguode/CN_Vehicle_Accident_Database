@@ -33,8 +33,10 @@ jobs:
         working-directory: updater
         env:
           WEIBO_WEB_COOKIE: ${{ secrets.WEIBO_WEB_COOKIE }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          VOTE_API_URL: ${{ secrets.VOTE_API_URL }}
+          VOTE_EXPORT_TOKEN: ${{ secrets.VOTE_EXPORT_TOKEN }}
         run: |
+          if [ -n "$VOTE_API_URL" ] && [ -n "$VOTE_EXPORT_TOKEN" ]; then curl --fail --silent --show-error -H "Authorization: Bearer $VOTE_EXPORT_TOKEN" "$VOTE_API_URL/api/votes/export" -o ../data/votes.json; fi
           npm run apply-votes -- ../data/votes.json
           npm run hydrate -- ../data/reports.json
           npm run backfill

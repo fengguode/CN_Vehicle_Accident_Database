@@ -6,7 +6,7 @@ The public HTML view includes client-side filters for keyword, source, platform,
 
 ## Community relevance review
 
-Each report has **Relevant** and **Not relevant** links. They open a pre-filled GitHub issue, so submitted votes are shared globally. The updater reads those issues during the daily run and writes community-relevance labels back into the public JSON.
+Each report has **Relevant** and **Not relevant** links. Votes are submitted to the centralized backend after WeChat H5 login, so they are shared globally. The updater imports the vote store during the daily run and writes community-relevance labels back into the public JSON.
 
 ## Data contract
 
