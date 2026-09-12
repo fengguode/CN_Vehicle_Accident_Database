@@ -70,6 +70,11 @@
         button.textContent = chinese ? 'English' : '中文';
       });
     });
+    cards.forEach(card => card.querySelectorAll('a[href*="/api/vote"]').forEach(link => link.addEventListener('click', async event => {
+      event.preventDefault();
+      const status = card.querySelector('[data-vote-status]') || (() => { const node = document.createElement('span'); node.dataset.voteStatus = ''; card.querySelector('.vote-tools')?.append(node); return node; })();
+      try { const response = await fetch(link.href, { method: 'POST', credentials: 'include' }); if (response.status === 401) { window.location.href = new URL('/auth/wechat/start', link.href).toString(); return; } if (!response.ok) throw new Error(`HTTP ${response.status}`); status.textContent = 'Vote recorded for all users.'; } catch { status.textContent = 'Login is required before voting.'; }
+    }));
     const voteKey = 'adas-review-votes-v1';
     const voterKey = 'adas-review-voter-id-v1';
     const voterId = localStorage.getItem(voterKey) || (crypto.randomUUID ? crypto.randomUUID() : `${Date.now()}-${Math.random()}`);
