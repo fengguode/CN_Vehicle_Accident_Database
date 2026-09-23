@@ -46,16 +46,34 @@
     const main = document.querySelector('main');
     if (!main) return;
     const cards = [...main.querySelectorAll('article')];
+    // Keep one global language control. Read raw attributes explicitly so this
+    // remains reliable when titles contain punctuation or HTML entities.
     document.querySelectorAll('.lang-toggle').forEach(button => button.remove());
     const header = document.querySelector('header');
-    const languageToggle = document.createElement('button');
-    languageToggle.type = 'button'; languageToggle.id = 'language-toggle'; languageToggle.className = 'language-toggle'; languageToggle.dataset.lang = 'en'; languageToggle.textContent = '中文 / Chinese';
-    header?.insertBefore(languageToggle, header.querySelector('p:last-child'));
-    languageToggle.addEventListener('click', () => {
-      const chinese = languageToggle.dataset.lang === 'en';
-      cards.forEach(card => { const title = card.querySelector('h2'); const summary = card.querySelector('.summary'); if (title) title.textContent = chinese ? card.dataset.titleZh : card.dataset.titleEn; if (summary) summary.textContent = chinese ? card.dataset.summaryZh : card.dataset.summaryEn; });
-      languageToggle.dataset.lang = chinese ? 'zh' : 'en'; languageToggle.textContent = chinese ? 'English / 英文' : '中文 / Chinese';
-    });
+    const languageToggle = document.querySelector('#language-toggle') || document.createElement('button');
+    languageToggle.type = 'button';
+    languageToggle.id = 'language-toggle';
+    languageToggle.className = 'language-toggle';
+    languageToggle.dataset.lang = 'en';
+    languageToggle.textContent = '中文 / Chinese';
+    if (!languageToggle.parentElement && header) header.insertBefore(languageToggle, header.querySelector('p:last-child'));
+    const setLanguage = language => {
+      const chinese = language === 'zh';
+      cards.forEach(card => {
+        const title = card.querySelector('h2');
+        const summary = card.querySelector('.summary');
+        const titleText = card.getAttribute(chinese ? 'data-title-zh' : 'data-title-en');
+        const summaryText = card.getAttribute(chinese ? 'data-summary-zh' : 'data-summary-en');
+        if (title && titleText != null) title.textContent = titleText;
+        if (summary && summaryText != null) summary.textContent = summaryText;
+        if (summary) summary.classList.toggle('english', !chinese);
+      });
+      languageToggle.dataset.lang = language;
+      languageToggle.textContent = chinese ? 'English / 英文' : '中文 / Chinese';
+      document.documentElement.lang = chinese ? 'zh-CN' : 'en';
+    };
+    languageToggle.addEventListener('click', () => setLanguage(languageToggle.dataset.lang === 'en' ? 'zh' : 'en'));
+    setLanguage('en');
     cards.forEach(card => {
       const title = card.querySelector('h2');
       const summary = card.querySelector('.summary');
