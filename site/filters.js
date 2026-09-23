@@ -26,6 +26,7 @@
       .no-results{padding:1rem;background:#fff;border:1px dashed #c8d2dc;border-radius:12px;color:#637385}
       .article-tools{display:flex;justify-content:flex-end;margin-bottom:.25rem}.lang-toggle{font:inherit;border:1px solid #c8d2dc;border-radius:7px;background:#eef4f8;padding:.3rem .55rem;cursor:pointer}
       .language-toggle{font-size:1rem;font-weight:600;border:1px solid #0b63ce;border-radius:8px;background:#e8f2ff;color:#064f9d;padding:.55rem .85rem;cursor:pointer;margin:.25rem 0 .75rem}
+      .github-login{display:inline-block;margin:0 0 .75rem .5rem;border:1px solid #24292f;border-radius:8px;background:#24292f;color:#fff;padding:.55rem .85rem;text-decoration:none;font-weight:600}
       .vote-tools{display:flex;gap:.35rem;align-items:center;flex-wrap:wrap}.vote-tools button{cursor:pointer}
     `;
     document.head.append(style);
@@ -74,6 +75,18 @@
     };
     languageToggle.addEventListener('click', () => setLanguage(languageToggle.dataset.lang === 'en' ? 'zh' : 'en'));
     setLanguage('en');
+    const githubLogin = document.createElement('a');
+    githubLogin.className = 'github-login';
+    githubLogin.href = 'https://github.com/login?return_to=' + encodeURIComponent('https://github.com/fengguode/CN_Vehicle_Accident_Database/issues');
+    githubLogin.target = '_blank';
+    githubLogin.rel = 'noreferrer';
+    githubLogin.textContent = 'Log in with GitHub to vote';
+    if (header && !header.querySelector('.github-login')) header.insertBefore(githubLogin, header.querySelector('p:last-child'));
+    cards.forEach(card => card.querySelectorAll('.vote-tools a[href*="github.com/"]').forEach(link => {
+      const destination = link.href;
+      link.href = 'https://github.com/login?return_to=' + encodeURIComponent(destination);
+      link.title = 'GitHub login is required before submitting a vote';
+    }));
     cards.forEach(card => {
       const title = card.querySelector('h2');
       const summary = card.querySelector('.summary');
