@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: write
-  issues: read
   pages: write
   id-token: write
 
@@ -34,10 +33,11 @@ jobs:
         working-directory: updater
         env:
           WEIBO_WEB_COOKIE: ${{ secrets.WEIBO_WEB_COOKIE }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          VOTE_API_URL: ${{ vars.VOTE_API_URL }}
+          VOTE_EXPORT_TOKEN: ${{ secrets.VOTE_EXPORT_TOKEN }}
         run: |
-          npm run apply-votes -- ../data/votes.json
           npm run hydrate -- ../data/reports.json
+          npm run apply-votes -- ../data/votes.json
           npm run backfill
           npm run collect
           npm run publish -- ..

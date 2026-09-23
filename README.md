@@ -6,7 +6,7 @@ The public HTML view includes client-side filters for keyword, source, platform,
 
 ## Community relevance review
 
-Each report has **Relevant** and **Not relevant** links. They open a pre-filled GitHub issue, so submitted votes are shared globally. The updater reads those issues during the daily run and writes community-relevance labels back into the public JSON.
+Each report has **Relevant** and **Not relevant** buttons. Once the direct vote API is configured, GitHub sign-in lets a user record, change, or revoke one vote per report directly on this page. The daily updater imports the current shared vote set and writes community-relevance labels back into the public JSON. Voting stays disabled until the API is configured; no GitHub issue is created by a vote.
 
 ## Data contract
 
