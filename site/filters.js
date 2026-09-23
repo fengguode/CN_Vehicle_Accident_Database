@@ -135,7 +135,7 @@
             await requestVote('/api/vote', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ fingerprint: card.dataset.fingerprint, vote: button.dataset.vote }) });
             votes.set(card.dataset.fingerprint, button.dataset.vote);
             renderVote(card);
-            await refreshTotals();
+            try { await refreshTotals(); } catch { /* The vote was saved even if the public count is temporarily unavailable. */ }
           } catch (error) { card.querySelector('[data-vote-status]').textContent = error.message; button.disabled = !token; }
         }));
         card.querySelector('[data-revoke]')?.addEventListener('click', async () => {
@@ -143,7 +143,7 @@
             await requestVote('/api/vote/' + card.dataset.fingerprint, { method: 'DELETE' });
             votes.delete(card.dataset.fingerprint);
             renderVote(card);
-            await refreshTotals();
+            try { await refreshTotals(); } catch { /* Revocation succeeded even if the public count is temporarily unavailable. */ }
           } catch (error) { card.querySelector('[data-vote-status]').textContent = error.message; }
         });
       });
