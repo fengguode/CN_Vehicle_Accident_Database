@@ -21,6 +21,7 @@
       .filter-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:.65rem}
       .filters label{display:grid;gap:.25rem;color:#44515e;font-size:.85rem}
       .filters input,.filters select,.filters button{font:inherit;border:1px solid #c8d2dc;border-radius:7px;background:#fff;padding:.5rem .6rem;color:#17202a}
+      .sort-control{display:grid;gap:.25rem;color:#44515e;font-size:.85rem;max-width:320px}
       .filters button{cursor:pointer;background:#eef4f8}
       .filter-summary{color:#637385;font-size:.9rem}
       .no-results{padding:1rem;background:#fff;border:1px dashed #c8d2dc;border-radius:12px;color:#637385}
@@ -160,6 +161,7 @@
     renderAccount();
     renderAll();
     let reports = [];
+    let svmScores = new Map();
     try {
       const response = await fetch('data/reports.json', { cache: 'no-store' });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
@@ -168,6 +170,10 @@
       console.warn('Filter metadata unavailable:', error);
       reports = cards.map(() => ({}));
     }
+    try {
+      const response = await fetch('data/svm-scores.json', { cache: 'no-store' });
+      if (response.ok) svmScores = new Map((await response.json()).map(item => [item.fingerprint, Number(item.score)]));
+    } catch (error) { console.warn('SVM relevance scores unavailable:', error); }
 
     const panel = document.createElement('section');
     panel.className = 'filters';
@@ -181,6 +187,10 @@
       const values = [...new Set(reports.map(row => valueOf(row, key)).filter(Boolean))].sort((a, b) => String(a).localeCompare(String(b), 'zh-CN'));
       grid.append(makeControl(key, values));
     }
+    const sortControl = document.createElement('label');
+    sortControl.className = 'sort-control';
+    sortControl.innerHTML = '<span>Sort by</span><select data-sort><option value="date">Date (newest first)</option><option value="relevance">Relevance (highest first)</option></select>';
+    grid.append(sortControl);
     main.before(panel);
     const empty = document.createElement('p');
     empty.className = 'no-results';
@@ -190,14 +200,37 @@
 
     cards.forEach((card, index) => { card.dataset.reportIndex = String(index); });
     const controls = [...panel.querySelectorAll('[data-filter]')];
+    const sortSelect = panel.querySelector('[data-sort]');
     const summary = panel.querySelector('.filter-summary');
     const apply = () => {
       const selected = Object.fromEntries(controls.map(control => [control.dataset.filter, control.value.trim().toLowerCase()]));
       let visible = 0;
-      cards.forEach((card, index) => {
-        const row = reports[index] || {};
+      const rowFor = card => reports[Number(card.dataset.reportIndex)] || {};
+      const dateFor = row => Date.parse(row.event_date || row.published_at || row.collected_at || '') || 0;
+      const scoreFor = row => {
+        const score = svmScores.get(row.fingerprint) ?? row.relevance_score;
+        return Number.isFinite(Number(score)) ? Number(score) : Number.NEGATIVE_INFINITY;
+      };
+      const matchesFilters = card => {
+        const row = rowFor(card);
         const haystack = [row.title_en, row.description_en, row.title, row.content, row.english_description, sourceOf(row)].filter(Boolean).join(' ').toLowerCase();
-        const matches = (!selected.q || haystack.includes(selected.q)) && Object.keys(labels).every(key => !selected[key] || String(valueOf(row, key)).toLowerCase() === selected[key]);
+        return (!selected.q || haystack.includes(selected.q)) && Object.keys(labels).every(key => !selected[key] || String(valueOf(row, key)).toLowerCase() === selected[key]);
+      };
+      const ordered = [...cards].sort((a, b) => {
+        const rowA = rowFor(a); const rowB = rowFor(b);
+        if (sortSelect.value === 'relevance') {
+          const scoreA = scoreFor(rowA); const scoreB = scoreFor(rowB);
+          if (scoreA !== scoreB) {
+            if (scoreA === Number.NEGATIVE_INFINITY) return 1;
+            if (scoreB === Number.NEGATIVE_INFINITY) return -1;
+            return scoreB - scoreA;
+          }
+        }
+        return dateFor(rowB) - dateFor(rowA);
+      });
+      main.append(...ordered);
+      ordered.forEach(card => {
+        const matches = matchesFilters(card);
         card.hidden = !matches;
         if (matches) visible++;
       });
@@ -205,6 +238,7 @@
       summary.textContent = `Showing ${visible} / ${cards.length}`;
     };
     controls.forEach(control => control.addEventListener('input', apply));
+    sortSelect.addEventListener('change', apply);
     panel.querySelector('[data-reset]').addEventListener('click', () => { controls.forEach(control => { control.value = ''; }); apply(); });
     apply();
   }
