@@ -1,5 +1,20 @@
 [
   {
+    "fingerprint": "829f43008d289be9bb83eb925d85dab0734d2cb6aacf2c803ae23ad281b0f6f2",
+    "score": -0.245831,
+    "classification": "not_relevant"
+  },
+  {
+    "fingerprint": "091b511ac7198f21146de6bcecf07d7f6855d743b02afa101d40924b99271762",
+    "score": -0.645594,
+    "classification": "not_relevant"
+  },
+  {
+    "fingerprint": "a210a5af4ed4ea4a7c60785b5f39f3217e036f30eff644a799b7b9a79ef3bc3d",
+    "score": -0.245833,
+    "classification": "not_relevant"
+  },
+  {
     "fingerprint": "c786c56bffe32664f37e81c3ea6e3009fee8d89fbc79cc9f3cc6930db4c36332",
     "score": -2.294609,
     "classification": "not_relevant"

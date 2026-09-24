@@ -1,5 +1,183 @@
 [
   {
+    "id": 295,
+    "fingerprint": "829f43008d289be9bb83eb925d85dab0734d2cb6aacf2c803ae23ad281b0f6f2",
+    "source_url": "https://weibo.com/1596062412/RjyMJ4A0r",
+    "discovery_url": null,
+    "publisher_name": "weibo.com",
+    "source_name": "车质网",
+    "platform": "weibo",
+    "title": "蔚来ES6自动泊车未识别地库承重柱,后视镜和漆面受损",
+    "title_zh": "蔚来ES6自动泊车未识别地库承重柱,后视镜和漆面受损",
+    "title_en": "NIO ES6 damaged during automatic parking in a garage",
+    "title_zh_short": "蔚来ES6自动泊车未识别地库承重柱,后视镜和漆面受损",
+    "title_en_short": "NIO ES6 damaged during automatic parking in a garage",
+    "content": "蔚来ES6自动泊车过程中,车辆未识别地库承重柱,造成反光镜损毁、漆面刮伤。#蔚来ES6##自动泊车##事故##汽车投诉##车质网#",
+    "content_zh": "蔚来ES6自动泊车过程中,车辆未识别地库承重柱,造成反光镜损毁、漆面刮伤。#蔚来ES6##自动泊车##事故##汽车投诉##车质网#",
+    "content_en": "A post by the automotive complaint platform Car Quality Network says a NIO ES6 failed to recognize a load-bearing pillar during automatic parking in an underground garage. The incident damaged a side mirror and scratched the paint. The post does not state the incident date or garage location.",
+    "summary_zh": "蔚来ES6自动泊车过程中,车辆未识别地库承重柱,造成反光镜损毁、漆面刮伤。 #蔚来ES6##自动泊车##事故##汽车投诉##车质网#",
+    "summary_en": "A post by the automotive complaint platform Car Quality Network says a NIO ES6 failed to recognize a load-bearing pillar during automatic parking in an underground garage.  The incident damaged a side mirror and scratched the paint.  The post does not state the incident date or garage location.",
+    "author": "车质网",
+    "published_at": "2026-09-24T02:28:00.000Z",
+    "collected_at": "2026-09-24T08:21:02.492Z",
+    "event_date": null,
+    "brand": "NIO",
+    "model": "ES6",
+    "cause": "perception_failure",
+    "cause_confidence": 0.6,
+    "adas_mode": "claimed_active",
+    "road_type": "parking",
+    "severity": "property_damage",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "NIO"
+      ],
+      "causeMatches": [
+        "perception_failure"
+      ],
+      "roadMatches": [
+        "parking"
+      ],
+      "severityMatches": [
+        "property_damage"
+      ],
+      "matchedKeywords": [
+        "蔚来",
+        "未识别",
+        "泊车",
+        "受损",
+        "反光镜损毁",
+        "漆面刮伤"
+      ]
+    },
+    "review_notes": "Direct original Weibo post reviewed on 2026-09-24; ADAS relevance accepted despite negative SVM score. Incident details remain unverified.",
+    "english_description": "Car Quality Network reported a NIO ES6 parking-assist collision with a garage pillar that damaged a mirror and paint. The incident date and location were not given.",
+    "description_en": "A post by the automotive complaint platform Car Quality Network says a NIO ES6 failed to recognize a load-bearing pillar during automatic parking in an underground garage. The incident damaged a side mirror and scratched the paint. The post does not state the incident date or garage location.",
+    "english_description_source": "human_summary_v1"
+  },
+  {
+    "id": 294,
+    "fingerprint": "091b511ac7198f21146de6bcecf07d7f6855d743b02afa101d40924b99271762",
+    "source_url": "https://weibo.com/2146327684/RjycYodea",
+    "discovery_url": null,
+    "publisher_name": "weibo.com",
+    "source_name": "武汉交警",
+    "platform": "weibo",
+    "title": "司机称开启智驾后打瞌睡,江西泉南高速车辆撞防撞沙桶侧翻",
+    "title_zh": "司机称开启智驾后打瞌睡,江西泉南高速车辆撞防撞沙桶侧翻",
+    "title_en": "Driver reports using assistance before Jiangxi expressway rollover",
+    "title_zh_short": "司机称开启智驾后打瞌睡,江西泉南高速车辆撞防撞沙桶侧翻",
+    "title_en_short": "Driver reports using assistance before Jiangxi expressway rollover",
+    "content": "【侧翻在地连连打转!司机:“我开了智驾,有点瞌睡,它就撞了”】2026年8月23日,泉南高速江西永新段。一辆小车在快车道行驶至弯道路段时,忽然向左前方偏离车道,撞上中央护栏处放置的防撞沙桶。伴随着沙土飞扬,小车当场侧翻在地并连续转了将近两圈,最后停在了应急车道上。司机告诉交警:“我开了智驾,有点打瞌睡,它就撞上去了。”原来,司机上高速后开启了车辆的“智驾”功能,行驶过程中犯困打起了瞌睡,从而导致事故。交警提醒:当前车辆所配备的“智驾”,从技术特征来说是“智能辅助驾驶”系统,本质是“辅助驾驶”而不是自动驾驶!广大驾驶人在购买有“智能辅助驾驶”功能的车辆时,应详细了解交互逻辑、操作规范、禁用场景;在使用此功能时,必须全程保持驾驶位值守,双手控稳方向盘,实时监测路况动态,确保车辆处于可控状态,不得“脱手脱眼”,不得有酒后驾驶、疲劳驾驶、分心驾驶等违法行为。",
+    "content_zh": "【侧翻在地连连打转!司机:“我开了智驾,有点瞌睡,它就撞了”】2026年8月23日,泉南高速江西永新段。一辆小车在快车道行驶至弯道路段时,忽然向左前方偏离车道,撞上中央护栏处放置的防撞沙桶。伴随着沙土飞扬,小车当场侧翻在地并连续转了将近两圈,最后停在了应急车道上。司机告诉交警:“我开了智驾,有点打瞌睡,它就撞上去了。”原来,司机上高速后开启了车辆的“智驾”功能,行驶过程中犯困打起了瞌睡,从而导致事故。交警提醒:当前车辆所配备的“智驾”,从技术特征来说是“智能辅助驾驶”系统,本质是“辅助驾驶”而不是自动驾驶!广大驾驶人在购买有“智能辅助驾驶”功能的车辆时,应详细了解交互逻辑、操作规范、禁用场景;在使用此功能时,必须全程保持驾驶位值守,双手控稳方向盘,实时监测路况动态,确保车辆处于可控状态,不得“脱手脱眼”,不得有酒后驾驶、疲劳驾驶、分心驾驶等违法行为。",
+    "content_en": "Wuhan traffic police reported that on 23 August 2026 a car veered left on a curve of the Quannan Expressway near Yongxin, Jiangxi, struck impact barrels at the median, rolled, and stopped on the emergency shoulder. The driver told police they had activated a driver-assistance feature and had become drowsy. The post does not identify the vehicle brand or state whether anyone was injured.",
+    "summary_zh": "【侧翻在地连连打转! 司机:“我开了智驾,有点瞌睡,它就撞了”】2026年8月23日,泉南高速江西永新段。 一辆小车在快车道行驶至弯道路段时,忽然向左前方偏离车道,撞上中央护栏处放置的防撞沙桶。 伴随着沙土飞扬,小车当场侧翻在地并连续转了将近两圈,最后停在了应急车道上。 司机告诉交警:“我开了智驾,有点打瞌睡,它就撞上去了。 ”原来,司机上高速后开启了车辆的“智驾”功能,行驶过程中犯困打起了瞌睡,从而导致事故。 交警提醒:当前车辆所配备的“智驾”,从技术特征来说是“智能辅助驾驶”系统,本质是“辅助驾驶”而不是自动驾驶!",
+    "summary_en": "Wuhan traffic police reported that on 23 August 2026 a car veered left on a curve of the Quannan Expressway near Yongxin, Jiangxi, struck impact barrels at the median, rolled, and stopped on the emergency shoulder.  The driver told police they had activated a driver-assistance feature and had become drowsy.",
+    "author": "武汉交警",
+    "published_at": "2026-09-24T01:00:00.000Z",
+    "collected_at": "2026-09-24T08:21:02.487Z",
+    "event_date": "2026-08-23T00:00:00.000Z",
+    "brand": "Unknown",
+    "model": null,
+    "cause": "driver_misuse_or_inattention",
+    "cause_confidence": 0.9,
+    "adas_mode": "claimed_active",
+    "road_type": "highway",
+    "severity": "unknown",
+    "province": "江西",
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 0.9,
+    "labels": {
+      "brandMatches": [],
+      "causeMatches": [
+        "lane_or_steering",
+        "driver_misuse_or_inattention"
+      ],
+      "roadMatches": [
+        "highway",
+        "other_or_unknown"
+      ],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "脱手",
+        "分心",
+        "瞌睡",
+        "犯困",
+        "疲劳驾驶",
+        "高速",
+        "辅助驾驶",
+        "自动驾驶"
+      ]
+    },
+    "review_notes": "Direct original Weibo post reviewed on 2026-09-24; ADAS relevance accepted despite negative SVM score. Incident details remain unverified.",
+    "english_description": "Wuhan traffic police reported a 23 August rollover on the Quannan Expressway in Jiangxi. The driver said they had enabled driver assistance and become drowsy before the car hit impact barrels; the vehicle brand and injury outcome were not stated.",
+    "description_en": "Wuhan traffic police reported that on 23 August 2026 a car veered left on a curve of the Quannan Expressway near Yongxin, Jiangxi, struck impact barrels at the median, rolled, and stopped on the emergency shoulder. The driver told police they had activated a driver-assistance feature and had become drowsy. The post does not identify the vehicle brand or state whether anyone was injured.",
+    "english_description_source": "human_summary_v1"
+  },
+  {
+    "id": 296,
+    "fingerprint": "a210a5af4ed4ea4a7c60785b5f39f3217e036f30eff644a799b7b9a79ef3bc3d",
+    "source_url": "https://weibo.com/3866429926/RjsSE9UCN",
+    "discovery_url": null,
+    "publisher_name": "weibo.com",
+    "source_name": "科技C先生",
+    "platform": "weibo",
+    "title": "问界M5车主称自动泊车曾剐蹭并获泊车保险赔付",
+    "title_zh": "问界M5车主称自动泊车曾剐蹭并获泊车保险赔付",
+    "title_en": "AITO M5 owner reports earlier automatic-parking scrape",
+    "title_zh_short": "问界M5车主称自动泊车曾剐蹭并获泊车保险赔付",
+    "title_en_short": "AITO M5 owner reports earlier automatic-parking scrape",
+    "content": "我的赛力斯问界M5今天赠送了智驾无忧,挺不错滴。之前我自动泊车蹭到了,就用的泊车无忧险,全额赔付了。#问界##赛力斯##AITO#",
+    "content_zh": "我的赛力斯问界M5今天赠送了智驾无忧,挺不错滴。之前我自动泊车蹭到了,就用的泊车无忧险,全额赔付了。#问界##赛力斯##AITO#",
+    "content_en": "An AITO M5 owner said their car had previously scraped something during automatic parking and that a parking insurance policy paid the claim in full. The post gives no date or location for the scrape.",
+    "summary_zh": "我的赛力斯问界M5今天赠送了智驾无忧,挺不错滴。 之前我自动泊车蹭到了,就用的泊车无忧险,全额赔付了。 #问界##赛力斯##AITO#",
+    "summary_en": "An AITO M5 owner said their car had previously scraped something during automatic parking and that a parking insurance policy paid the claim in full.  The post gives no date or location for the scrape.",
+    "author": "科技C先生",
+    "published_at": "2026-09-23T11:26:00.000Z",
+    "collected_at": "2026-09-24T08:21:02.494Z",
+    "event_date": null,
+    "brand": "Huawei ecosystem",
+    "model": "M5",
+    "cause": "unclassified",
+    "cause_confidence": 0,
+    "adas_mode": "claimed_active",
+    "road_type": "parking",
+    "severity": "unknown",
+    "province": null,
+    "city": null,
+    "injuries": null,
+    "fatalities": null,
+    "verification_status": "unverified",
+    "relevance_score": 1,
+    "labels": {
+      "brandMatches": [
+        "Huawei ecosystem"
+      ],
+      "causeMatches": [],
+      "roadMatches": [
+        "parking"
+      ],
+      "severityMatches": [],
+      "matchedKeywords": [
+        "问界",
+        "泊车"
+      ]
+    },
+    "review_notes": "Direct original Weibo post reviewed on 2026-09-24; ADAS relevance accepted despite negative SVM score. Incident details remain unverified.",
+    "english_description": "An AITO M5 owner reported an earlier scrape during automatic parking and said a parking insurance policy covered the loss. The incident date and location were not specified.",
+    "description_en": "An AITO M5 owner said their car had previously scraped something during automatic parking and that a parking insurance policy paid the claim in full. The post gives no date or location for the scrape.",
+    "english_description_source": "human_summary_v1"
+  },
+  {
     "id": 261,
     "fingerprint": "c786c56bffe32664f37e81c3ea6e3009fee8d89fbc79cc9f3cc6930db4c36332",
     "source_url": "https://k.sina.com.cn/article_7879996683_1d5af350b06801rhxo.html",
@@ -44,7 +222,12 @@
       "matchedKeywords": [
         "高速",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as an unclassified cause. The driver-assistance state is unknown. Source: k.sina.com.cn.",
@@ -95,7 +278,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "乾崑"
-      ]
+      ],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Huawei ecosystem on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: cj.sina.cn.",
@@ -148,7 +336,12 @@
         "施工",
         "辅助驾驶",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible road or weather factor. The driver-assistance state is unknown. Source: yzwb.net.",
@@ -195,7 +388,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: m.sohu.com.",
@@ -247,7 +445,12 @@
       "matchedKeywords": [
         "智界",
         "智能驾驶"
-      ]
+      ],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Huawei ecosystem on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: cj.sina.cn.",
@@ -301,7 +504,12 @@
       "matchedKeywords": [
         "蔚来",
         "撞车"
-      ]
+      ],
+      "community_relevance": "supported",
+      "community_votes": {
+        "relevant": 1,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving NIO on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: k.sina.com.cn.",
@@ -348,7 +556,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: hunan.voc.com.cn.",
@@ -400,7 +613,12 @@
       "matchedKeywords": [
         "智界",
         "乾崑"
-      ]
+      ],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Huawei ecosystem on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: cj.sina.cn.",
@@ -447,7 +665,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "supported",
+      "community_votes": {
+        "relevant": 1,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: Sohu.",
@@ -498,7 +721,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "比亚迪"
-      ]
+      ],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: cj.sina.cn.",
@@ -549,7 +777,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "乾崑"
-      ]
+      ],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Huawei ecosystem on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: cj.sina.cn.",
@@ -596,7 +829,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: cj.sina.cn.",
@@ -651,7 +889,12 @@
         "高速",
         "辅助驾驶",
         "noa"
-      ]
+      ],
+      "community_relevance": "supported",
+      "community_votes": {
+        "relevant": 1,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified Weibo headline reports that a Li Auto MEGA using NOA collided with a truck on a highway, prompting debate. The full post text was not available through the public index.",
@@ -698,7 +941,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: icswb.com.",
@@ -749,7 +997,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "乾崑"
-      ]
+      ],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Huawei ecosystem on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: cj.sina.cn.",
@@ -798,7 +1051,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: chejiahao.autohome.com.cn.",
@@ -850,7 +1108,12 @@
       "matchedKeywords": [
         "特斯拉",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: auto.news18a.com.",
@@ -902,7 +1165,12 @@
       "matchedKeywords": [
         "特斯拉",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "supported",
+      "community_votes": {
+        "relevant": 1,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: auto.news18a.com.",
@@ -957,7 +1225,12 @@
         "撞车",
         "辅助驾驶",
         "noa"
-      ]
+      ],
+      "community_relevance": "supported",
+      "community_votes": {
+        "relevant": 1,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified Weibo headline reports a crash while a man was using driver assistance in a Li Auto i8; the seller is quoted as saying NOA is Level 2 assistance. The full post text was not available through the public index.",
@@ -1004,7 +1277,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "supported",
+      "community_votes": {
+        "relevant": 1,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: news.hsw.cn.",
@@ -1056,7 +1334,12 @@
       "matchedKeywords": [
         "特斯拉",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: d1ev.com.",
@@ -1110,7 +1393,12 @@
       "matchedKeywords": [
         "撞车",
         "智驾"
-      ]
+      ],
+      "community_relevance": "supported",
+      "community_votes": {
+        "relevant": 1,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified Weibo headline reports that a Li Auto i8 was struck while driver assistance was in use; the owner says the feature was permitted on that road. The full post text was not available through the public index.",
@@ -1162,7 +1450,12 @@
       "matchedKeywords": [
         "蔚来",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving NIO on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: guandian.cn.",
@@ -1214,7 +1507,12 @@
       "matchedKeywords": [
         "道路",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: guandian.cn.",
@@ -1261,7 +1559,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: finance.sina.com.cn.",
@@ -1321,7 +1624,12 @@
         "高速公路",
         "身亡",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on a highway, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: fatal outcome. Source: moomoo.com.",
@@ -1372,7 +1680,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "xiaomi"
-      ]
+      ],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Xiaomi on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -1423,7 +1736,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "追尾"
-      ]
+      ],
+      "community_relevance": "supported",
+      "community_votes": {
+        "relevant": 1,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: weibo.com.",
@@ -1475,7 +1793,12 @@
       "matchedKeywords": [
         "特斯拉",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -1531,7 +1854,12 @@
         "受损",
         "辅助驾驶",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "supported",
+      "community_votes": {
+        "relevant": 1,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway in Henan, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: property damage. Source: weibo.com.",
@@ -1582,7 +1910,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "理想汽车"
-      ]
+      ],
+      "community_relevance": "supported",
+      "community_votes": {
+        "relevant": 1,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Li Auto on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -1635,7 +1968,12 @@
         "特斯拉",
         "fsd",
         "手动驾驶"
-      ]
+      ],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The report says driver assistance was inactive. Source: weibo.com.",
@@ -1687,7 +2025,12 @@
       "matchedKeywords": [
         "车距",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: weibo.com.",
@@ -1739,7 +2082,12 @@
       "matchedKeywords": [
         "撞车",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: weibo.com.",
@@ -1786,7 +2134,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -1842,7 +2195,12 @@
         "高速",
         "服务区",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "supported",
+      "community_votes": {
+        "relevant": 1,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: weibo.com.",
@@ -1893,7 +2251,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "乾崑"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Huawei ecosystem on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-09. Source: ttplus.cn.",
@@ -1944,7 +2307,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "乾崑"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Huawei ecosystem on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-09. Source: ttplus.cn.",
@@ -1998,7 +2366,12 @@
       "matchedKeywords": [
         "路口",
         "受伤"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an urban road, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: minor injury. Source: weibo.com.",
@@ -2054,7 +2427,12 @@
         "高速",
         "受伤",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway in Hunan, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: minor injury. Source: weibo.com.",
@@ -2112,7 +2490,12 @@
         "路口",
         "受伤",
         "人工驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Huawei ecosystem on an urban road, categorized as an unclassified cause. The report says driver assistance was inactive. Coded outcome: minor injury. Source: weibo.com.",
@@ -2164,7 +2547,12 @@
       "matchedKeywords": [
         "道路",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-09. Source: auto.sina.cn.",
@@ -2211,7 +2599,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -2268,7 +2661,12 @@
         "受伤",
         "辅助驾驶",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway in Hunan, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: minor injury. Source: weibo.com.",
@@ -2320,7 +2718,12 @@
       "matchedKeywords": [
         "道路",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-09. Source: finance.sina.com.cn.",
@@ -2372,7 +2775,12 @@
       "matchedKeywords": [
         "理想汽车",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Li Auto on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -2427,7 +2835,12 @@
         "追尾",
         "高速",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-09-09. Source: finance.sina.com.cn.",
@@ -2482,7 +2895,12 @@
         "追尾",
         "高速",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-09-09. Source: news.mydrivers.com.",
@@ -2534,7 +2952,12 @@
       "matchedKeywords": [
         "道路",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: guancha.cn.",
@@ -2581,7 +3004,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-09. Source: chejiahao.autohome.com.cn.",
@@ -2630,7 +3058,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -2682,7 +3115,12 @@
       "matchedKeywords": [
         "高速",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-09. Source: ttplus.cn.",
@@ -2729,7 +3167,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -2776,7 +3219,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-09. Source: k.sina.com.cn.",
@@ -2823,7 +3271,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-09. Source: m.sohu.com.",
@@ -2874,7 +3327,12 @@
       ],
       "matchedKeywords": [
         "受伤"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: minor injury. Source: weibo.com.",
@@ -2927,7 +3385,12 @@
         "感知",
         "障碍物",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible perception failure. The driver-assistance state is unknown. Source: weibo.com.",
@@ -2974,7 +3437,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -3021,7 +3489,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -3070,7 +3543,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-09. Source: chejiahao.autohome.com.cn.",
@@ -3119,7 +3597,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -3170,7 +3653,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "乾崑"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Huawei ecosystem on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-08. Source: ttplus.cn.",
@@ -3222,7 +3710,12 @@
       "matchedKeywords": [
         "高速",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-08. Source: m.ttplus.cn.",
@@ -3274,7 +3767,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "方向盘"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible lane or steering issue. The driver-assistance state is unknown. Report date: 2026-09-08. Source: chejiahao.m.autohome.com.cn.",
@@ -3323,7 +3821,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-08. Source: finance.sina.com.cn.",
@@ -3374,7 +3877,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "接管"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible handover issue. The driver-assistance state is unknown. Report date: 2026-09-08. Source: chejiahao.autohome.com.cn.",
@@ -3429,7 +3937,12 @@
         "特斯拉",
         "死亡",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: fatal outcome. Report date: 2026-09-08. Source: m.sohu.com.",
@@ -3476,7 +3989,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-08. Source: wap.zol.com.cn.",
@@ -3533,7 +4051,12 @@
         "小鹏",
         "追尾",
         "高速"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving XPeng on a highway, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-09-08. Source: news.sina.com.cn.",
@@ -3590,7 +4113,12 @@
         "小鹏",
         "追尾",
         "高速"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Verified report involving XPeng on a highway, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-09-08. Source: shobserver.com.",
@@ -3639,7 +4167,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-08. Source: tech.ifeng.com.",
@@ -3691,7 +4224,12 @@
       "matchedKeywords": [
         "道路",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-08. Source: finance.sina.com.cn.",
@@ -3740,7 +4278,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-08. Source: Yicai.",
@@ -3795,7 +4338,12 @@
         "特斯拉",
         "死亡",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Verified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: fatal outcome. Report date: 2026-09-08. Source: m.zhiding.cn.",
@@ -3850,7 +4398,12 @@
         "特斯拉",
         "死亡",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: fatal outcome. Report date: 2026-09-08. Source: zhiding.cn.",
@@ -3907,7 +4460,12 @@
         "小鹏",
         "追尾",
         "高速"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving XPeng on a highway, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: jfdaily.com.",
@@ -3954,7 +4512,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: finance.sina.com.cn.",
@@ -4003,7 +4566,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "智能驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-08. Source: m.sohu.com.",
@@ -4059,7 +4627,12 @@
         "model 3",
         "fsd",
         "身亡"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Verified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: fatal outcome. Report date: 2026-09-08. Source: m.cnbeta.com.tw.",
@@ -4112,7 +4685,12 @@
         "追尾",
         "辅助驾驶",
         "noa"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-09-08. Source: m.sohu.com.",
@@ -4165,7 +4743,12 @@
         "追尾",
         "辅助驾驶",
         "noa"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Verified report involving an unidentified vehicle on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-09-08. Source: chejiahao.autohome.com.cn.",
@@ -4212,7 +4795,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Verified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-08. Source: tech.ifeng.com.",
@@ -4259,7 +4847,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: mrjjxw.com.",
@@ -4319,7 +4912,12 @@
         "道路",
         "辅助驾驶",
         "noa"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Li Auto on an unspecified road in Guangdong, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: weibo.com.",
@@ -4372,7 +4970,12 @@
         "追尾",
         "辅助驾驶",
         "noa"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-09-08. Source: qdxin.cn.",
@@ -4425,7 +5028,12 @@
         "追尾",
         "辅助驾驶",
         "noa"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Verified report involving an unidentified vehicle on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-09-08. Source: m.qdxin.cn.",
@@ -4476,7 +5084,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "比亚迪"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -4534,7 +5147,12 @@
         "高速",
         "险情",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as a possible handover issue. The driver-assistance state is unknown. Coded outcome: near miss. Source: weibo.com.",
@@ -4581,7 +5199,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: m.gmw.cn.",
@@ -4628,7 +5251,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-07. Source: finance.sina.com.cn.",
@@ -4675,7 +5303,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-07. Source: chinanews.com.cn.",
@@ -4722,7 +5355,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-07. Source: chejiahao.autohome.com.cn.",
@@ -4771,7 +5409,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "开启辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The report claims driver assistance was active. Report date: 2026-09-07. Source: user.guancha.cn.",
@@ -4818,7 +5461,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-06. Source: finance.sina.com.cn.",
@@ -4869,7 +5517,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "蔚来"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving NIO on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-06. Source: chejiahao.autohome.com.cn.",
@@ -4925,7 +5578,12 @@
         "fsd",
         "接管",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on an unspecified road, categorized as a possible handover issue. The driver-assistance state is unknown. Source: weibo.com.",
@@ -4979,7 +5637,12 @@
       "matchedKeywords": [
         "特斯拉",
         "追尾"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: weibo.com.",
@@ -5031,7 +5694,12 @@
       "matchedKeywords": [
         "乾崑",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Huawei ecosystem on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-05. Source: m.ttplus.cn.",
@@ -5082,7 +5750,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "小鹏"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving XPeng on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-05. Source: chejiahao.m.autohome.com.cn.",
@@ -5134,7 +5807,12 @@
       "matchedKeywords": [
         "比亚迪",
         "智能驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-05. Source: finance.sina.cn.",
@@ -5185,7 +5863,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "乾崑"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Huawei ecosystem on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-05. Source: m.ttplus.cn.",
@@ -5232,7 +5915,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-05. Source: cj.sina.cn.",
@@ -5279,7 +5967,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-05. Source: k.sina.com.cn.",
@@ -5330,7 +6023,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "比亚迪"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-05. Source: finance.sina.com.cn.",
@@ -5382,7 +6080,12 @@
       "matchedKeywords": [
         "高速",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-05. Source: womenofchina.com.",
@@ -5434,7 +6137,12 @@
       "matchedKeywords": [
         "高速",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Verified report involving an unidentified vehicle on a highway, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-05. Source: womenofchina.com.",
@@ -5483,7 +6191,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-04. Source: chejiahao.m.autohome.com.cn.",
@@ -5534,7 +6247,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "比亚迪"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-04. Source: business.china.com.cn.",
@@ -5581,7 +6299,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -5634,7 +6357,12 @@
       "matchedKeywords": [
         "接管",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible handover issue. The driver-assistance state is unknown. Source: weibo.com.",
@@ -5686,7 +6414,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "障碍物"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible perception failure. The driver-assistance state is unknown. Source: weibo.com.",
@@ -5733,7 +6466,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -5780,7 +6518,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-03. Source: sina.cn.",
@@ -5833,7 +6576,12 @@
       "matchedKeywords": [
         "未识别",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road in Zhejiang, categorized as a possible perception failure. The driver-assistance state is unknown. Source: weibo.com.",
@@ -5884,7 +6632,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "追尾"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-09-03. Source: sina.cn.",
@@ -5936,7 +6689,12 @@
       "matchedKeywords": [
         "追尾",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-09-03. Source: sina.cn.",
@@ -5991,7 +6749,12 @@
         "追尾",
         "受伤",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Coded outcome: minor injury. Source: weibo.com.",
@@ -6040,7 +6803,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-03. Source: chejiahao.autohome.com.cn.",
@@ -6089,7 +6857,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-03. Source: news.china.com.",
@@ -6140,7 +6913,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "接管"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible handover issue. The driver-assistance state is unknown. Report date: 2026-09-02. Source: cj.sina.cn.",
@@ -6195,7 +6973,12 @@
         "广汽",
         "埃安",
         "追尾"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving GAC/Aion on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-09-02. Source: chejiahao.autohome.com.cn.",
@@ -6254,7 +7037,12 @@
         "左偏",
         "启用辅助驾驶",
         "使用辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "An unverified Weibo report says a Li Auto vehicle using driver assistance drifted across a solid line on a downhill road in Sichuan and struck an oncoming vehicle mirror. Police reportedly assigned full responsibility to the driver; the owner and automaker remained in a compensation dispute.",
@@ -6309,7 +7097,12 @@
         "理想车主",
         "撞车",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Li Auto on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: caifuhao.eastmoney.com.",
@@ -6364,7 +7157,12 @@
         "问界",
         "追尾",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Huawei ecosystem on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: weibo.com.",
@@ -6415,7 +7213,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "酒驾"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible driver-attention or misuse issue. The driver-assistance state is unknown. Source: weibo.com.",
@@ -6471,7 +7274,12 @@
         "鸿蒙智行",
         "追尾",
         "智能驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Huawei ecosystem on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: weibo.com.",
@@ -6520,7 +7328,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road in Guangdong, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-02. Source: finance.sina.com.cn.",
@@ -6569,7 +7382,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-09-01. Source: i.ifeng.com.",
@@ -6621,7 +7439,12 @@
       "matchedKeywords": [
         "受伤",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: minor injury. Source: weibo.com.",
@@ -6675,7 +7498,12 @@
         "fsd",
         "辅助驾驶",
         "noa"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -6726,7 +7554,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "比亚迪"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-31. Source: mtz.china.com.",
@@ -6773,7 +7606,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-30. Source: sina.cn.",
@@ -6824,7 +7662,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "小米su7"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Xiaomi on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-29. Source: cj.sina.cn.",
@@ -6877,7 +7720,12 @@
       "matchedKeywords": [
         "高速",
         "noa"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -6926,7 +7774,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-28. Source: auto.sina.cn.",
@@ -6975,7 +7828,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-28. Source: chejiahao.autohome.com.cn.",
@@ -7022,7 +7880,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-28. Source: m.sohu.com.",
@@ -7069,7 +7932,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-27. Source: sina.cn.",
@@ -7120,7 +7988,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "比亚迪"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-27. Source: cj.sina.cn.",
@@ -7167,7 +8040,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-27. Source: auto.sina.cn.",
@@ -7214,7 +8092,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-26. Source: chejiahao.m.autohome.com.cn.",
@@ -7265,7 +8148,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "比亚迪"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-26. Source: chejiahao.autohome.com.cn.",
@@ -7312,7 +8200,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-26. Source: car.tom.com.",
@@ -7361,7 +8254,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-26. Source: cj.sina.cn.",
@@ -7408,7 +8306,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-25. Source: d1ev.com.",
@@ -7457,7 +8360,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -7504,7 +8412,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-24. Source: news.qq.com.",
@@ -7555,7 +8468,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "比亚迪"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-24. Source: cj.sina.cn.",
@@ -7606,7 +8524,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "爆胎"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible mechanical or tire issue. The driver-assistance state is unknown. Report date: 2026-08-23. Source: cj.sina.cn.",
@@ -7658,7 +8581,12 @@
       "matchedKeywords": [
         "小米su7",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Xiaomi on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-23. Source: cj.sina.cn.",
@@ -7717,7 +8645,12 @@
         "死亡",
         "辅助驾驶",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Coded outcome: fatal outcome. Source: weibo.com.",
@@ -7777,7 +8710,12 @@
         "死亡",
         "使用辅助驾驶",
         "使用辅助驾驶ACC"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on an unspecified road in Taiwan, categorized as a possible following-distance or speed issue. The report claims driver assistance was active. Coded outcome: fatal outcome. Source: weibo.com.",
@@ -7836,7 +8774,12 @@
         "死亡",
         "辅助驾驶",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Coded outcome: fatal outcome. Source: weibo.com.",
@@ -7894,7 +8837,12 @@
         "乾崑",
         "追尾",
         "高速"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Huawei ecosystem on a highway, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-08-22. Source: news.qq.com.",
@@ -7941,7 +8889,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-22. Source: cj.sina.cn.",
@@ -7993,7 +8946,12 @@
       "matchedKeywords": [
         "高速",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Verified report involving an unidentified vehicle on a highway, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-21. Source: m.yoojia.com.",
@@ -8053,7 +9011,12 @@
         "死亡",
         "使用辅助驾驶",
         "使用辅助驾驶ACC"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "An unverified Weibo report says a Volvo using ACC struck people and vehicles stopped after an earlier collision in Miaoli, Taiwan, killing three people. The post does not establish whether ACC limitations or driver behavior caused the crash.",
@@ -8111,7 +9074,12 @@
         "乾崑",
         "追尾",
         "高速"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Verified report involving Huawei ecosystem on a highway, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-08-21. Source: qdxin.cn.",
@@ -8163,7 +9131,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "分心"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible driver-attention or misuse issue. The driver-assistance state is unknown. Report date: 2026-08-20. Source: news.china.com.",
@@ -8215,7 +9188,12 @@
       "matchedKeywords": [
         "高速",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-19. Source: news.qq.com.",
@@ -8266,7 +9244,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "施工"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible road or weather factor. The driver-assistance state is unknown. Report date: 2026-08-19. Source: m.mydrivers.com.",
@@ -8313,7 +9296,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-18. Source: cbgc.scol.com.cn.",
@@ -8360,7 +9348,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-18. Source: jfdaily.com.",
@@ -8407,7 +9400,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-18. Source: bjnews.com.cn.",
@@ -8459,7 +9457,12 @@
       "matchedKeywords": [
         "高速",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Verified report involving an unidentified vehicle on a highway, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-17. Source: m.sohu.com.",
@@ -8508,7 +9511,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-17. Source: d1ev.com.",
@@ -8555,7 +9563,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-16. Source: cj.sina.cn.",
@@ -8607,7 +9620,12 @@
       "matchedKeywords": [
         "泊车",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a parking area, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-15. Source: cj.sina.cn.",
@@ -8657,7 +9675,12 @@
       "matchedKeywords": [
         "辅助驾驶",
         "智能驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-14. Source: news.china.com.",
@@ -8706,7 +9729,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-14. Source: news.17173.com.",
@@ -8755,7 +9783,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-14. Source: m.thecover.cn.",
@@ -8807,7 +9840,12 @@
       "matchedKeywords": [
         "特斯拉",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -8854,7 +9892,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-13. Source: m.ce.cn.",
@@ -8903,7 +9946,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-11. Source: auto.sina.cn.",
@@ -8950,7 +9998,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-10. Source: auto.ifeng.com.",
@@ -9001,7 +10054,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "比亚迪"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-09. Source: auto.sina.cn.",
@@ -9048,7 +10106,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-08. Source: Sohu.",
@@ -9095,7 +10158,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-08-06. Source: auto.sina.cn.",
@@ -9150,7 +10218,12 @@
       "matchedKeywords": [
         "睡着",
         "高速"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as a possible driver-attention or misuse issue. The driver-assistance state is unknown. Report date: 2026-08-01. Source: finance.sina.com.cn.",
@@ -9197,7 +10270,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-07-30. Source: xinwen.bjd.com.cn.",
@@ -9244,7 +10322,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-07-28. Source: hnzf.gov.cn.",
@@ -9293,7 +10376,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-07-24. Source: auto.sina.cn.",
@@ -9340,7 +10428,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-07-24. Source: auto.sina.cn.",
@@ -9387,7 +10480,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-07-21. Source: user.guancha.cn.",
@@ -9434,7 +10532,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-07-21. Source: finance.sina.com.cn.",
@@ -9485,7 +10588,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "蔚来"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving NIO on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-07-13. Source: auto.news18a.com.",
@@ -9538,7 +10646,12 @@
       "matchedKeywords": [
         "小鹏",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving XPeng on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -9587,7 +10700,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-07-06. Source: tidenews.com.cn.",
@@ -9639,7 +10757,12 @@
       "matchedKeywords": [
         "比亚迪",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-07-06. Source: sina.cn.",
@@ -9688,7 +10811,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-07-02. Source: user.guancha.cn.",
@@ -9735,7 +10863,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road in Hubei, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-07-01. Source: ipivot.hubeidaily.net.",
@@ -9782,7 +10915,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road in Hubei, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-07-01. Source: news.hubeidaily.net.",
@@ -9834,7 +10972,12 @@
       "matchedKeywords": [
         "比亚迪",
         "智能驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-27. Source: auto.news18a.com.",
@@ -9883,7 +11026,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-26. Source: car.tom.com.",
@@ -9936,7 +11084,12 @@
         "特斯拉",
         "fsd",
         "autopilot"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-26. Source: auto.news18a.com.",
@@ -9993,7 +11146,12 @@
         "高速",
         "辅助驾驶",
         "noa"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as a possible perception failure. The driver-assistance state is unknown. Source: weibo.com.",
@@ -10040,7 +11198,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-24. Source: auto.ifeng.com.",
@@ -10091,7 +11254,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "比亚迪"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-23. Source: finance.sina.com.cn.",
@@ -10146,7 +11314,12 @@
       "matchedKeywords": [
         "乾崑",
         "高速"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Huawei ecosystem on a highway, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-23. Source: eet-china.com.",
@@ -10193,7 +11366,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-23. Source: shobserver.com.",
@@ -10249,7 +11427,12 @@
         "tesla",
         "致死",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: fatal outcome. Report date: 2026-06-23. Source: cnbeta.com.tw.",
@@ -10296,7 +11479,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-23. Source: finance.sina.com.cn.",
@@ -10348,7 +11536,12 @@
       "matchedKeywords": [
         "特斯拉",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-23. Source: Sohu.",
@@ -10403,7 +11596,12 @@
         "特斯拉",
         "致死",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: fatal outcome. Report date: 2026-06-23. Source: Sohu.",
@@ -10454,7 +11652,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "比亚迪"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-22. Source: eet-china.com.",
@@ -10506,7 +11709,12 @@
       "matchedKeywords": [
         "乾崑",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Huawei ecosystem on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-22. Source: cls.cn.",
@@ -10557,7 +11765,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "理想l"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Li Auto on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-21. Source: Sohu.",
@@ -10608,7 +11821,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "比亚迪"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-17. Source: static.weeklyonstock.com.",
@@ -10660,7 +11878,12 @@
       "matchedKeywords": [
         "高速",
         "开启辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as an unclassified cause. The report claims driver assistance was active. Report date: 2026-06-17. Source: guancha.cn.",
@@ -10711,7 +11934,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "接管"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible handover issue. The driver-assistance state is unknown. Report date: 2026-06-16. Source: user.guancha.cn.",
@@ -10762,7 +11990,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "高速"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-16. Source: auto.cnr.cn.",
@@ -10809,7 +12042,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-09. Source: news.qq.com.",
@@ -10858,7 +12096,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -10913,7 +12156,12 @@
         "撞车",
         "匝道",
         "noa"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Source: weibo.com.",
@@ -10960,7 +12208,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-06. Source: mycaijing.com.",
@@ -11013,7 +12266,12 @@
         "比亚迪",
         "辅助驾驶",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-04. Source: itheat.com.",
@@ -11068,7 +12326,12 @@
         "长安",
         "追尾",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Changan on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-06-04. Source: user.guancha.cn.",
@@ -11120,7 +12383,12 @@
       "matchedKeywords": [
         "比亚迪",
         "noa"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-03. Source: auto.news18a.com.",
@@ -11172,7 +12440,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "比亚迪"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-03. Source: auto.news18a.com.",
@@ -11223,7 +12496,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "追尾"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-06-03. Source: auto.hangzhou.com.cn.",
@@ -11275,7 +12553,12 @@
       "matchedKeywords": [
         "死亡",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: fatal outcome. Report date: 2026-06-03. Source: finance.sina.cn.",
@@ -11326,7 +12609,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "比亚迪"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-02. Source: donews.com.",
@@ -11380,7 +12668,12 @@
       "matchedKeywords": [
         "长安",
         "脱手"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Changan on an unspecified road, categorized as a possible driver-attention or misuse issue. The driver-assistance state is unknown. Report date: 2026-06-02. Source: guancha.cn.",
@@ -11438,7 +12731,12 @@
         "长安",
         "障碍物",
         "身亡"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Changan on an unspecified road, categorized as a possible perception failure. The driver-assistance state is unknown. Coded outcome: fatal outcome. Report date: 2026-06-02. Source: nbd.com.cn.",
@@ -11497,7 +12795,12 @@
         "脱手",
         "遇难",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Changan on an unspecified road, categorized as a possible driver-attention or misuse issue. The driver-assistance state is unknown. Coded outcome: fatal outcome. Report date: 2026-06-02. Source: news.mydrivers.com.",
@@ -11548,7 +12851,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "长安"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Changan on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-02. Source: Sohu.",
@@ -11604,7 +12912,12 @@
         "制动失灵",
         "辅助驾驶",
         "noa"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving SAIC on an unspecified road, categorized as a possible mechanical or tire issue. The driver-assistance state is unknown. Source: weibo.com.",
@@ -11656,7 +12969,12 @@
       "matchedKeywords": [
         "比亚迪",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: xinhuanet.com.",
@@ -11705,7 +13023,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-01. Source: view.inews.qq.com.",
@@ -11760,7 +13083,12 @@
         "长安",
         "追尾",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Changan on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-06-01. Source: news.mydrivers.com.",
@@ -11814,7 +13142,12 @@
         "方向盘",
         "辅助驾驶",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible lane or steering issue. The driver-assistance state is unknown. Report date: 2026-06-01. Source: finance.sina.cn.",
@@ -11866,7 +13199,12 @@
       "matchedKeywords": [
         "比亚迪",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-06-01. Source: app.xinhuanet.com.",
@@ -11921,7 +13259,12 @@
         "长安",
         "追尾",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Changan on an unspecified road, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-06-01. Source: wap.eastmoney.com.",
@@ -11973,7 +13316,12 @@
       "matchedKeywords": [
         "比亚迪",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-05-31. Source: xinwen.bjd.com.cn.",
@@ -12027,7 +13375,12 @@
       "matchedKeywords": [
         "方向盘",
         "身亡"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible lane or steering issue. The driver-assistance state is unknown. Coded outcome: fatal outcome. Report date: 2026-05-31. Source: finance.eastmoney.com.",
@@ -12084,7 +13437,12 @@
         "方向盘",
         "高速",
         "身亡"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as a possible lane or steering issue. The driver-assistance state is unknown. Coded outcome: fatal outcome. Report date: 2026-05-31. Source: m.gmw.cn.",
@@ -12136,7 +13494,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "方向盘"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible lane or steering issue. The driver-assistance state is unknown. Report date: 2026-05-31. Source: mil.sina.cn.",
@@ -12187,7 +13550,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "长安"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Changan on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-05-31. Source: finance.sina.com.cn.",
@@ -12238,7 +13606,12 @@
       ],
       "matchedKeywords": [
         "死亡"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: fatal outcome. Report date: 2026-05-31. Source: eet-china.com.",
@@ -12294,7 +13667,12 @@
         "长安",
         "脱手",
         "开启辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Changan on an unspecified road, categorized as a possible driver-attention or misuse issue. The report claims driver assistance was active. Report date: 2026-05-30. Source: jinantimes.com.cn.",
@@ -12350,7 +13728,12 @@
         "长安",
         "脱手",
         "开启辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Changan on an unspecified road, categorized as a possible driver-attention or misuse issue. The report claims driver assistance was active. Report date: 2026-05-30. Source: news.qq.com.",
@@ -12406,7 +13789,12 @@
         "长安",
         "脱手",
         "开启辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Changan on an unspecified road, categorized as a possible driver-attention or misuse issue. The report claims driver assistance was active. Report date: 2026-05-30. Source: i.ifeng.com.",
@@ -12462,7 +13850,12 @@
         "长安",
         "感知",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Changan on an unspecified road, categorized as a possible perception failure. The driver-assistance state is unknown. Report date: 2026-05-30. Source: Sohu.",
@@ -12511,7 +13904,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "noa"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Source: weibo.com.",
@@ -12563,7 +13961,12 @@
       "matchedKeywords": [
         "比亚迪",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving BYD on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-05-29. Source: stcn.com.",
@@ -12619,7 +14022,12 @@
         "睡着",
         "高速",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as a possible driver-attention or misuse issue. The driver-assistance state is unknown. Report date: 2026-05-06. Source: finance.sina.com.cn.",
@@ -12674,7 +14082,12 @@
         "超速",
         "道路",
         "开启辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road in Shanghai, categorized as a possible following-distance or speed issue. The report claims driver assistance was active. Report date: 2026-04-28. Source: Sohu.",
@@ -12727,7 +14140,12 @@
       "matchedKeywords": [
         "分心",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible driver-attention or misuse issue. The driver-assistance state is unknown. Report date: 2026-04-28. Source: sznews.com.",
@@ -12782,7 +14200,12 @@
         "超速",
         "道路",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road in Shanghai, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-04-27. Source: Sohu.",
@@ -12837,7 +14260,12 @@
         "超速",
         "道路",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road in Shanghai, categorized as a possible following-distance or speed issue. The driver-assistance state is unknown. Report date: 2026-04-27. Source: shobserver.cn.",
@@ -12887,7 +14315,12 @@
       "matchedKeywords": [
         "辅助驾驶",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road in Shanghai, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-04-27. Source: news.mydrivers.com.",
@@ -12939,7 +14372,12 @@
       "matchedKeywords": [
         "高速",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on a highway, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-04-25. Source: finance.sina.com.cn.",
@@ -12988,7 +14426,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-04-19. Source: static.nfnews.com.",
@@ -13035,7 +14478,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-04-19. Source: 21jingji.com.",
@@ -13084,7 +14532,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-04-17. Source: news.qq.com.",
@@ -13131,7 +14584,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-04-08. Source: m-new.inabr.com.",
@@ -13178,7 +14636,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-04-07. Source: Sohu.",
@@ -13225,7 +14688,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-04-03. Source: caam.org.cn.",
@@ -13272,7 +14740,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road in Beijing, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-04-01. Source: 21jingji.com.",
@@ -13319,7 +14792,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road in Beijing, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-03-30. Source: 21jingji.com.",
@@ -13368,7 +14846,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "智能驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-03-15. Source: Sohu.",
@@ -13415,7 +14898,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-03-11. Source: mp.ofweek.com.",
@@ -13462,7 +14950,12 @@
       "causeMatches": [],
       "roadMatches": [],
       "severityMatches": [],
-      "matchedKeywords": []
+      "matchedKeywords": [],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-03-05. Source: auto.news18a.com.",
@@ -13511,7 +15004,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-03-03. Source: news.cnr.cn.",
@@ -13566,7 +15064,12 @@
         "特斯拉",
         "致死",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Coded outcome: fatal outcome. Report date: 2026-02-21. Source: Sohu.",
@@ -13615,7 +15118,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-02-09. Source: aikahao.xcar.com.cn.",
@@ -13666,7 +15174,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "理想l"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Li Auto on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-01-30. Source: ifnews.com.",
@@ -13715,7 +15228,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-01-20. Source: mtz.china.com.",
@@ -13767,7 +15285,12 @@
       "matchedKeywords": [
         "阿维塔",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Changan on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-01-17. Source: guancha.cn.",
@@ -13819,7 +15342,12 @@
       "matchedKeywords": [
         "阿维塔",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Changan on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-01-17. Source: donews.com.",
@@ -13871,7 +15399,12 @@
       "matchedKeywords": [
         "阿维塔",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Changan on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-01-17. Source: cls.cn.",
@@ -13920,7 +15453,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2026-01-13. Source: app.xinhuanet.com.",
@@ -13972,7 +15510,12 @@
       "matchedKeywords": [
         "睡着",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road in Hunan, categorized as a possible driver-attention or misuse issue. The driver-assistance state is unknown. Report date: 2026-01-09. Source: user.guancha.cn.",
@@ -14024,7 +15567,12 @@
       "matchedKeywords": [
         "小米su7",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Xiaomi on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2025-12-24. Source: cn.nytimes.com.",
@@ -14073,7 +15621,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2025-12-01. Source: news.cn.",
@@ -14124,7 +15677,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "误用"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as a possible driver-attention or misuse issue. The driver-assistance state is unknown. Report date: 2025-11-25. Source: mp.m.ofweek.com.",
@@ -14176,7 +15734,12 @@
       "matchedKeywords": [
         "问界",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Huawei ecosystem on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2025-11-24. Source: cj.sina.cn.",
@@ -14228,7 +15791,12 @@
       "matchedKeywords": [
         "问界",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Huawei ecosystem on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2025-11-23. Source: car.tom.com.",
@@ -14277,7 +15845,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2025-10-19. Source: guancha.cn.",
@@ -14326,7 +15899,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2025-10-19. Source: finance.ifeng.com.",
@@ -14375,7 +15953,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "开启辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The report claims driver assistance was active. Report date: 2025-10-14. Source: guancha.cn.",
@@ -14424,7 +16007,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2025-10-10. Source: mp.ofweek.com.",
@@ -14474,7 +16062,12 @@
       "matchedKeywords": [
         "辅助驾驶",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2025-10-07. Source: pub-zhtb.hizh.cn.",
@@ -14526,7 +16119,12 @@
       "matchedKeywords": [
         "特斯拉",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2025-08-02. Source: stcn.com.",
@@ -14575,7 +16173,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2025-05-21. Source: m.bjnews.com.cn.",
@@ -14629,7 +16232,12 @@
       "matchedKeywords": [
         "小米su7",
         "路段"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Xiaomi on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2025-04-05. Source: xhby.net.",
@@ -14681,7 +16289,12 @@
       "matchedKeywords": [
         "小米su7",
         "智能驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Xiaomi on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2025-04-03. Source: zqb.cyol.com.",
@@ -14733,7 +16346,12 @@
       "matchedKeywords": [
         "小米su7",
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Xiaomi on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2025-04-02. Source: cn.nytimes.com.",
@@ -14785,7 +16403,12 @@
       "matchedKeywords": [
         "特斯拉",
         "fsd"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving Tesla on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2025-02-14. Source: guancha.cn.",
@@ -14834,7 +16457,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "智能驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2022-09-20. Source: legaldaily.com.cn.",
@@ -14883,7 +16511,12 @@
       "severityMatches": [],
       "matchedKeywords": [
         "辅助驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": null,
     "english_description": "Unverified report involving an unidentified vehicle on an unspecified road, categorized as an unclassified cause. The driver-assistance state is unknown. Report date: 2022-08-24. Source: m.bjnews.com.cn.",
