@@ -54,7 +54,12 @@
         "受损",
         "反光镜损毁",
         "漆面刮伤"
-      ]
+      ],
+      "community_relevance": "supported",
+      "community_votes": {
+        "relevant": 1,
+        "not_relevant": 0
+      }
     },
     "review_notes": "Direct original Weibo post reviewed on 2026-09-24; ADAS relevance accepted despite negative SVM score. Incident details remain unverified.",
     "english_description": "Car Quality Network reported a NIO ES6 parking-assist collision with a garage pillar that damaged a mirror and paint. The incident date and location were not given.",
@@ -116,7 +121,12 @@
         "高速",
         "辅助驾驶",
         "自动驾驶"
-      ]
+      ],
+      "community_relevance": "undecided",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 0
+      }
     },
     "review_notes": "Direct original Weibo post reviewed on 2026-09-24; ADAS relevance accepted despite negative SVM score. Incident details remain unverified.",
     "english_description": "Wuhan traffic police reported a 23 August rollover on the Quannan Expressway in Jiangxi. The driver said they had enabled driver assistance and become drowsy before the car hit impact barrels; the vehicle brand and injury outcome were not stated.",
@@ -170,7 +180,12 @@
       "matchedKeywords": [
         "问界",
         "泊车"
-      ]
+      ],
+      "community_relevance": "rejected",
+      "community_votes": {
+        "relevant": 0,
+        "not_relevant": 1
+      }
     },
     "review_notes": "Direct original Weibo post reviewed on 2026-09-24; ADAS relevance accepted despite negative SVM score. Incident details remain unverified.",
     "english_description": "An AITO M5 owner reported an earlier scrape during automatic parking and said a parking insurance policy covered the loss. The incident date and location were not specified.",
@@ -2252,10 +2267,10 @@
       "matchedKeywords": [
         "乾崑"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "rejected",
       "community_votes": {
         "relevant": 0,
-        "not_relevant": 0
+        "not_relevant": 1
       }
     },
     "review_notes": null,
@@ -2308,10 +2323,10 @@
       "matchedKeywords": [
         "乾崑"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "rejected",
       "community_votes": {
         "relevant": 0,
-        "not_relevant": 0
+        "not_relevant": 1
       }
     },
     "review_notes": null,
@@ -2367,10 +2382,10 @@
         "路口",
         "受伤"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "rejected",
       "community_votes": {
         "relevant": 0,
-        "not_relevant": 0
+        "not_relevant": 1
       }
     },
     "review_notes": null,
@@ -2428,9 +2443,9 @@
         "受伤",
         "辅助驾驶"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "supported",
       "community_votes": {
-        "relevant": 0,
+        "relevant": 1,
         "not_relevant": 0
       }
     },
@@ -2491,9 +2506,9 @@
         "受伤",
         "人工驾驶"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "supported",
       "community_votes": {
-        "relevant": 0,
+        "relevant": 1,
         "not_relevant": 0
       }
     },
@@ -2548,9 +2563,9 @@
         "道路",
         "辅助驾驶"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "supported",
       "community_votes": {
-        "relevant": 0,
+        "relevant": 1,
         "not_relevant": 0
       }
     },
@@ -2600,10 +2615,10 @@
       "roadMatches": [],
       "severityMatches": [],
       "matchedKeywords": [],
-      "community_relevance": "undecided",
+      "community_relevance": "rejected",
       "community_votes": {
         "relevant": 0,
-        "not_relevant": 0
+        "not_relevant": 1
       }
     },
     "review_notes": null,
@@ -2662,9 +2677,9 @@
         "辅助驾驶",
         "自动驾驶"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "supported",
       "community_votes": {
-        "relevant": 0,
+        "relevant": 1,
         "not_relevant": 0
       }
     },
@@ -2719,9 +2734,9 @@
         "道路",
         "辅助驾驶"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "supported",
       "community_votes": {
-        "relevant": 0,
+        "relevant": 1,
         "not_relevant": 0
       }
     },
@@ -2776,10 +2791,10 @@
         "理想汽车",
         "辅助驾驶"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "rejected",
       "community_votes": {
         "relevant": 0,
-        "not_relevant": 0
+        "not_relevant": 1
       }
     },
     "review_notes": null,
@@ -2836,9 +2851,9 @@
         "高速",
         "辅助驾驶"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "supported",
       "community_votes": {
-        "relevant": 0,
+        "relevant": 1,
         "not_relevant": 0
       }
     },
@@ -2896,9 +2911,9 @@
         "高速",
         "辅助驾驶"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "supported",
       "community_votes": {
-        "relevant": 0,
+        "relevant": 1,
         "not_relevant": 0
       }
     },
@@ -2953,9 +2968,9 @@
         "道路",
         "辅助驾驶"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "supported",
       "community_votes": {
-        "relevant": 0,
+        "relevant": 1,
         "not_relevant": 0
       }
     },
@@ -3005,10 +3020,10 @@
       "roadMatches": [],
       "severityMatches": [],
       "matchedKeywords": [],
-      "community_relevance": "undecided",
+      "community_relevance": "rejected",
       "community_votes": {
         "relevant": 0,
-        "not_relevant": 0
+        "not_relevant": 1
       }
     },
     "review_notes": null,
@@ -3059,9 +3074,9 @@
       "matchedKeywords": [
         "辅助驾驶"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "supported",
       "community_votes": {
-        "relevant": 0,
+        "relevant": 1,
         "not_relevant": 0
       }
     },
@@ -3116,10 +3131,10 @@
         "高速",
         "自动驾驶"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "rejected",
       "community_votes": {
         "relevant": 0,
-        "not_relevant": 0
+        "not_relevant": 1
       }
     },
     "review_notes": null,
@@ -3168,10 +3183,10 @@
       "roadMatches": [],
       "severityMatches": [],
       "matchedKeywords": [],
-      "community_relevance": "undecided",
+      "community_relevance": "rejected",
       "community_votes": {
         "relevant": 0,
-        "not_relevant": 0
+        "not_relevant": 1
       }
     },
     "review_notes": null,
@@ -3220,10 +3235,10 @@
       "roadMatches": [],
       "severityMatches": [],
       "matchedKeywords": [],
-      "community_relevance": "undecided",
+      "community_relevance": "rejected",
       "community_votes": {
         "relevant": 0,
-        "not_relevant": 0
+        "not_relevant": 1
       }
     },
     "review_notes": null,
@@ -3272,10 +3287,10 @@
       "roadMatches": [],
       "severityMatches": [],
       "matchedKeywords": [],
-      "community_relevance": "undecided",
+      "community_relevance": "rejected",
       "community_votes": {
         "relevant": 0,
-        "not_relevant": 0
+        "not_relevant": 1
       }
     },
     "review_notes": null,
@@ -3328,10 +3343,10 @@
       "matchedKeywords": [
         "受伤"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "rejected",
       "community_votes": {
         "relevant": 0,
-        "not_relevant": 0
+        "not_relevant": 1
       }
     },
     "review_notes": null,
@@ -3386,10 +3401,10 @@
         "障碍物",
         "辅助驾驶"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "rejected",
       "community_votes": {
         "relevant": 0,
-        "not_relevant": 0
+        "not_relevant": 1
       }
     },
     "review_notes": null,
@@ -3438,9 +3453,9 @@
       "roadMatches": [],
       "severityMatches": [],
       "matchedKeywords": [],
-      "community_relevance": "undecided",
+      "community_relevance": "supported",
       "community_votes": {
-        "relevant": 0,
+        "relevant": 1,
         "not_relevant": 0
       }
     },
@@ -3490,10 +3505,10 @@
       "roadMatches": [],
       "severityMatches": [],
       "matchedKeywords": [],
-      "community_relevance": "undecided",
+      "community_relevance": "rejected",
       "community_votes": {
         "relevant": 0,
-        "not_relevant": 0
+        "not_relevant": 1
       }
     },
     "review_notes": null,
@@ -3544,10 +3559,10 @@
       "matchedKeywords": [
         "辅助驾驶"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "rejected",
       "community_votes": {
         "relevant": 0,
-        "not_relevant": 0
+        "not_relevant": 1
       }
     },
     "review_notes": null,
@@ -3598,10 +3613,10 @@
       "matchedKeywords": [
         "自动驾驶"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "rejected",
       "community_votes": {
         "relevant": 0,
-        "not_relevant": 0
+        "not_relevant": 1
       }
     },
     "review_notes": null,
@@ -3654,10 +3669,10 @@
       "matchedKeywords": [
         "乾崑"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "rejected",
       "community_votes": {
         "relevant": 0,
-        "not_relevant": 0
+        "not_relevant": 1
       }
     },
     "review_notes": null,
@@ -3711,10 +3726,10 @@
         "高速",
         "自动驾驶"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "rejected",
       "community_votes": {
         "relevant": 0,
-        "not_relevant": 0
+        "not_relevant": 1
       }
     },
     "review_notes": null,
@@ -3768,9 +3783,9 @@
       "matchedKeywords": [
         "方向盘"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "supported",
       "community_votes": {
-        "relevant": 0,
+        "relevant": 1,
         "not_relevant": 0
       }
     },
@@ -3822,10 +3837,10 @@
       "matchedKeywords": [
         "辅助驾驶"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "rejected",
       "community_votes": {
         "relevant": 0,
-        "not_relevant": 0
+        "not_relevant": 1
       }
     },
     "review_notes": null,
@@ -3878,10 +3893,10 @@
       "matchedKeywords": [
         "接管"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "rejected",
       "community_votes": {
         "relevant": 0,
-        "not_relevant": 0
+        "not_relevant": 1
       }
     },
     "review_notes": null,
@@ -3938,9 +3953,9 @@
         "死亡",
         "自动驾驶"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "supported",
       "community_votes": {
-        "relevant": 0,
+        "relevant": 1,
         "not_relevant": 0
       }
     },
@@ -3990,9 +4005,9 @@
       "roadMatches": [],
       "severityMatches": [],
       "matchedKeywords": [],
-      "community_relevance": "undecided",
+      "community_relevance": "supported",
       "community_votes": {
-        "relevant": 0,
+        "relevant": 1,
         "not_relevant": 0
       }
     },
@@ -4052,9 +4067,9 @@
         "追尾",
         "高速"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "supported",
       "community_votes": {
-        "relevant": 0,
+        "relevant": 1,
         "not_relevant": 0
       }
     },
@@ -4114,9 +4129,9 @@
         "追尾",
         "高速"
       ],
-      "community_relevance": "undecided",
+      "community_relevance": "supported",
       "community_votes": {
-        "relevant": 0,
+        "relevant": 1,
         "not_relevant": 0
       }
     },
