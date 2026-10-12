@@ -1,0 +1,3 @@
+# Project defaults for the primary Codex agent.
+model = "gpt-6-luna"
+model_reasoning_effort = "medium"
